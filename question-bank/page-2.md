@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**JP Morgan Chase**|[Design a Role-Based Token Authorization Platform](https://www.fastprep.io/system-design/role-based-token-authorization-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/role-based-token-authorization-platform)|Aug 24, 2026|
 |**Amazon / Headway**|[Design a Product and Profile Image Upload Service](https://www.fastprep.io/system-design/seller-product-image-upload-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/seller-product-image-upload-service)|Aug 24, 2026|
 |**Visa**|[Design an E-Commerce Top-Spender Query](https://www.fastprep.io/system-design/ecommerce-top-spender-query-design)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ecommerce-top-spender-query-design)|Aug 24, 2026|
 |**Amazon / Meta**|[Design an Online Coding Practice Platform](https://www.fastprep.io/system-design/online-coding-practice-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/online-coding-practice-platform)|Aug 24, 2026|
@@ -552,7 +553,7 @@
 |**Amazon**|[Design an Online Code Compiler](https://www.fastprep.io/system-design/online-code-compiler)|System design|[![Practice][p]](https://www.fastprep.io/system-design/online-code-compiler)|Jul 05, 2026|
 |**Amazon**|[Permutation Sorter](https://www.fastprep.io/problems/amazon-permutation-sorter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-permutation-sorter)|Jul 03, 2026|
 |**Amazon**|[Get Max Servers](https://www.fastprep.io/problems/amazon-find-maximum-number-of-servers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-maximum-number-of-servers)|Jul 03, 2026|
-|**McKinsey**|[Predicting the S&P 500 Index](https://www.fastprep.io/problems/mckinsey-predicting-the-sp-500-index)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mckinsey-predicting-the-sp-500-index)|Jul 03, 2026|
+|**McKinsey & Company**|[Predicting the S&P 500 Index](https://www.fastprep.io/problems/mckinsey-predicting-the-sp-500-index)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mckinsey-predicting-the-sp-500-index)|Jul 03, 2026|
 |**QRT**|[Array Nullification](https://www.fastprep.io/problems/qrt-array-nullification)|Coding|[![Practice][p]](https://www.fastprep.io/problems/qrt-array-nullification)|Jul 03, 2026|
 |**QRT**|[Keep Them Apart](https://www.fastprep.io/problems/qrt-keep-them-apart)|Coding|[![Practice][p]](https://www.fastprep.io/problems/qrt-keep-them-apart)|Jul 03, 2026|
 |**Snowflake**|[Minimum Height](https://www.fastprep.io/problems/snowflake-minimum-height)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-minimum-height)|Jul 03, 2026|
@@ -573,7 +574,7 @@
 |**Google**|[Partition Into K Subarrays With Sum at Least X](https://www.fastprep.io/problems/google-partition-into-k-subarrays-minimum-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-partition-into-k-subarrays-minimum-sum)|Jun 30, 2026|
 |**Amazon**|[Frequently Bought Together](https://www.fastprep.io/problems/amazon-frequently-bought-together)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-frequently-bought-together)|Jun 29, 2026|
 |**Amazon**|[Souvenir Shop Purchases](https://www.fastprep.io/problems/amazon-souvenir-shop-purchases)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-souvenir-shop-purchases)|Jun 29, 2026|
-|**McKinsey**|[Count Repeated Request IDs](https://www.fastprep.io/problems/mckinsey-count-repeated-request-ids)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mckinsey-count-repeated-request-ids)|Jun 29, 2026|
+|**McKinsey & Company**|[Count Repeated Request IDs](https://www.fastprep.io/problems/mckinsey-count-repeated-request-ids)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mckinsey-count-repeated-request-ids)|Jun 29, 2026|
 |**Salesforce**|[Final Pod Counts After Logs](https://www.fastprep.io/problems/salesforce-final-pod-counts-after-logs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-final-pod-counts-after-logs)|Jun 29, 2026|
 |**Salesforce**|[Minimum Removals to Balance Array](https://www.fastprep.io/problems/salesforce-minimum-removals-to-balance-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimum-removals-to-balance-array)|Jun 29, 2026|
 |**Uber**|[Minimum Operations To Reduce To Zero](https://www.fastprep.io/problems/uber-minimum-operations-to-reduce-to-zero)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-operations-to-reduce-to-zero)|Jun 29, 2026|
@@ -1796,6 +1797,4 @@
 |**Akuna**|[Min Operations](https://www.fastprep.io/problems/akuna-minimal-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-minimal-operations)|Aug 07, 2024|
 |**Akuna**|[Maximize Segregation Cost](https://www.fastprep.io/problems/akuna-maximize-segregation-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-maximize-segregation-cost)|Aug 06, 2024|
 |**BNY Mellon**|[Count Subsequences](https://www.fastprep.io/problems/bnymellon-count-subsequences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bnymellon-count-subsequences)|Aug 06, 2024|
-|**BNY Mellon**|[Dig Sum](https://www.fastprep.io/problems/bnymellon-ways-to-choose-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bnymellon-ways-to-choose-sum)|Aug 06, 2024|
-|**Amazon**|[Process Queries On Cart](https://www.fastprep.io/problems/amazon-process-queries-on-cart)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-process-queries-on-cart)|Aug 05, 2024|
 <a id="bottom"></a>
