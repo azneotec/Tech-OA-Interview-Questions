@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,541 questions**
+**3,542 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -41,6 +41,7 @@
 |**Intuit**|[Longest Repeated Letter Block with Adjacent Swaps](https://www.fastprep.io/problems/intuit-longest-repeated-block-adjacent-swaps)|[![Practice][p]](https://www.fastprep.io/problems/intuit-longest-repeated-block-adjacent-swaps)|🔥 Oct 14, 2026|
 |**Intuit**|[Two Tribes from Taller-Person Counts](https://www.fastprep.io/problems/intuit-two-tribes-taller-count-assignments)|[![Practice][p]](https://www.fastprep.io/problems/intuit-two-tribes-taller-count-assignments)|🔥 Oct 14, 2026|
 |**Optiver**|[Power Cell Bank](https://www.fastprep.io/problems/optiver-power-cell-bank)|[![Practice][p]](https://www.fastprep.io/problems/optiver-power-cell-bank)|🔥 Oct 14, 2026|
+|**Akuna Capital**|[Rolling Metrics](https://www.fastprep.io/problems/akuna-rolling-metrics)|[![Practice][p]](https://www.fastprep.io/problems/akuna-rolling-metrics)|🔥 Oct 14, 2026|
 |**Google**|[Count Enclosed Freshwater Regions](https://www.fastprep.io/problems/google-count-enclosed-freshwater-regions)|[![Practice][p]](https://www.fastprep.io/problems/google-count-enclosed-freshwater-regions)|🔥 Oct 13, 2026|
 |**Google**|[Path Leaf Character Iterator](https://www.fastprep.io/problems/google-path-leaf-character-iterator)|[![Practice][p]](https://www.fastprep.io/problems/google-path-leaf-character-iterator)|🔥 Oct 13, 2026|
 |**Google**|[Merge Hierarchical Trees by Name](https://www.fastprep.io/problems/google-merge-hierarchical-trees-by-name)|[![Practice][p]](https://www.fastprep.io/problems/google-merge-hierarchical-trees-by-name)|🔥 Oct 13, 2026|
@@ -1823,5 +1824,4 @@
 |**WhatNot**|[Validate Rows and Columns](https://www.fastprep.io/problems/whatnot-validate-row-column-grid)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-validate-row-column-grid)|Mar 01, 2026|
 |**Google**|[All Long Subsequences Are Dictionary Words](https://www.fastprep.io/problems/google-all-long-subsequences-are-words)|[![Practice][p]](https://www.fastprep.io/problems/google-all-long-subsequences-are-words)|Feb 28, 2026|
 |**Google**|[Frequency-Weighted Next-Word Sampling](https://www.fastprep.io/problems/google-frequency-weighted-next-word-sampling)|[![Practice][p]](https://www.fastprep.io/problems/google-frequency-weighted-next-word-sampling)|Feb 28, 2026|
-|**Google**|[Select First or Last K Stream Words](https://www.fastprep.io/problems/google-select-first-or-last-k-stream-words)|[![Practice][p]](https://www.fastprep.io/problems/google-select-first-or-last-k-stream-words)|Feb 28, 2026|
 <a id="bottom"></a>

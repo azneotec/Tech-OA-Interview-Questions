@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,541)](formats/coding.md) · [SQL (75)](formats/sql.md) · [System design (588)](formats/system-design.md) · [Low-level design (175)](formats/low-level-design.md) · [AI coding (81)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,542)](formats/coding.md) · [SQL (75)](formats/sql.md) · [System design (588)](formats/system-design.md) · [Low-level design (175)](formats/low-level-design.md) · [AI coding (81)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -74,6 +74,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Intuit**|[Longest Repeated Letter Block with Adjacent Swaps](https://www.fastprep.io/problems/intuit-longest-repeated-block-adjacent-swaps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-longest-repeated-block-adjacent-swaps)|🔥 Oct 14, 2026|
 |**Intuit**|[Two Tribes from Taller-Person Counts](https://www.fastprep.io/problems/intuit-two-tribes-taller-count-assignments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-two-tribes-taller-count-assignments)|🔥 Oct 14, 2026|
 |**Optiver**|[Power Cell Bank](https://www.fastprep.io/problems/optiver-power-cell-bank)|Coding|[![Practice][p]](https://www.fastprep.io/problems/optiver-power-cell-bank)|🔥 Oct 14, 2026|
+|**Akuna Capital**|[Rolling Metrics](https://www.fastprep.io/problems/akuna-rolling-metrics)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-rolling-metrics)|🔥 Oct 14, 2026|
 |**Globalization Partners / Coupa Software / Adobe**|[Design and Repair a Thread-Safe Configuration Singleton](https://www.fastprep.io/low-level-design/thread-safe-configuration-singleton)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-configuration-singleton)|🔥 Oct 13, 2026|
 |**Adobe**|[Design and Implement Shared and Weak Ownership Pointers](https://www.fastprep.io/low-level-design/smart-pointer-ownership-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/smart-pointer-ownership-domain)|🔥 Oct 13, 2026|
 |**Google**|[Count Enclosed Freshwater Regions](https://www.fastprep.io/problems/google-count-enclosed-freshwater-regions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-count-enclosed-freshwater-regions)|🔥 Oct 13, 2026|
@@ -1691,5 +1692,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**ByteDance**|[Find Sum Pairs (for mle also :)](https://www.fastprep.io/problems/bytedance-find-sum-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-find-sum-pairs)|Aug 25, 2026|
 |**Apple**|[Design a Multi-Version Configuration Service](https://www.fastprep.io/system-design/multi-version-configuration-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-version-configuration-service)|Aug 25, 2026|
 |**Microsoft**|[Design a Ticket Context and System Status Platform](https://www.fastprep.io/system-design/ticket-context-system-status-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ticket-context-system-status-platform)|Aug 25, 2026|
-|**Waymo**|[Design an Autonomous-Vehicle Cloud Command System](https://www.fastprep.io/system-design/autonomous-vehicle-cloud-command-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/autonomous-vehicle-cloud-command-system)|Aug 25, 2026|
 <a id="bottom"></a>

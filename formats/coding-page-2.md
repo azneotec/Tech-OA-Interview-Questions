@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,541 questions**
+**3,542 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Google**|[Select First or Last K Stream Words](https://www.fastprep.io/problems/google-select-first-or-last-k-stream-words)|[![Practice][p]](https://www.fastprep.io/problems/google-select-first-or-last-k-stream-words)|Feb 28, 2026|
 |**Microsoft**|[Recover Corrupted Master Page](https://www.fastprep.io/problems/microsoft-recover-corrupted-master-page)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-recover-corrupted-master-page)|Feb 27, 2026|
 |**Uber**|[Kth Greater Element Indexes](https://www.fastprep.io/problems/uber-kth-greater-element-indexes)|[![Practice][p]](https://www.fastprep.io/problems/uber-kth-greater-element-indexes)|Feb 24, 2026|
 |**Uber**|[Kth Largest Subarray Bitwise OR](https://www.fastprep.io/problems/uber-kth-largest-subarray-bitwise-or)|[![Practice][p]](https://www.fastprep.io/problems/uber-kth-largest-subarray-bitwise-or)|Feb 24, 2026|

@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Waymo**|[Design an Autonomous-Vehicle Cloud Command System](https://www.fastprep.io/system-design/autonomous-vehicle-cloud-command-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/autonomous-vehicle-cloud-command-system)|Aug 25, 2026|
 |**Cerebras**|[Dense Vector Dot Product](https://www.fastprep.io/problems/cerebras-dense-vector-dot-product)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cerebras-dense-vector-dot-product)|Aug 24, 2026|
 |**IBM**|[Expiring Authentication Token Manager](https://www.fastprep.io/problems/ibm-expiring-authentication-token-manager)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-expiring-authentication-token-manager)|Aug 24, 2026|
 |**Goldman Sachs**|[Maximum Ones After K Operations](https://www.fastprep.io/problems/goldman-sachs-maximum-ones-after-k-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-maximum-ones-after-k-operations)|Aug 24, 2026|
@@ -1794,6 +1795,4 @@
 |**TikTok**|[Card Packets](https://www.fastprep.io/problems/tiktok-card-packets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-card-packets)|Aug 10, 2024|
 |**Databricks**|[Count Pairs](https://www.fastprep.io/problems/dd-count-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/dd-count-pairs)|Aug 10, 2024|
 |**Google**|[Movie Bits to Right](https://www.fastprep.io/problems/google-move-bits-to-right)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-move-bits-to-right)|Aug 08, 2024|
-|**Eat Club**|[Sequence Beauty](https://www.fastprep.io/problems/eat-club-calculate-sequence-beauty)|Coding|[![Practice][p]](https://www.fastprep.io/problems/eat-club-calculate-sequence-beauty)|Aug 08, 2024|
-|**Eat Club**|[Grandmaster Choice](https://www.fastprep.io/problems/eat-club-grandmasters-choice)|Coding|[![Practice][p]](https://www.fastprep.io/problems/eat-club-grandmasters-choice)|Aug 08, 2024|
 <a id="bottom"></a>
