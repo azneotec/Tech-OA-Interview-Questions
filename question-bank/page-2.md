@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Google**|[Directed Graph Reachability Queries](https://www.fastprep.io/problems/google-directed-graph-reachability-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-directed-graph-reachability-queries)|Aug 21, 2026|
+|**Pinterest**|[Phone Spam Report Counter](https://www.fastprep.io/problems/pinterest-phone-spam-report-counter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-phone-spam-report-counter)|Aug 21, 2026|
+|**Pinterest**|[Minimize the Longest Hike Between Rest Stops](https://www.fastprep.io/problems/pinterest-minimize-longest-hike-between-rest-stops)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-minimize-longest-hike-between-rest-stops)|Aug 21, 2026|
 |**Netflix**|[Undo and Redo Command History](https://www.fastprep.io/problems/netflix-undo-redo-command-history)|Coding|[![Practice][p]](https://www.fastprep.io/problems/netflix-undo-redo-command-history)|Aug 21, 2026|
 |**Pinterest**|[Count Ordered Combination Sums with Negative Values](https://www.fastprep.io/problems/pinterest-count-ordered-combination-sums-with-negative-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-count-ordered-combination-sums-with-negative-values)|Aug 21, 2026|
 |**Pinterest**|[Count Ordered Combination Sums](https://www.fastprep.io/problems/pinterest-count-ordered-combination-sums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-count-ordered-combination-sums)|Aug 21, 2026|
@@ -163,7 +166,6 @@
 |**HSBC**|[Minimum Satellite Data Transfer Iterations](https://www.fastprep.io/problems/hsbc-minimum-satellite-transfer-iterations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-minimum-satellite-transfer-iterations)|Aug 03, 2026|
 |**HSBC**|[Organization Reputation After Employee Departures](https://www.fastprep.io/problems/hsbc-organization-reputation-after-departures)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-organization-reputation-after-departures)|Aug 03, 2026|
 |**DoorDash**|[Design a Downstream-Service Alert Notification System](https://www.fastprep.io/system-design/downstream-service-alert-notification-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/downstream-service-alert-notification-system)|Aug 03, 2026|
-|**Anthropic**|[Design a Prompt Playground](https://www.fastprep.io/system-design/prompt-playground-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/prompt-playground-system)|Aug 03, 2026|
 |**Gusto**|[Design a Restaurant Staff Scheduling System](https://www.fastprep.io/system-design/restaurant-scheduling-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/restaurant-scheduling-system)|Aug 03, 2026|
 |**HSBC**|[Remove Vowels from a String](https://www.fastprep.io/problems/hsbc-remove-vowels)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-remove-vowels)|Aug 03, 2026|
 |**Infosys**|[Count Valid A-B-C Sequences Under a Modulo-Four Rule](https://www.fastprep.io/problems/infosys-count-valid-abc-sequences-mod-four)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-count-valid-abc-sequences-mod-four)|Aug 02, 2026|
@@ -253,7 +255,6 @@
 |**Cresta**|[Top Three Companies by Profit](https://www.fastprep.io/problems/cresta-top-three-companies-by-profit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cresta-top-three-companies-by-profit)|Jul 28, 2026|
 |**Cresta**|[Rightward Bacteria Consumption](https://www.fastprep.io/problems/cresta-rightward-bacteria-consumption)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cresta-rightward-bacteria-consumption)|Jul 28, 2026|
 |**Google**|[Distributed Quoted-Log Tokenization](https://www.fastprep.io/system-design/distributed-quoted-log-tokenization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-quoted-log-tokenization)|Jul 28, 2026|
-|**Lyft**|[Donation Platform](https://www.fastprep.io/system-design/donation-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/donation-platform)|Jul 28, 2026|
 |**Uber**|[Rolling Stock Price Alert System](https://www.fastprep.io/system-design/rolling-stock-price-alert-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rolling-stock-price-alert-system)|Jul 28, 2026|
 |**Bloomberg LP**|[Refactor a Cache for Pluggable Eviction Policies](https://www.fastprep.io/low-level-design/extensible-cache-eviction-policies)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-cache-eviction-policies)|Jul 28, 2026|
 |**Wells Fargo**|[Longest Subsequence That Is a Substring](https://www.fastprep.io/problems/wellsfargo-longest-subsequence-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-longest-subsequence-substring)|Jul 28, 2026|
@@ -955,7 +956,6 @@
 |**Agoda**|[TV Series in a Production Window](https://www.fastprep.io/problems/agoda-tv-series-production-window)|SQL|[![Practice][p]](https://www.fastprep.io/problems/agoda-tv-series-production-window)|Nov 29, 2025|
 |**Accenture**|[Array Leader Elements](https://www.fastprep.io/problems/accenture-array-leader-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/accenture-array-leader-elements)|Nov 28, 2025|
 |**Microsoft / Meta**|[Design a Learned Candidate Ranking Service](https://www.fastprep.io/system-design/learned-candidate-ranking-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/learned-candidate-ranking-service)|Nov 26, 2025|
-|**Sierra**|[Design a Resumable Streaming AI Chat](https://www.fastprep.io/system-design/resumable-streaming-ai-chat)|System design|[![Practice][p]](https://www.fastprep.io/system-design/resumable-streaming-ai-chat)|Nov 24, 2025|
 |**BitGo**|[Design and Implement an In-Memory Relational Database Engine](https://www.fastprep.io/low-level-design/in-memory-relational-database-engine)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-relational-database-engine)|Nov 23, 2025|
 |**Bloomberg LP**|[Trapping Rain Water](https://www.fastprep.io/problems/bloomberg-trapping-rain-water)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-trapping-rain-water)|Nov 23, 2025|
 |**Bloomberg LP**|[Design and Implement a Fair Event Registration Queue](https://www.fastprep.io/low-level-design/fair-event-registration-queue)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/fair-event-registration-queue)|Nov 21, 2025|
@@ -1800,5 +1800,4 @@
 |**MathWorks**|[Cars Left](https://www.fastprep.io/problems/mathwork-cars-left)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathwork-cars-left)|Aug 05, 2024|
 |**Epam**|[Rob House](https://www.fastprep.io/problems/epam-rob-house)|Coding|[![Practice][p]](https://www.fastprep.io/problems/epam-rob-house)|Aug 05, 2024|
 |**Hyper Verge**|[Get String to Remove](https://www.fastprep.io/problems/hyperverge-reach-a-given-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hyperverge-reach-a-given-number)|Aug 05, 2024|
-|**Onix**|[Get String to Remove](https://www.fastprep.io/problems/onix-get-string-to-remove)|Coding|[![Practice][p]](https://www.fastprep.io/problems/onix-get-string-to-remove)|Aug 05, 2024|
 <a id="bottom"></a>

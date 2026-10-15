@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Onix**|[Get String to Remove](https://www.fastprep.io/problems/onix-get-string-to-remove)|Coding|[![Practice][p]](https://www.fastprep.io/problems/onix-get-string-to-remove)|Aug 05, 2024|
 |**SIG**|[Count Triples](https://www.fastprep.io/problems/counting-triples)|Coding|[![Practice][p]](https://www.fastprep.io/problems/counting-triples)|Aug 05, 2024|
 |**Highspot**|[Design a Greeting Card E-Commerce Marketplace](https://www.fastprep.io/system-design/greeting-card-marketplace)|System design|[![Practice][p]](https://www.fastprep.io/system-design/greeting-card-marketplace)|Aug 03, 2024|
 |**Highspot**|[Longest Substring Without Repeating Characters](https://www.fastprep.io/problems/highspot-longest-substring-without-repeating-characters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/highspot-longest-substring-without-repeating-characters)|Aug 03, 2024|
