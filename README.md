@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,532)](formats/coding.md) · [SQL (75)](formats/sql.md) · [System design (588)](formats/system-design.md) · [Low-level design (175)](formats/low-level-design.md) · [AI coding (81)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,541)](formats/coding.md) · [SQL (75)](formats/sql.md) · [System design (588)](formats/system-design.md) · [Low-level design (175)](formats/low-level-design.md) · [AI coding (81)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -34,6 +34,13 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
 |**McKinsey & Company**|[Weekend Appointments for Consular Services Rescheduling](https://www.fastprep.io/problems/mckinsey-weekend-appointments)|SQL|[![Practice][p]](https://www.fastprep.io/problems/mckinsey-weekend-appointments)|🔥 Oct 15, 2026|
+|**TikTok**|[Find Local Maxima in Sensor Data](https://www.fastprep.io/problems/tiktok-find-local-maxima)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-local-maxima)|🔥 Oct 15, 2026|
+|**TikTok**|[Bagging Classifier with Supplied Decision Trees](https://www.fastprep.io/problems/tiktok-bagging-classifier)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-bagging-classifier)|🔥 Oct 15, 2026|
+|**TikTok**|[Cosine k-Means Clustering](https://www.fastprep.io/problems/tiktok-cosine-k-means-clustering)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-cosine-k-means-clustering)|🔥 Oct 15, 2026|
+|**TikTok**|[Count Eligible Package Codes](https://www.fastprep.io/problems/tiktok-count-eligible-package-codes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-eligible-package-codes)|🔥 Oct 15, 2026|
+|**TikTok**|[Correct Sensor Readings](https://www.fastprep.io/problems/tiktok-correct-sensor-readings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-correct-sensor-readings)|🔥 Oct 15, 2026|
+|**TikTok**|[Bouncing Diagonal Weights](https://www.fastprep.io/problems/tiktok-bouncing-diagonal-weights)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-bouncing-diagonal-weights)|🔥 Oct 15, 2026|
+|**TikTok**|[Arithmetic Triplets After Queries](https://www.fastprep.io/problems/tiktok-arithmetic-triplets-after-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-arithmetic-triplets-after-queries)|🔥 Oct 15, 2026|
 |**Coinbase / Goldman Sachs / Robinhood**|[Design a Brokerage Order Processing System](https://www.fastprep.io/system-design/brokerage-order-processing-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/brokerage-order-processing-system)|🔥 Oct 14, 2026|
 |**Robinhood**|[Large-Input Word Frequency Analysis](https://www.fastprep.io/system-design/large-input-word-frequency-analysis)|System design|[![Practice][p]](https://www.fastprep.io/system-design/large-input-word-frequency-analysis)|🔥 Oct 14, 2026|
 |**Attentive / Oracle / Amperity / Snap Inc. / Waabi / LinkedIn**|[Design a Time Series Metrics Database](https://www.fastprep.io/system-design/time-series-metrics-database)|System design|[![Practice][p]](https://www.fastprep.io/system-design/time-series-metrics-database)|🔥 Oct 14, 2026|
@@ -63,6 +70,9 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Salesforce**|[Find Rows Common to Two Tables](https://www.fastprep.io/problems/salesforce-intersection-of-two-tables)|SQL|[![Practice][p]](https://www.fastprep.io/problems/salesforce-intersection-of-two-tables)|🔥 Oct 14, 2026|
 |**Salesforce**|[Detect a Cycle in a Linked List](https://www.fastprep.io/problems/salesforce-linked-list-cycle-detection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-linked-list-cycle-detection)|🔥 Oct 14, 2026|
 |**Salesforce**|[Merge Two Sorted Linked Lists](https://www.fastprep.io/problems/salesforce-merge-two-sorted-linked-lists)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-merge-two-sorted-linked-lists)|🔥 Oct 14, 2026|
+|**Intuit**|[Maximum Square-Free Divisor](https://www.fastprep.io/problems/intuit-maximum-square-free-divisor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-maximum-square-free-divisor)|🔥 Oct 14, 2026|
+|**Intuit**|[Longest Repeated Letter Block with Adjacent Swaps](https://www.fastprep.io/problems/intuit-longest-repeated-block-adjacent-swaps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-longest-repeated-block-adjacent-swaps)|🔥 Oct 14, 2026|
+|**Intuit**|[Two Tribes from Taller-Person Counts](https://www.fastprep.io/problems/intuit-two-tribes-taller-count-assignments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-two-tribes-taller-count-assignments)|🔥 Oct 14, 2026|
 |**Globalization Partners / Coupa Software / Adobe**|[Design and Repair a Thread-Safe Configuration Singleton](https://www.fastprep.io/low-level-design/thread-safe-configuration-singleton)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-configuration-singleton)|🔥 Oct 13, 2026|
 |**Adobe**|[Design and Implement Shared and Weak Ownership Pointers](https://www.fastprep.io/low-level-design/smart-pointer-ownership-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/smart-pointer-ownership-domain)|🔥 Oct 13, 2026|
 |**Google**|[Count Enclosed Freshwater Regions](https://www.fastprep.io/problems/google-count-enclosed-freshwater-regions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-count-enclosed-freshwater-regions)|🔥 Oct 13, 2026|
@@ -1504,7 +1514,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**TikTok**|[Reverse Letters in Pairs](https://www.fastprep.io/problems/tiktok-reverse-letters-in-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-reverse-letters-in-pairs)|🆕 Sep 08, 2026|
 |**TikTok**|[Count Alternating Tile Groups](https://www.fastprep.io/problems/tiktok-count-alternating-tile-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-alternating-tile-groups)|🆕 Sep 08, 2026|
 |**TikTok**|[Build Blocks from a Starting Position](https://www.fastprep.io/problems/tiktok-build-blocks-from-starting-position)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-build-blocks-from-starting-position)|🆕 Sep 08, 2026|
-|**TikTok**|[Find Local Maxima in Sensor Data](https://www.fastprep.io/problems/tiktok-find-local-maxima)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-local-maxima)|🆕 Sep 08, 2026|
 |**TikTok**|[Gradient Descent Linear Regression from Scratch](https://www.fastprep.io/problems/tiktok-gradient-descent-linear-regression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-gradient-descent-linear-regression)|🆕 Sep 08, 2026|
 |**TikTok**|[Decision Tree Classifier from Scratch](https://www.fastprep.io/problems/tiktok-decision-tree-classifier)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-decision-tree-classifier)|🆕 Sep 08, 2026|
 |**HSBC**|[Distinct Products After Removing One Element](https://www.fastprep.io/problems/hsbc-distinct-products-after-removing-one-element)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-distinct-products-after-removing-one-element)|🆕 Sep 08, 2026|
@@ -1683,12 +1692,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Apple**|[Design a Multi-Version Configuration Service](https://www.fastprep.io/system-design/multi-version-configuration-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-version-configuration-service)|Aug 25, 2026|
 |**Microsoft**|[Design a Ticket Context and System Status Platform](https://www.fastprep.io/system-design/ticket-context-system-status-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ticket-context-system-status-platform)|Aug 25, 2026|
 |**Waymo**|[Design an Autonomous-Vehicle Cloud Command System](https://www.fastprep.io/system-design/autonomous-vehicle-cloud-command-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/autonomous-vehicle-cloud-command-system)|Aug 25, 2026|
-|**Cerebras**|[Dense Vector Dot Product](https://www.fastprep.io/problems/cerebras-dense-vector-dot-product)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cerebras-dense-vector-dot-product)|Aug 24, 2026|
-|**IBM**|[Expiring Authentication Token Manager](https://www.fastprep.io/problems/ibm-expiring-authentication-token-manager)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-expiring-authentication-token-manager)|Aug 24, 2026|
-|**Goldman Sachs**|[Maximum Ones After K Operations](https://www.fastprep.io/problems/goldman-sachs-maximum-ones-after-k-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-maximum-ones-after-k-operations)|Aug 24, 2026|
-|**TikTok**|[Repeated Grouped Digit Sum](https://www.fastprep.io/problems/tiktok-repeated-grouped-digit-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-repeated-grouped-digit-sum)|Aug 24, 2026|
-|**Amazon / Microsoft**|[Design a Marketplace Product Search Service](https://www.fastprep.io/system-design/marketplace-product-search-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/marketplace-product-search-service)|Aug 24, 2026|
-|**JP Morgan Chase**|[Design a Multimodal RAG Retrieval Platform](https://www.fastprep.io/system-design/multimodal-rag-retrieval-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multimodal-rag-retrieval-platform)|Aug 24, 2026|
-|**JP Morgan Chase**|[Design a Region-Aware User Record Store](https://www.fastprep.io/system-design/region-aware-user-record-store)|System design|[![Practice][p]](https://www.fastprep.io/system-design/region-aware-user-record-store)|Aug 24, 2026|
-|**JP Morgan Chase**|[Design a Reliable Endpoint File Transfer Service](https://www.fastprep.io/system-design/reliable-endpoint-file-transfer)|System design|[![Practice][p]](https://www.fastprep.io/system-design/reliable-endpoint-file-transfer)|Aug 24, 2026|
 <a id="bottom"></a>

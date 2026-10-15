@@ -2,12 +2,21 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,532 questions**
+**3,541 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Microsoft**|[Recover Corrupted Master Page](https://www.fastprep.io/problems/microsoft-recover-corrupted-master-page)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-recover-corrupted-master-page)|Feb 27, 2026|
+|**Uber**|[Kth Greater Element Indexes](https://www.fastprep.io/problems/uber-kth-greater-element-indexes)|[![Practice][p]](https://www.fastprep.io/problems/uber-kth-greater-element-indexes)|Feb 24, 2026|
+|**Uber**|[Kth Largest Subarray Bitwise OR](https://www.fastprep.io/problems/uber-kth-largest-subarray-bitwise-or)|[![Practice][p]](https://www.fastprep.io/problems/uber-kth-largest-subarray-bitwise-or)|Feb 24, 2026|
+|**Uber**|[Minimum Spanning Tree Weight in a Complete Binary Graph](https://www.fastprep.io/problems/uber-minimum-spanning-tree-weight-in-complete-binary-graph)|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-spanning-tree-weight-in-complete-binary-graph)|Feb 24, 2026|
+|**Datadog**|[Latency Bucket Counter](https://www.fastprep.io/problems/datadog-latency-bucket-counter)|[![Practice][p]](https://www.fastprep.io/problems/datadog-latency-bucket-counter)|Feb 20, 2026|
+|**Uber**|[Balanced Prefix Permutation](https://www.fastprep.io/problems/uber-balanced-prefix-permutation)|[![Practice][p]](https://www.fastprep.io/problems/uber-balanced-prefix-permutation)|Feb 19, 2026|
+|**Uber**|[Minimum Euclidean Plate Collection Time](https://www.fastprep.io/problems/uber-minimum-euclidean-plate-collection-time)|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-euclidean-plate-collection-time)|Feb 19, 2026|
+|**Infosys**|[Maximum Subarray Sum After Swaps](https://www.fastprep.io/problems/infosys-maximum-subarray-sum-after-swaps)|[![Practice][p]](https://www.fastprep.io/problems/infosys-maximum-subarray-sum-after-swaps)|Feb 19, 2026|
+|**Bloomberg LP**|[Meeting Rooms II](https://www.fastprep.io/problems/bloomberg-meeting-rooms-ii)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-meeting-rooms-ii)|Feb 19, 2026|
 |**Bloomberg LP**|[One-Dimensional Candy Crush](https://www.fastprep.io/problems/bloomberg-one-dimensional-candy-crush)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-one-dimensional-candy-crush)|Feb 18, 2026|
 |**Bloomberg LP**|[Shortest Result After Candy Crush Removals](https://www.fastprep.io/problems/bloomberg-shortest-one-dimensional-candy-crush)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-shortest-one-dimensional-candy-crush)|Feb 18, 2026|
 |**Postman**|[Group Duplicate Files by Content](https://www.fastprep.io/problems/postman-duplicate-files-by-content)|[![Practice][p]](https://www.fastprep.io/problems/postman-duplicate-files-by-content)|Feb 17, 2026|

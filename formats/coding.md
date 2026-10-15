@@ -2,12 +2,19 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,532 questions**
+**3,541 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**TikTok**|[Find Local Maxima in Sensor Data](https://www.fastprep.io/problems/tiktok-find-local-maxima)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-local-maxima)|🔥 Oct 15, 2026|
+|**TikTok**|[Bagging Classifier with Supplied Decision Trees](https://www.fastprep.io/problems/tiktok-bagging-classifier)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-bagging-classifier)|🔥 Oct 15, 2026|
+|**TikTok**|[Cosine k-Means Clustering](https://www.fastprep.io/problems/tiktok-cosine-k-means-clustering)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-cosine-k-means-clustering)|🔥 Oct 15, 2026|
+|**TikTok**|[Count Eligible Package Codes](https://www.fastprep.io/problems/tiktok-count-eligible-package-codes)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-eligible-package-codes)|🔥 Oct 15, 2026|
+|**TikTok**|[Correct Sensor Readings](https://www.fastprep.io/problems/tiktok-correct-sensor-readings)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-correct-sensor-readings)|🔥 Oct 15, 2026|
+|**TikTok**|[Bouncing Diagonal Weights](https://www.fastprep.io/problems/tiktok-bouncing-diagonal-weights)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-bouncing-diagonal-weights)|🔥 Oct 15, 2026|
+|**TikTok**|[Arithmetic Triplets After Queries](https://www.fastprep.io/problems/tiktok-arithmetic-triplets-after-queries)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-arithmetic-triplets-after-queries)|🔥 Oct 15, 2026|
 |**LinkedIn**|[Known Words Matching Phone Digits](https://www.fastprep.io/problems/linkedin-known-words-for-phone-digits)|[![Practice][p]](https://www.fastprep.io/problems/linkedin-known-words-for-phone-digits)|🔥 Oct 14, 2026|
 |**Rippling**|[Delivery Cost Tracker](https://www.fastprep.io/problems/rippling-delivery-cost-tracker)|[![Practice][p]](https://www.fastprep.io/problems/rippling-delivery-cost-tracker)|🔥 Oct 14, 2026|
 |**Capital One**|[Check Array Arithmetic Expressions](https://www.fastprep.io/problems/capital-one-check-array-arithmetic-expressions)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-check-array-arithmetic-expressions)|🔥 Oct 14, 2026|
@@ -30,6 +37,9 @@
 |**Retool**|[Order Sources by Their Dependencies](https://www.fastprep.io/problems/retool-source-dependency-order)|[![Practice][p]](https://www.fastprep.io/problems/retool-source-dependency-order)|🔥 Oct 14, 2026|
 |**Salesforce**|[Detect a Cycle in a Linked List](https://www.fastprep.io/problems/salesforce-linked-list-cycle-detection)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-linked-list-cycle-detection)|🔥 Oct 14, 2026|
 |**Salesforce**|[Merge Two Sorted Linked Lists](https://www.fastprep.io/problems/salesforce-merge-two-sorted-linked-lists)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-merge-two-sorted-linked-lists)|🔥 Oct 14, 2026|
+|**Intuit**|[Maximum Square-Free Divisor](https://www.fastprep.io/problems/intuit-maximum-square-free-divisor)|[![Practice][p]](https://www.fastprep.io/problems/intuit-maximum-square-free-divisor)|🔥 Oct 14, 2026|
+|**Intuit**|[Longest Repeated Letter Block with Adjacent Swaps](https://www.fastprep.io/problems/intuit-longest-repeated-block-adjacent-swaps)|[![Practice][p]](https://www.fastprep.io/problems/intuit-longest-repeated-block-adjacent-swaps)|🔥 Oct 14, 2026|
+|**Intuit**|[Two Tribes from Taller-Person Counts](https://www.fastprep.io/problems/intuit-two-tribes-taller-count-assignments)|[![Practice][p]](https://www.fastprep.io/problems/intuit-two-tribes-taller-count-assignments)|🔥 Oct 14, 2026|
 |**Google**|[Count Enclosed Freshwater Regions](https://www.fastprep.io/problems/google-count-enclosed-freshwater-regions)|[![Practice][p]](https://www.fastprep.io/problems/google-count-enclosed-freshwater-regions)|🔥 Oct 13, 2026|
 |**Google**|[Path Leaf Character Iterator](https://www.fastprep.io/problems/google-path-leaf-character-iterator)|[![Practice][p]](https://www.fastprep.io/problems/google-path-leaf-character-iterator)|🔥 Oct 13, 2026|
 |**Google**|[Merge Hierarchical Trees by Name](https://www.fastprep.io/problems/google-merge-hierarchical-trees-by-name)|[![Practice][p]](https://www.fastprep.io/problems/google-merge-hierarchical-trees-by-name)|🔥 Oct 13, 2026|
@@ -1077,7 +1087,6 @@
 |**TikTok**|[Reverse Letters in Pairs](https://www.fastprep.io/problems/tiktok-reverse-letters-in-pairs)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-reverse-letters-in-pairs)|🆕 Sep 08, 2026|
 |**TikTok**|[Count Alternating Tile Groups](https://www.fastprep.io/problems/tiktok-count-alternating-tile-groups)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-alternating-tile-groups)|🆕 Sep 08, 2026|
 |**TikTok**|[Build Blocks from a Starting Position](https://www.fastprep.io/problems/tiktok-build-blocks-from-starting-position)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-build-blocks-from-starting-position)|🆕 Sep 08, 2026|
-|**TikTok**|[Find Local Maxima in Sensor Data](https://www.fastprep.io/problems/tiktok-find-local-maxima)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-local-maxima)|🆕 Sep 08, 2026|
 |**TikTok**|[Gradient Descent Linear Regression from Scratch](https://www.fastprep.io/problems/tiktok-gradient-descent-linear-regression)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-gradient-descent-linear-regression)|🆕 Sep 08, 2026|
 |**TikTok**|[Decision Tree Classifier from Scratch](https://www.fastprep.io/problems/tiktok-decision-tree-classifier)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-decision-tree-classifier)|🆕 Sep 08, 2026|
 |**HSBC**|[Distinct Products After Removing One Element](https://www.fastprep.io/problems/hsbc-distinct-products-after-removing-one-element)|[![Practice][p]](https://www.fastprep.io/problems/hsbc-distinct-products-after-removing-one-element)|🆕 Sep 08, 2026|
@@ -1815,13 +1824,4 @@
 |**Google**|[All Long Subsequences Are Dictionary Words](https://www.fastprep.io/problems/google-all-long-subsequences-are-words)|[![Practice][p]](https://www.fastprep.io/problems/google-all-long-subsequences-are-words)|Feb 28, 2026|
 |**Google**|[Frequency-Weighted Next-Word Sampling](https://www.fastprep.io/problems/google-frequency-weighted-next-word-sampling)|[![Practice][p]](https://www.fastprep.io/problems/google-frequency-weighted-next-word-sampling)|Feb 28, 2026|
 |**Google**|[Select First or Last K Stream Words](https://www.fastprep.io/problems/google-select-first-or-last-k-stream-words)|[![Practice][p]](https://www.fastprep.io/problems/google-select-first-or-last-k-stream-words)|Feb 28, 2026|
-|**Microsoft**|[Recover Corrupted Master Page](https://www.fastprep.io/problems/microsoft-recover-corrupted-master-page)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-recover-corrupted-master-page)|Feb 27, 2026|
-|**Uber**|[Kth Greater Element Indexes](https://www.fastprep.io/problems/uber-kth-greater-element-indexes)|[![Practice][p]](https://www.fastprep.io/problems/uber-kth-greater-element-indexes)|Feb 24, 2026|
-|**Uber**|[Kth Largest Subarray Bitwise OR](https://www.fastprep.io/problems/uber-kth-largest-subarray-bitwise-or)|[![Practice][p]](https://www.fastprep.io/problems/uber-kth-largest-subarray-bitwise-or)|Feb 24, 2026|
-|**Uber**|[Minimum Spanning Tree Weight in a Complete Binary Graph](https://www.fastprep.io/problems/uber-minimum-spanning-tree-weight-in-complete-binary-graph)|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-spanning-tree-weight-in-complete-binary-graph)|Feb 24, 2026|
-|**Datadog**|[Latency Bucket Counter](https://www.fastprep.io/problems/datadog-latency-bucket-counter)|[![Practice][p]](https://www.fastprep.io/problems/datadog-latency-bucket-counter)|Feb 20, 2026|
-|**Uber**|[Balanced Prefix Permutation](https://www.fastprep.io/problems/uber-balanced-prefix-permutation)|[![Practice][p]](https://www.fastprep.io/problems/uber-balanced-prefix-permutation)|Feb 19, 2026|
-|**Uber**|[Minimum Euclidean Plate Collection Time](https://www.fastprep.io/problems/uber-minimum-euclidean-plate-collection-time)|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-euclidean-plate-collection-time)|Feb 19, 2026|
-|**Infosys**|[Maximum Subarray Sum After Swaps](https://www.fastprep.io/problems/infosys-maximum-subarray-sum-after-swaps)|[![Practice][p]](https://www.fastprep.io/problems/infosys-maximum-subarray-sum-after-swaps)|Feb 19, 2026|
-|**Bloomberg LP**|[Meeting Rooms II](https://www.fastprep.io/problems/bloomberg-meeting-rooms-ii)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-meeting-rooms-ii)|Feb 19, 2026|
 <a id="bottom"></a>
