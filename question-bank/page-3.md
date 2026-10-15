@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**TikTok**|[Find Good Subarray](https://www.fastprep.io/problems/tiktok-find-good-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-good-subarray)|Aug 10, 2024|
 |**TikTok**|[Card Packets](https://www.fastprep.io/problems/tiktok-card-packets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-card-packets)|Aug 10, 2024|
 |**Databricks**|[Count Pairs](https://www.fastprep.io/problems/dd-count-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/dd-count-pairs)|Aug 10, 2024|
 |**Google**|[Movie Bits to Right](https://www.fastprep.io/problems/google-move-bits-to-right)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-move-bits-to-right)|Aug 08, 2024|
