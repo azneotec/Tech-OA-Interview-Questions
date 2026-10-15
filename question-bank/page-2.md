@@ -9,6 +9,14 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Cerebras**|[Dense Vector Dot Product](https://www.fastprep.io/problems/cerebras-dense-vector-dot-product)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cerebras-dense-vector-dot-product)|Aug 24, 2026|
+|**IBM**|[Expiring Authentication Token Manager](https://www.fastprep.io/problems/ibm-expiring-authentication-token-manager)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-expiring-authentication-token-manager)|Aug 24, 2026|
+|**Goldman Sachs**|[Maximum Ones After K Operations](https://www.fastprep.io/problems/goldman-sachs-maximum-ones-after-k-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-maximum-ones-after-k-operations)|Aug 24, 2026|
+|**TikTok**|[Repeated Grouped Digit Sum](https://www.fastprep.io/problems/tiktok-repeated-grouped-digit-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-repeated-grouped-digit-sum)|Aug 24, 2026|
+|**Amazon / Microsoft**|[Design a Marketplace Product Search Service](https://www.fastprep.io/system-design/marketplace-product-search-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/marketplace-product-search-service)|Aug 24, 2026|
+|**JP Morgan Chase**|[Design a Multimodal RAG Retrieval Platform](https://www.fastprep.io/system-design/multimodal-rag-retrieval-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multimodal-rag-retrieval-platform)|Aug 24, 2026|
+|**JP Morgan Chase**|[Design a Region-Aware User Record Store](https://www.fastprep.io/system-design/region-aware-user-record-store)|System design|[![Practice][p]](https://www.fastprep.io/system-design/region-aware-user-record-store)|Aug 24, 2026|
+|**JP Morgan Chase**|[Design a Reliable Endpoint File Transfer Service](https://www.fastprep.io/system-design/reliable-endpoint-file-transfer)|System design|[![Practice][p]](https://www.fastprep.io/system-design/reliable-endpoint-file-transfer)|Aug 24, 2026|
 |**JP Morgan Chase**|[Design a Role-Based Token Authorization Platform](https://www.fastprep.io/system-design/role-based-token-authorization-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/role-based-token-authorization-platform)|Aug 24, 2026|
 |**Amazon / Headway**|[Design a Product and Profile Image Upload Service](https://www.fastprep.io/system-design/seller-product-image-upload-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/seller-product-image-upload-service)|Aug 24, 2026|
 |**Visa**|[Design an E-Commerce Top-Spender Query](https://www.fastprep.io/system-design/ecommerce-top-spender-query-design)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ecommerce-top-spender-query-design)|Aug 24, 2026|
@@ -1788,13 +1796,4 @@
 |**Google**|[Movie Bits to Right](https://www.fastprep.io/problems/google-move-bits-to-right)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-move-bits-to-right)|Aug 08, 2024|
 |**Eat Club**|[Sequence Beauty](https://www.fastprep.io/problems/eat-club-calculate-sequence-beauty)|Coding|[![Practice][p]](https://www.fastprep.io/problems/eat-club-calculate-sequence-beauty)|Aug 08, 2024|
 |**Eat Club**|[Grandmaster Choice](https://www.fastprep.io/problems/eat-club-grandmasters-choice)|Coding|[![Practice][p]](https://www.fastprep.io/problems/eat-club-grandmasters-choice)|Aug 08, 2024|
-|**JP Morgan**|[Count Teams](https://www.fastprep.io/problems/jpmorgan-count-teams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-count-teams)|Aug 07, 2024|
-|**Uber**|[Good Ways to Reach a Sum](https://www.fastprep.io/problems/uber-count-ways-to-reach-a-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-count-ways-to-reach-a-sum)|Aug 07, 2024|
-|**Uber**|[Count Good Array](https://www.fastprep.io/problems/uber-count-the-number-of-good-subarrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-count-the-number-of-good-subarrays)|Aug 07, 2024|
-|**Uber**|[Min Right Shifts to Sort An Array](https://www.fastprep.io/problems/uber-minimum-right-shifts-to-sort-the-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-right-shifts-to-sort-the-array)|Aug 07, 2024|
-|**Uber**|[Min Obstacle to Remove](https://www.fastprep.io/problems/uber-minimum-obstacle-removal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-obstacle-removal)|Aug 07, 2024|
-|**Akuna**|[Movie Marathon](https://www.fastprep.io/problems/akuna-longest-marathon)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-longest-marathon)|Aug 07, 2024|
-|**Akuna**|[Min Operations](https://www.fastprep.io/problems/akuna-minimal-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-minimal-operations)|Aug 07, 2024|
-|**Akuna**|[Maximize Segregation Cost](https://www.fastprep.io/problems/akuna-maximize-segregation-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-maximize-segregation-cost)|Aug 06, 2024|
-|**BNY Mellon**|[Count Subsequences](https://www.fastprep.io/problems/bnymellon-count-subsequences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bnymellon-count-subsequences)|Aug 06, 2024|
 <a id="bottom"></a>

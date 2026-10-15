@@ -9,6 +9,15 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**JP Morgan**|[Count Teams](https://www.fastprep.io/problems/jpmorgan-count-teams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-count-teams)|Aug 07, 2024|
+|**Uber**|[Good Ways to Reach a Sum](https://www.fastprep.io/problems/uber-count-ways-to-reach-a-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-count-ways-to-reach-a-sum)|Aug 07, 2024|
+|**Uber**|[Count Good Array](https://www.fastprep.io/problems/uber-count-the-number-of-good-subarrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-count-the-number-of-good-subarrays)|Aug 07, 2024|
+|**Uber**|[Min Right Shifts to Sort An Array](https://www.fastprep.io/problems/uber-minimum-right-shifts-to-sort-the-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-right-shifts-to-sort-the-array)|Aug 07, 2024|
+|**Uber**|[Min Obstacle to Remove](https://www.fastprep.io/problems/uber-minimum-obstacle-removal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-obstacle-removal)|Aug 07, 2024|
+|**Akuna**|[Movie Marathon](https://www.fastprep.io/problems/akuna-longest-marathon)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-longest-marathon)|Aug 07, 2024|
+|**Akuna**|[Min Operations](https://www.fastprep.io/problems/akuna-minimal-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-minimal-operations)|Aug 07, 2024|
+|**Akuna**|[Maximize Segregation Cost](https://www.fastprep.io/problems/akuna-maximize-segregation-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-maximize-segregation-cost)|Aug 06, 2024|
+|**BNY Mellon**|[Count Subsequences](https://www.fastprep.io/problems/bnymellon-count-subsequences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bnymellon-count-subsequences)|Aug 06, 2024|
 |**BNY Mellon**|[Dig Sum](https://www.fastprep.io/problems/bnymellon-ways-to-choose-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bnymellon-ways-to-choose-sum)|Aug 06, 2024|
 |**Amazon**|[Process Queries On Cart](https://www.fastprep.io/problems/amazon-process-queries-on-cart)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-process-queries-on-cart)|Aug 05, 2024|
 |**Amazon**|[Assign Tasks](https://www.fastprep.io/problems/amazon-assign-tasks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-assign-tasks)|Aug 05, 2024|
