@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Microsoft**|[Design a Ticket Context and System Status Platform](https://www.fastprep.io/system-design/ticket-context-system-status-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ticket-context-system-status-platform)|Aug 25, 2026|
 |**Waymo**|[Design an Autonomous-Vehicle Cloud Command System](https://www.fastprep.io/system-design/autonomous-vehicle-cloud-command-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/autonomous-vehicle-cloud-command-system)|Aug 25, 2026|
 |**Cerebras**|[Dense Vector Dot Product](https://www.fastprep.io/problems/cerebras-dense-vector-dot-product)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cerebras-dense-vector-dot-product)|Aug 24, 2026|
 |**IBM**|[Expiring Authentication Token Manager](https://www.fastprep.io/problems/ibm-expiring-authentication-token-manager)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-expiring-authentication-token-manager)|Aug 24, 2026|
@@ -590,7 +591,6 @@
 |**Uber**|[Shopkeeper Final Price](https://www.fastprep.io/problems/uber-shopkeeper-final-price)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-shopkeeper-final-price)|Jun 29, 2026|
 |**TikTok**|[Check Even-Position Monotonicity](https://www.fastprep.io/problems/tiktok-check-even-position-monotonicity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-check-even-position-monotonicity)|Jun 29, 2026|
 |**IBM**|[Request Retry Count](https://www.fastprep.io/problems/ibm-request-retry-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-request-retry-count)|Jun 29, 2026|
-|**Microsoft**|[Minimum Cost K-Capable Models](https://www.fastprep.io/problems/microsoft-minimum-cost-k-capable-models)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-cost-k-capable-models)|Jun 29, 2026|
 |**Microsoft**|[Unique Difference Pattern](https://www.fastprep.io/problems/microsoft-unique-difference-pattern)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-unique-difference-pattern)|Jun 29, 2026|
 |**Goldman Sachs**|[Valid Binary Prefix](https://www.fastprep.io/problems/goldman-valid-binary-prefix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-valid-binary-prefix)|Jun 29, 2026|
 |**Expedia**|[Maximum Team Size](https://www.fastprep.io/problems/expedia-maximum-team-size)|Coding|[![Practice][p]](https://www.fastprep.io/problems/expedia-maximum-team-size)|Jun 29, 2026|
