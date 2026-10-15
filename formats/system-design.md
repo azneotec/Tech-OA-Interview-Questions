@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**589 questions**
+**591 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -491,6 +491,7 @@
 |**Splunk**|[Prepaid Game-Card Payment Network](https://www.fastprep.io/system-design/prepaid-game-card-payment-network)|[![Practice][p]](https://www.fastprep.io/system-design/prepaid-game-card-payment-network)|Aug 13, 2025|
 |**Splunk / Atlassian / Deliveroo**|[Resilient Sports Statistics Aggregation](https://www.fastprep.io/system-design/resilient-sports-statistics-aggregation)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-sports-statistics-aggregation)|Aug 13, 2025|
 |**Splunk / Atlassian / Wayfair**|[Video Platform Capacity Planning](https://www.fastprep.io/system-design/video-platform-capacity-planning)|[![Practice][p]](https://www.fastprep.io/system-design/video-platform-capacity-planning)|Aug 13, 2025|
+|**Klaviyo**|[Design a Crypto Portfolio Purchase Experience](https://www.fastprep.io/system-design/crypto-portfolio-purchase-interface)|[![Practice][p]](https://www.fastprep.io/system-design/crypto-portfolio-purchase-interface)|Jul 09, 2025|
 |**Google**|[Design a Harmful-Content Classification Service](https://www.fastprep.io/system-design/harmful-content-classification-service)|[![Practice][p]](https://www.fastprep.io/system-design/harmful-content-classification-service)|Jul 03, 2025|
 |**Atlassian**|[Smart-Fridge Edge Processing Migration](https://www.fastprep.io/system-design/smart-fridge-edge-processing-migration)|[![Practice][p]](https://www.fastprep.io/system-design/smart-fridge-edge-processing-migration)|Jul 01, 2025|
 |**Atlassian**|[Diagnose and Scale a Recipe Commerce Service](https://www.fastprep.io/system-design/recipe-commerce-performance-review)|[![Practice][p]](https://www.fastprep.io/system-design/recipe-commerce-performance-review)|May 31, 2025|
@@ -545,6 +546,7 @@
 |**Bloomberg LP**|[Design Capacity-Weighted Cache Routing](https://www.fastprep.io/system-design/capacity-weighted-cache-routing)|[![Practice][p]](https://www.fastprep.io/system-design/capacity-weighted-cache-routing)|Nov 21, 2022|
 |**Microsoft**|[Design Website Classification with Crowd-Labeled Data](https://www.fastprep.io/system-design/website-classification-crowd-labels)|[![Practice][p]](https://www.fastprep.io/system-design/website-classification-crowd-labels)|Oct 31, 2022|
 |**ZipRecruiter**|[Design Candidate Saved-Search Alerts](https://www.fastprep.io/system-design/candidate-saved-search-alerts)|[![Practice][p]](https://www.fastprep.io/system-design/candidate-saved-search-alerts)|Oct 21, 2022|
+|**Klaviyo**|[Redesign a Multi-Tier Web Application for AWS](https://www.fastprep.io/system-design/multi-tier-web-application-aws-redesign)|[![Practice][p]](https://www.fastprep.io/system-design/multi-tier-web-application-aws-redesign)|Oct 21, 2022|
 |**Confluent**|[Design a Resilient Infinite-Scroll Social Feed](https://www.fastprep.io/system-design/resilient-infinite-scroll-social-feed)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-infinite-scroll-social-feed)|Oct 18, 2022|
 |**Bloomberg LP**|[Design Internal Latency Measurement and Alerting](https://www.fastprep.io/system-design/internal-latency-measurement-alerting)|[![Practice][p]](https://www.fastprep.io/system-design/internal-latency-measurement-alerting)|Aug 12, 2022|
 |**Careem**|[Design a Highly Available Distributed Key-Value Store](https://www.fastprep.io/system-design/highly-available-distributed-key-value-store)|[![Practice][p]](https://www.fastprep.io/system-design/highly-available-distributed-key-value-store)|Aug 08, 2022|

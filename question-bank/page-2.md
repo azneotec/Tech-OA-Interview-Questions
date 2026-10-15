@@ -1142,6 +1142,7 @@
 |**Zip**|[In-Memory Database with TTL and Historical Queries](https://www.fastprep.io/problems/zip-in-memory-database-oa)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zip-in-memory-database-oa)|Jul 22, 2025|
 |**Stripe**|[Indexed API Field Pattern Queries](https://www.fastprep.io/problems/stripe-indexed-api-field-pattern-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-indexed-api-field-pattern-queries)|Jul 19, 2025|
 |**Abnormal Security**|[Find Duplicate Image Files](https://www.fastprep.io/problems/abnormal-security-duplicate-image-files)|Coding|[![Practice][p]](https://www.fastprep.io/problems/abnormal-security-duplicate-image-files)|Jul 15, 2025|
+|**Klaviyo**|[Design a Crypto Portfolio Purchase Experience](https://www.fastprep.io/system-design/crypto-portfolio-purchase-interface)|System design|[![Practice][p]](https://www.fastprep.io/system-design/crypto-portfolio-purchase-interface)|Jul 09, 2025|
 |**Amazon**|[Maximize Pages Before Suspension](https://www.fastprep.io/problems/amazon-maximize-pages-before-suspension)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-pages-before-suspension)|Jul 08, 2025|
 |**Salesforce**|[Minimum Operations to Zero](https://www.fastprep.io/problems/salesforce-minimum-operations-to-zero)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimum-operations-to-zero)|Jul 08, 2025|
 |**Salesforce**|[Integrity Score](https://www.fastprep.io/problems/salesforce-integrity-score)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-integrity-score)|Jul 08, 2025|
@@ -1793,6 +1794,4 @@
 |**TikTok**|[Exchange Cups](https://www.fastprep.io/problems/tiktok-exchange-cups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-exchange-cups)|Aug 10, 2024|
 |**TikTok**|[Eating Candies](https://www.fastprep.io/problems/tiktok-eating-candies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-eating-candies)|Aug 10, 2024|
 |**TikTok**|[Find Good Subarray](https://www.fastprep.io/problems/tiktok-find-good-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-good-subarray)|Aug 10, 2024|
-|**TikTok**|[Card Packets](https://www.fastprep.io/problems/tiktok-card-packets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-card-packets)|Aug 10, 2024|
-|**Databricks**|[Count Pairs](https://www.fastprep.io/problems/dd-count-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/dd-count-pairs)|Aug 10, 2024|
 <a id="bottom"></a>

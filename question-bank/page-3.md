@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**TikTok**|[Card Packets](https://www.fastprep.io/problems/tiktok-card-packets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-card-packets)|Aug 10, 2024|
+|**Databricks**|[Count Pairs](https://www.fastprep.io/problems/dd-count-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/dd-count-pairs)|Aug 10, 2024|
 |**Google**|[Movie Bits to Right](https://www.fastprep.io/problems/google-move-bits-to-right)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-move-bits-to-right)|Aug 08, 2024|
 |**Eat Club**|[Sequence Beauty](https://www.fastprep.io/problems/eat-club-calculate-sequence-beauty)|Coding|[![Practice][p]](https://www.fastprep.io/problems/eat-club-calculate-sequence-beauty)|Aug 08, 2024|
 |**Eat Club**|[Grandmaster Choice](https://www.fastprep.io/problems/eat-club-grandmasters-choice)|Coding|[![Practice][p]](https://www.fastprep.io/problems/eat-club-grandmasters-choice)|Aug 08, 2024|
@@ -562,6 +564,7 @@
 |**ZipRecruiter**|[Inventory Revenue Across Supply, Sell, and Return Logs](https://www.fastprep.io/problems/ziprecruiter-inventory-revenue)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-inventory-revenue)|Oct 03, 2023|
 |**ZipRecruiter**|[Left Rotation to a Strictly Increasing Array](https://www.fastprep.io/problems/ziprecruiter-left-rotation-to-strictly-increasing)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-left-rotation-to-strictly-increasing)|Oct 02, 2023|
 |**ZipRecruiter**|[Swap Adjacent Inversions in One Pass](https://www.fastprep.io/problems/ziprecruiter-one-pass-adjacent-inversion-swaps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-one-pass-adjacent-inversion-swaps)|Oct 02, 2023|
+|**Klaviyo**|[Repair a Train Speeding Incident Logger](https://www.fastprep.io/project-coding/klaviyo-train-speeding-incidents)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/klaviyo-train-speeding-incidents)|Sep 28, 2023|
 |**ZipRecruiter**|[Rectangle Fit Queries](https://www.fastprep.io/problems/ziprecruiter-saved-rectangle-fit-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-saved-rectangle-fit-queries)|Sep 27, 2023|
 |**Mygate**|[Minimum Subarray Sum](https://www.fastprep.io/problems/mygate-minimum-subarray-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mygate-minimum-subarray-sum)|Sep 27, 2023|
 |**Mygate**|[The Only Nonrepeating Array Element](https://www.fastprep.io/problems/mygate-only-nonrepeating-array-element)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mygate-only-nonrepeating-array-element)|Sep 27, 2023|
@@ -656,6 +659,7 @@
 |**ZipRecruiter**|[Check a Cyclic Next-Character String](https://www.fastprep.io/problems/ziprecruiter-next-character-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-next-character-string)|Oct 21, 2022|
 |**ZipRecruiter**|[Number-Line Obstacles and Block Checks](https://www.fastprep.io/problems/ziprecruiter-number-line-obstacles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-number-line-obstacles)|Oct 21, 2022|
 |**ZipRecruiter**|[Square Matrix Rotation and Reflections](https://www.fastprep.io/problems/ziprecruiter-square-matrix-transforms)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-square-matrix-transforms)|Oct 21, 2022|
+|**Klaviyo**|[Redesign a Multi-Tier Web Application for AWS](https://www.fastprep.io/system-design/multi-tier-web-application-aws-redesign)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-tier-web-application-aws-redesign)|Oct 21, 2022|
 |**Bloomberg LP**|[Implement Stack Using Two Queues](https://www.fastprep.io/problems/bloomberg-implement-stack-using-two-queues)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-implement-stack-using-two-queues)|Oct 19, 2022|
 |**Confluent**|[Design a Resilient Infinite-Scroll Social Feed](https://www.fastprep.io/system-design/resilient-infinite-scroll-social-feed)|System design|[![Practice][p]](https://www.fastprep.io/system-design/resilient-infinite-scroll-social-feed)|Oct 18, 2022|
 |**ZipRecruiter**|[Running Union Length after Interval Uploads](https://www.fastprep.io/problems/ziprecruiter-running-interval-union-length)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-running-interval-union-length)|Oct 18, 2022|
