@@ -603,6 +603,7 @@
 |**Microsoft**|[Programmer Strings](https://www.fastprep.io/problems/microsoft-programmer-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-programmer-strings)|Jun 24, 2026|
 |**Microsoft**|[Minimum Round Trip Lengths](https://www.fastprep.io/problems/microsoft-minimum-round-trip-lengths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-round-trip-lengths)|Jun 24, 2026|
 |**Meta**|[Alert After Repeated Column Threshold Breaches](https://www.fastprep.io/problems/meta-column-threshold-stream-alert)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-column-threshold-stream-alert)|Jun 24, 2026|
+|**Klaviyo**|[Design a CRM Marketing Campaign Platform](https://www.fastprep.io/system-design/crm-marketing-campaign-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/crm-marketing-campaign-platform)|Jun 24, 2026|
 |**Globalization Partners**|[Design an Extensible Role-Based Access Control System](https://www.fastprep.io/low-level-design/extensible-role-based-access-control)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-role-based-access-control)|Jun 23, 2026|
 |**Google**|[Design Student Room Preference Allocation](https://www.fastprep.io/low-level-design/student-room-preference-allocation)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/student-room-preference-allocation)|Jun 23, 2026|
 |**Datadog**|[Design a Ticket-to-Pull-Request Coding Agent](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent)|Jun 22, 2026|
@@ -1794,5 +1795,4 @@
 |**TikTok**|[Find Good Subarray](https://www.fastprep.io/problems/tiktok-find-good-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-good-subarray)|Aug 10, 2024|
 |**TikTok**|[Card Packets](https://www.fastprep.io/problems/tiktok-card-packets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-card-packets)|Aug 10, 2024|
 |**Databricks**|[Count Pairs](https://www.fastprep.io/problems/dd-count-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/dd-count-pairs)|Aug 10, 2024|
-|**Google**|[Movie Bits to Right](https://www.fastprep.io/problems/google-move-bits-to-right)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-move-bits-to-right)|Aug 08, 2024|
 <a id="bottom"></a>

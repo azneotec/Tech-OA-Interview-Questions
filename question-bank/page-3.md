@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Google**|[Movie Bits to Right](https://www.fastprep.io/problems/google-move-bits-to-right)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-move-bits-to-right)|Aug 08, 2024|
 |**Eat Club**|[Sequence Beauty](https://www.fastprep.io/problems/eat-club-calculate-sequence-beauty)|Coding|[![Practice][p]](https://www.fastprep.io/problems/eat-club-calculate-sequence-beauty)|Aug 08, 2024|
 |**Eat Club**|[Grandmaster Choice](https://www.fastprep.io/problems/eat-club-grandmasters-choice)|Coding|[![Practice][p]](https://www.fastprep.io/problems/eat-club-grandmasters-choice)|Aug 08, 2024|
 |**JP Morgan**|[Count Teams](https://www.fastprep.io/problems/jpmorgan-count-teams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-count-teams)|Aug 07, 2024|
