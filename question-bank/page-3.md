@@ -9,6 +9,25 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Get Active Requests Count](https://www.fastprep.io/problems/amazon-get-active-requests-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-active-requests-count)|Aug 05, 2024|
+|**Amazon**|[Get Operations](https://www.fastprep.io/problems/amazon-get-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-operations)|Aug 05, 2024|
+|**Salesforce**|[Count Numbers with Unique Digits](https://www.fastprep.io/problems/salesforce-count-numbers-with-unique-digits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-numbers-with-unique-digits)|Aug 05, 2024|
+|**Google**|[Find Max Heart Rate Difference](https://www.fastprep.io/problems/google-find-max-heart-rate-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-max-heart-rate-difference)|Aug 05, 2024|
+|**Google**|[Find Palindromes](https://www.fastprep.io/problems/google-find-palindromes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-palindromes)|Aug 05, 2024|
+|**Google**|[Binary Palindromic](https://www.fastprep.io/problems/google-minimum-operations-to-make-binary-palindromic)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-operations-to-make-binary-palindromic)|Aug 05, 2024|
+|**Google**|[Max Num of Moves with Same Result Sum](https://www.fastprep.io/problems/google-maximum-number-of-moves-with-same-result-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-number-of-moves-with-same-result-sum)|Aug 05, 2024|
+|**Google**|[Find Consistent Logs](https://www.fastprep.io/problems/google-find-consistent-logs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-consistent-logs)|Aug 05, 2024|
+|**Google**|[Social Meida Friend Recommendation](https://www.fastprep.io/problems/google-social-media-friend-recommendation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-social-media-friend-recommendation)|Aug 05, 2024|
+|**Uber**|[Calculate Visited Countries](https://www.fastprep.io/problems/uber-calculate-visited-countries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-calculate-visited-countries)|Aug 05, 2024|
+|**Akuna**|[Maximum Amount of Profit](https://www.fastprep.io/problems/akuna-maximum-amount-of-profit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-maximum-amount-of-profit)|Aug 05, 2024|
+|**Akuna**|[Max Meetings](https://www.fastprep.io/problems/akuna-max-meetings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-max-meetings)|Aug 05, 2024|
+|**Blackrock**|[Is Happy Number](https://www.fastprep.io/problems/blackrock-is-happy-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/blackrock-is-happy-number)|Aug 05, 2024|
+|**Microsoft**|[Longest Path](https://www.fastprep.io/problems/microsoft-longest-path-with-different-adjacent-characters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-longest-path-with-different-adjacent-characters)|Aug 05, 2024|
+|**Microsoft**|[Min Order](https://www.fastprep.io/problems/microsoft-reorder-routes-to-make-all-paths-lead-to-the-city-zero)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-reorder-routes-to-make-all-paths-lead-to-the-city-zero)|Aug 05, 2024|
+|**MathWorks**|[Good Strings](https://www.fastprep.io/problems/mathwork-good-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathwork-good-strings)|Aug 05, 2024|
+|**MathWorks**|[Cars Left](https://www.fastprep.io/problems/mathwork-cars-left)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathwork-cars-left)|Aug 05, 2024|
+|**Epam**|[Rob House](https://www.fastprep.io/problems/epam-rob-house)|Coding|[![Practice][p]](https://www.fastprep.io/problems/epam-rob-house)|Aug 05, 2024|
+|**Hyper Verge**|[Get String to Remove](https://www.fastprep.io/problems/hyperverge-reach-a-given-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hyperverge-reach-a-given-number)|Aug 05, 2024|
 |**Onix**|[Get String to Remove](https://www.fastprep.io/problems/onix-get-string-to-remove)|Coding|[![Practice][p]](https://www.fastprep.io/problems/onix-get-string-to-remove)|Aug 05, 2024|
 |**SIG**|[Count Triples](https://www.fastprep.io/problems/counting-triples)|Coding|[![Practice][p]](https://www.fastprep.io/problems/counting-triples)|Aug 05, 2024|
 |**Highspot**|[Design a Greeting Card E-Commerce Marketplace](https://www.fastprep.io/system-design/greeting-card-marketplace)|System design|[![Practice][p]](https://www.fastprep.io/system-design/greeting-card-marketplace)|Aug 03, 2024|
