@@ -825,6 +825,7 @@
 |**TCS**|[Gym Fees Calculator](https://www.fastprep.io/problems/tcs-gym-fees-calculator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tcs-gym-fees-calculator)|Mar 20, 2026|
 |**Microsoft**|[Design SFT and RL for Consistent LLM Answers](https://www.fastprep.io/system-design/llm-response-consistency-sft-and-rl)|System design|[![Practice][p]](https://www.fastprep.io/system-design/llm-response-consistency-sft-and-rl)|Mar 20, 2026|
 |**Bloomberg LP**|[Flatten a Multilevel Doubly Linked List](https://www.fastprep.io/problems/bloomberg-flatten-multilevel-doubly-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-flatten-multilevel-doubly-linked-list)|Mar 17, 2026|
+|**Klaviyo**|[Build a Weather App Using an API](https://www.fastprep.io/project-coding/klaviyo-weather-api-application)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/klaviyo-weather-api-application)|Mar 17, 2026|
 |**Salesforce**|[Key Teams in Tree](https://www.fastprep.io/problems/salesforce-key-teams-in-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-key-teams-in-tree)|Mar 15, 2026|
 |**Salesforce**|[System Energy Reduction](https://www.fastprep.io/problems/salesforce-system-energy-reduction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-system-energy-reduction)|Mar 15, 2026|
 |**Salesforce**|[Update Logs by Symmetric XOR](https://www.fastprep.io/problems/salesforce-update-logs-by-symmetric-xor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-update-logs-by-symmetric-xor)|Mar 15, 2026|
@@ -1797,5 +1798,4 @@
 |**BNY Mellon**|[Count Subsequences](https://www.fastprep.io/problems/bnymellon-count-subsequences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bnymellon-count-subsequences)|Aug 06, 2024|
 |**BNY Mellon**|[Dig Sum](https://www.fastprep.io/problems/bnymellon-ways-to-choose-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bnymellon-ways-to-choose-sum)|Aug 06, 2024|
 |**Amazon**|[Process Queries On Cart](https://www.fastprep.io/problems/amazon-process-queries-on-cart)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-process-queries-on-cart)|Aug 05, 2024|
-|**Amazon**|[Assign Tasks](https://www.fastprep.io/problems/amazon-assign-tasks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-assign-tasks)|Aug 05, 2024|
 <a id="bottom"></a>

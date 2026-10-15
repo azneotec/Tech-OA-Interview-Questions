@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Assign Tasks](https://www.fastprep.io/problems/amazon-assign-tasks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-assign-tasks)|Aug 05, 2024|
 |**Amazon**|[Get Active Requests Count](https://www.fastprep.io/problems/amazon-get-active-requests-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-active-requests-count)|Aug 05, 2024|
 |**Amazon**|[Get Operations](https://www.fastprep.io/problems/amazon-get-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-operations)|Aug 05, 2024|
 |**Salesforce**|[Count Numbers with Unique Digits](https://www.fastprep.io/problems/salesforce-count-numbers-with-unique-digits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-numbers-with-unique-digits)|Aug 05, 2024|
