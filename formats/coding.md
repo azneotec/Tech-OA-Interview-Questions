@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,543 questions**
+**3,552 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1257,6 +1257,7 @@
 |**OpenAI**|[Message Serializer and Deserializer](https://www.fastprep.io/problems/openai-message-serializer-deserializer)|[![Practice][p]](https://www.fastprep.io/problems/openai-message-serializer-deserializer)|Aug 19, 2026|
 |**IBM**|[Count Invalid Log Groups](https://www.fastprep.io/problems/ibm-count-invalid-log-groups)|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-invalid-log-groups)|Aug 18, 2026|
 |**IBM**|[Count Paginated Medical Records in a Range](https://www.fastprep.io/problems/ibm-count-paginated-medical-records-in-range)|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-paginated-medical-records-in-range)|Aug 18, 2026|
+|**Klaviyo**|[Progressive Parcel Tracking Operations](https://www.fastprep.io/problems/klaviyo-progressive-parcel-tracking-operations)|[![Practice][p]](https://www.fastprep.io/problems/klaviyo-progressive-parcel-tracking-operations)|Aug 18, 2026|
 |**Headlands Technologies**|[Job Runner Chain Reports](https://www.fastprep.io/problems/headlands-job-runner)|[![Practice][p]](https://www.fastprep.io/problems/headlands-job-runner)|Aug 17, 2026|
 |**Adobe**|[Count Parent Nodes With a Target Sum](https://www.fastprep.io/problems/adobe-count-parent-nodes-with-target-sum)|[![Practice][p]](https://www.fastprep.io/problems/adobe-count-parent-nodes-with-target-sum)|Aug 14, 2026|
 |**Adobe**|[Largest Binary Number by Concatenation](https://www.fastprep.io/problems/adobe-largest-binary-number-by-concatenation)|[![Practice][p]](https://www.fastprep.io/problems/adobe-largest-binary-number-by-concatenation)|Aug 14, 2026|
@@ -1823,5 +1824,4 @@
 |**Ramp**|[In-Memory Database with TTL and Historical Lookup](https://www.fastprep.io/problems/ramp-in-memory-database-historical-lookup)|[![Practice][p]](https://www.fastprep.io/problems/ramp-in-memory-database-historical-lookup)|Mar 04, 2026|
 |**Salesforce**|[Count Palindromic Concatenation Pairs](https://www.fastprep.io/problems/salesforce-count-palindromic-concatenation-pairs)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-palindromic-concatenation-pairs)|Mar 02, 2026|
 |**WhatNot**|[Validate Rows and Columns](https://www.fastprep.io/problems/whatnot-validate-row-column-grid)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-validate-row-column-grid)|Mar 01, 2026|
-|**Google**|[All Long Subsequences Are Dictionary Words](https://www.fastprep.io/problems/google-all-long-subsequences-are-words)|[![Practice][p]](https://www.fastprep.io/problems/google-all-long-subsequences-are-words)|Feb 28, 2026|
 <a id="bottom"></a>
