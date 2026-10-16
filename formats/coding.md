@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,552 questions**
+**3,563 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1220,6 +1220,7 @@
 |**Anthropic**|[Cloud Storage System](https://www.fastprep.io/problems/anthropic-cloud-storage-system)|[![Practice][p]](https://www.fastprep.io/problems/anthropic-cloud-storage-system)|Aug 22, 2026|
 |**Google**|[Longest Unique Substring Range](https://www.fastprep.io/problems/google-longest-unique-substring-range)|[![Practice][p]](https://www.fastprep.io/problems/google-longest-unique-substring-range)|Aug 22, 2026|
 |**Google**|[Minimum Distance to Return a Book](https://www.fastprep.io/problems/google-minimum-library-return-distance)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-library-return-distance)|Aug 22, 2026|
+|**Apple**|[Count Islands in a Binary Grid](https://www.fastprep.io/problems/apple-count-islands-in-a-binary-grid)|[![Practice][p]](https://www.fastprep.io/problems/apple-count-islands-in-a-binary-grid)|Aug 22, 2026|
 |**Google**|[Directed Graph Reachability Queries](https://www.fastprep.io/problems/google-directed-graph-reachability-queries)|[![Practice][p]](https://www.fastprep.io/problems/google-directed-graph-reachability-queries)|Aug 21, 2026|
 |**Pinterest**|[Phone Spam Report Counter](https://www.fastprep.io/problems/pinterest-phone-spam-report-counter)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-phone-spam-report-counter)|Aug 21, 2026|
 |**Pinterest**|[Minimize the Longest Hike Between Rest Stops](https://www.fastprep.io/problems/pinterest-minimize-longest-hike-between-rest-stops)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-minimize-longest-hike-between-rest-stops)|Aug 21, 2026|
@@ -1823,5 +1824,4 @@
 |**Bloomberg LP**|[Two City Scheduling with an Odd Candidate Count](https://www.fastprep.io/problems/bloomberg-two-city-scheduling)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-two-city-scheduling)|Mar 05, 2026|
 |**Ramp**|[In-Memory Database with TTL and Historical Lookup](https://www.fastprep.io/problems/ramp-in-memory-database-historical-lookup)|[![Practice][p]](https://www.fastprep.io/problems/ramp-in-memory-database-historical-lookup)|Mar 04, 2026|
 |**Salesforce**|[Count Palindromic Concatenation Pairs](https://www.fastprep.io/problems/salesforce-count-palindromic-concatenation-pairs)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-palindromic-concatenation-pairs)|Mar 02, 2026|
-|**WhatNot**|[Validate Rows and Columns](https://www.fastprep.io/problems/whatnot-validate-row-column-grid)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-validate-row-column-grid)|Mar 01, 2026|
 <a id="bottom"></a>
