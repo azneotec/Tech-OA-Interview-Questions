@@ -45,6 +45,7 @@
 |**Citadel / Goldman Sachs**|[Design a Course Registration Platform](https://www.fastprep.io/system-design/course-registration-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/course-registration-platform)|Aug 22, 2026|
 |**LinkedIn**|[Design a Rolling Shared-Article Leaderboard](https://www.fastprep.io/system-design/rolling-shared-article-leaderboard)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rolling-shared-article-leaderboard)|Aug 22, 2026|
 |**Google**|[Minimum Distance to Return a Book](https://www.fastprep.io/problems/google-minimum-library-return-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-library-return-distance)|Aug 22, 2026|
+|**Apple**|[Count Islands in a Binary Grid](https://www.fastprep.io/problems/apple-count-islands-in-a-binary-grid)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-count-islands-in-a-binary-grid)|Aug 22, 2026|
 |**Google**|[Directed Graph Reachability Queries](https://www.fastprep.io/problems/google-directed-graph-reachability-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-directed-graph-reachability-queries)|Aug 21, 2026|
 |**Pinterest**|[Phone Spam Report Counter](https://www.fastprep.io/problems/pinterest-phone-spam-report-counter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-phone-spam-report-counter)|Aug 21, 2026|
 |**Pinterest**|[Minimize the Longest Hike Between Rest Stops](https://www.fastprep.io/problems/pinterest-minimize-longest-hike-between-rest-stops)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-minimize-longest-hike-between-rest-stops)|Aug 21, 2026|
@@ -1079,6 +1080,10 @@
 |**SpaceX**|[Rocket Component Cost](https://www.fastprep.io/problems/spacex-rocket-component-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/spacex-rocket-component-cost)|Aug 22, 2025|
 |**SpaceX**|[Design Tagged Gift Shop Search](https://www.fastprep.io/low-level-design/gift-shop-tagged-search)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/gift-shop-tagged-search)|Aug 22, 2025|
 |**SpaceX**|[Warehouse Order Transit Tracking](https://www.fastprep.io/low-level-design/warehouse-order-transit-tracking)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/warehouse-order-transit-tracking)|Aug 22, 2025|
+|**Apple**|[Coin Change](https://www.fastprep.io/problems/apple-coin-change)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-coin-change)|Aug 14, 2025|
+|**Apple**|[Collect Letters Along a Unique Grid Path](https://www.fastprep.io/problems/apple-collect-letters-along-grid-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-collect-letters-along-grid-path)|Aug 14, 2025|
+|**Apple**|[Maximum Weight in Two Bags](https://www.fastprep.io/problems/apple-two-bag-knapsack)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-two-bag-knapsack)|Aug 14, 2025|
+|**Apple**|[Coin Change II](https://www.fastprep.io/problems/apple-coin-change-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-coin-change-ii)|Aug 14, 2025|
 |**Motive**|[Search a Row-Major Sorted Matrix](https://www.fastprep.io/problems/motive-search-row-major-sorted-matrix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-search-row-major-sorted-matrix)|Aug 13, 2025|
 |**Splunk**|[Activity Playlist Streaming Service](https://www.fastprep.io/system-design/activity-playlist-streaming-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/activity-playlist-streaming-service)|Aug 13, 2025|
 |**Splunk / Atlassian**|[Cost-Aware Interactive Content Delivery](https://www.fastprep.io/system-design/cost-aware-interactive-content-delivery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cost-aware-interactive-content-delivery)|Aug 13, 2025|
@@ -1787,9 +1792,4 @@
 |**TikTok**|[Get Optimal Content Storage](https://www.fastprep.io/problems/tiktok-get-optimal-content-storage)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-optimal-content-storage)|Aug 18, 2024|
 |**Roblox**|[Find Largest Num Of Pairs](https://www.fastprep.io/problems/roblox-find-max-number-of-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-find-max-number-of-pairs)|Aug 18, 2024|
 |**Databricks**|[String Requests](https://www.fastprep.io/problems/databricks-string-requests)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-string-requests)|Aug 18, 2024|
-|**Databricks**|[Diagonal Weights](https://www.fastprep.io/problems/databricks-diagonal-weights)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-diagonal-weights)|Aug 18, 2024|
-|**Databricks**|[Goto Largest Bucket](https://www.fastprep.io/problems/databricks-goto-largest-bucket)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-goto-largest-bucket)|Aug 18, 2024|
-|**Databricks**|[Count Triples with Diff](https://www.fastprep.io/problems/databricks-count-triples-with-diff)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-count-triples-with-diff)|Aug 18, 2024|
-|**IBM**|[Get Maximum Occurances](https://www.fastprep.io/problems/ibm-get-max-occurrences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-max-occurrences)|Aug 18, 2024|
-|**IBM**|[Get Min Difference](https://www.fastprep.io/problems/ibm-get-minimum-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-minimum-difference)|Aug 18, 2024|
 <a id="bottom"></a>
