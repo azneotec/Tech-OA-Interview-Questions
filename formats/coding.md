@@ -2,12 +2,16 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,571 questions**
+**3,575 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Pace Stock Broking Services**|[Minimum Cost for a Target Weight](https://www.fastprep.io/problems/pace-stock-minimum-power-of-two-weight-cost)|[![Practice][p]](https://www.fastprep.io/problems/pace-stock-minimum-power-of-two-weight-cost)|🔥 Oct 16, 2026|
+|**InMobi**|[Validate a Bracket Sequence](https://www.fastprep.io/problems/inmobi-valid-parentheses-stack)|[![Practice][p]](https://www.fastprep.io/problems/inmobi-valid-parentheses-stack)|🔥 Oct 16, 2026|
+|**Microsoft**|[Balance a Chemical Equation](https://www.fastprep.io/problems/microsoft-balance-chemical-equation)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-balance-chemical-equation)|🔥 Oct 16, 2026|
+|**Microsoft**|[Minimum Changes for a Beautiful String](https://www.fastprep.io/problems/microsoft-minimum-beautiful-string-operations)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-beautiful-string-operations)|🔥 Oct 16, 2026|
 |**TikTok**|[Find Local Maxima in Sensor Data](https://www.fastprep.io/problems/tiktok-find-local-maxima)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-local-maxima)|🔥 Oct 15, 2026|
 |**TikTok**|[Bagging Classifier with Supplied Decision Trees](https://www.fastprep.io/problems/tiktok-bagging-classifier)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-bagging-classifier)|🔥 Oct 15, 2026|
 |**TikTok**|[Cosine k-Means Clustering](https://www.fastprep.io/problems/tiktok-cosine-k-means-clustering)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-cosine-k-means-clustering)|🔥 Oct 15, 2026|
@@ -1820,8 +1824,4 @@
 |**Salesforce**|[Key Teams in Tree](https://www.fastprep.io/problems/salesforce-key-teams-in-tree)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-key-teams-in-tree)|Mar 15, 2026|
 |**Salesforce**|[System Energy Reduction](https://www.fastprep.io/problems/salesforce-system-energy-reduction)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-system-energy-reduction)|Mar 15, 2026|
 |**Salesforce**|[Update Logs by Symmetric XOR](https://www.fastprep.io/problems/salesforce-update-logs-by-symmetric-xor)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-update-logs-by-symmetric-xor)|Mar 15, 2026|
-|**FlexTrade**|[Reverse a String](https://www.fastprep.io/problems/flextrade-reverse-string)|[![Practice][p]](https://www.fastprep.io/problems/flextrade-reverse-string)|Mar 14, 2026|
-|**Adobe**|[Closest Number Pairs](https://www.fastprep.io/problems/adobe-closest-number-pairs)|[![Practice][p]](https://www.fastprep.io/problems/adobe-closest-number-pairs)|Mar 12, 2026|
-|**Adobe**|[Maximum Reachable Value Within a Step Budget](https://www.fastprep.io/problems/adobe-maximum-reachable-value)|[![Practice][p]](https://www.fastprep.io/problems/adobe-maximum-reachable-value)|Mar 12, 2026|
-|**Adobe**|[Count Distinct Fixed-Length Substrings](https://www.fastprep.io/problems/adobe-count-distinct-fixed-length-substrings)|[![Practice][p]](https://www.fastprep.io/problems/adobe-count-distinct-fixed-length-substrings)|Mar 12, 2026|
 <a id="bottom"></a>

@@ -9,6 +9,12 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**TikTok**|[Shared Categories](https://www.fastprep.io/problems/tiktok-max-shared-categories)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-max-shared-categories)|Aug 23, 2024|
+|**TikTok**|[Find Min Transitions](https://www.fastprep.io/problems/tiktok-find-minimum-transitions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-minimum-transitions)|Aug 23, 2024|
+|**TikTok**|[Find Pair with Max GCD](https://www.fastprep.io/problems/tiktok-find-pair-with-maximum-gcd)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-pair-with-maximum-gcd)|Aug 23, 2024|
+|**Rubrik**|[Friendship String](https://www.fastprep.io/problems/rubrik-friendship-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-friendship-string)|Aug 23, 2024|
+|**Rubrik**|[Doing Smart Work](https://www.fastprep.io/problems/rubrik-doing-smart-work)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-doing-smart-work)|Aug 23, 2024|
+|**Rubrik**|[Battle with Upper Moon 6](https://www.fastprep.io/problems/rubrik-battle-with-upper-moon-6)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-battle-with-upper-moon-6)|Aug 23, 2024|
 |**Rubrik**|[Maximize Happiness](https://www.fastprep.io/problems/rubrik-maximize-happiness)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-maximize-happiness)|Aug 23, 2024|
 |**MathWorks**|[Make Arrays Equal](https://www.fastprep.io/problems/mathwork-make-arrays-equal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathwork-make-arrays-equal)|Aug 23, 2024|
 |**Trend Micro**|[Counting Game](https://www.fastprep.io/problems/trendmicro-counting-game)|Coding|[![Practice][p]](https://www.fastprep.io/problems/trendmicro-counting-game)|Aug 23, 2024|
