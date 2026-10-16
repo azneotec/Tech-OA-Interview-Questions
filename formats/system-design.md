@@ -8,6 +8,8 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Anthropic**|[Design a Gang-Scheduled GPU Inference Pool](https://www.fastprep.io/system-design/gang-scheduled-gpu-inference-pool)|[![Practice][p]](https://www.fastprep.io/system-design/gang-scheduled-gpu-inference-pool)|🔥 Oct 15, 2026|
+|**LinkedIn**|[Design a Personalized Recruiter Outreach Platform](https://www.fastprep.io/system-design/personalized-recruiter-outreach-platform)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recruiter-outreach-platform)|🔥 Oct 15, 2026|
 |**Coinbase / Goldman Sachs / Robinhood**|[Design a Brokerage Order Processing System](https://www.fastprep.io/system-design/brokerage-order-processing-system)|[![Practice][p]](https://www.fastprep.io/system-design/brokerage-order-processing-system)|🔥 Oct 14, 2026|
 |**Robinhood**|[Large-Input Word Frequency Analysis](https://www.fastprep.io/system-design/large-input-word-frequency-analysis)|[![Practice][p]](https://www.fastprep.io/system-design/large-input-word-frequency-analysis)|🔥 Oct 14, 2026|
 |**Attentive / Oracle / Amperity / Snap Inc. / Waabi / LinkedIn**|[Design a Time Series Metrics Database](https://www.fastprep.io/system-design/time-series-metrics-database)|[![Practice][p]](https://www.fastprep.io/system-design/time-series-metrics-database)|🔥 Oct 14, 2026|
@@ -83,10 +85,8 @@
 |**Rippling**|[Design an Email Package Tracking Widget](https://www.fastprep.io/system-design/email-package-tracking-widget)|[![Practice][p]](https://www.fastprep.io/system-design/email-package-tracking-widget)|🔥 Oct 02, 2026|
 |**Roblox**|[Design an Image Feed](https://www.fastprep.io/system-design/image-feed-system)|[![Practice][p]](https://www.fastprep.io/system-design/image-feed-system)|🔥 Oct 02, 2026|
 |**Zscaler / Amazon / Walmart / Stripe / ByteDance / Bloomberg LP / OpenAI / New Relic**|[Design a Global Service Metrics Monitoring and Alerting Platform](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting)|[![Practice][p]](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting)|🔥 Oct 02, 2026|
-|**Anthropic**|[Design a Gang-Scheduled GPU Inference Pool](https://www.fastprep.io/system-design/gang-scheduled-gpu-inference-pool)|[![Practice][p]](https://www.fastprep.io/system-design/gang-scheduled-gpu-inference-pool)|🔥 Oct 02, 2026|
 |**Waymo / Nuro**|[Design a Distributed Simulation Platform](https://www.fastprep.io/system-design/distributed-simulation-job-platform)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-simulation-job-platform)|🆕 Oct 01, 2026|
 |**LinkedIn**|[Design a Job-Click Prediction Platform](https://www.fastprep.io/system-design/job-click-prediction-platform)|[![Practice][p]](https://www.fastprep.io/system-design/job-click-prediction-platform)|🆕 Oct 01, 2026|
-|**LinkedIn**|[Design a Personalized Recruiter Outreach Platform](https://www.fastprep.io/system-design/personalized-recruiter-outreach-platform)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recruiter-outreach-platform)|🆕 Oct 01, 2026|
 |**Microsoft**|[Design an Employee Attrition Risk Platform](https://www.fastprep.io/system-design/employee-attrition-risk-platform)|[![Practice][p]](https://www.fastprep.io/system-design/employee-attrition-risk-platform)|🆕 Oct 01, 2026|
 |**Pinterest / Slack / Motive**|[Design a Typeahead Suggestion Service](https://www.fastprep.io/system-design/typeahead-suggestion-service)|[![Practice][p]](https://www.fastprep.io/system-design/typeahead-suggestion-service)|🆕 Oct 01, 2026|
 |**Bloomberg LP / Uber**|[Design a Real-Time Stock Alert System](https://www.fastprep.io/system-design/configurable-real-time-stock-alerts)|[![Practice][p]](https://www.fastprep.io/system-design/configurable-real-time-stock-alerts)|🆕 Oct 01, 2026|
