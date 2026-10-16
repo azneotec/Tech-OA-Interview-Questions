@@ -2,12 +2,20 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,563 questions**
+**3,571 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Maven Clinic**|[Shortest Currency Conversion with Three-Decimal Rate](https://www.fastprep.io/problems/maven-clinic-shortest-currency-conversion)|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-shortest-currency-conversion)|Mar 11, 2026|
+|**OpenAI**|[Cogwheel Rotation Directions](https://www.fastprep.io/problems/openai-cogwheel-rotation-directions)|[![Practice][p]](https://www.fastprep.io/problems/openai-cogwheel-rotation-directions)|Mar 09, 2026|
+|**OpenAI**|[Digit-Sum Sequence Join Point](https://www.fastprep.io/problems/openai-digit-sum-sequence-join)|[![Practice][p]](https://www.fastprep.io/problems/openai-digit-sum-sequence-join)|Mar 09, 2026|
+|**OpenAI**|[Minimum Dining Table Rotations](https://www.fastprep.io/problems/openai-minimum-dining-table-rotations)|[![Practice][p]](https://www.fastprep.io/problems/openai-minimum-dining-table-rotations)|Mar 09, 2026|
+|**Notion**|[Text Document History](https://www.fastprep.io/problems/notion-text-document-history)|[![Practice][p]](https://www.fastprep.io/problems/notion-text-document-history)|Mar 08, 2026|
+|**Bloomberg LP**|[Two City Scheduling with an Odd Candidate Count](https://www.fastprep.io/problems/bloomberg-two-city-scheduling)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-two-city-scheduling)|Mar 05, 2026|
+|**Ramp**|[In-Memory Database with TTL and Historical Lookup](https://www.fastprep.io/problems/ramp-in-memory-database-historical-lookup)|[![Practice][p]](https://www.fastprep.io/problems/ramp-in-memory-database-historical-lookup)|Mar 04, 2026|
+|**Salesforce**|[Count Palindromic Concatenation Pairs](https://www.fastprep.io/problems/salesforce-count-palindromic-concatenation-pairs)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-palindromic-concatenation-pairs)|Mar 02, 2026|
 |**WhatNot**|[Validate Rows and Columns](https://www.fastprep.io/problems/whatnot-validate-row-column-grid)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-validate-row-column-grid)|Mar 01, 2026|
 |**Google**|[All Long Subsequences Are Dictionary Words](https://www.fastprep.io/problems/google-all-long-subsequences-are-words)|[![Practice][p]](https://www.fastprep.io/problems/google-all-long-subsequences-are-words)|Feb 28, 2026|
 |**Google**|[Frequency-Weighted Next-Word Sampling](https://www.fastprep.io/problems/google-frequency-weighted-next-word-sampling)|[![Practice][p]](https://www.fastprep.io/problems/google-frequency-weighted-next-word-sampling)|Feb 28, 2026|

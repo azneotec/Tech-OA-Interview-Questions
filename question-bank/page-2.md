@@ -9,6 +9,14 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Maven Securities**|[Resource Allocation](https://www.fastprep.io/problems/maven-securities-resource-allocation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maven-securities-resource-allocation)|Aug 26, 2026|
+|**TikTok**|[Event ID Check Completion Times](https://www.fastprep.io/problems/tiktok-event-id-check-completion-times)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-event-id-check-completion-times)|Aug 26, 2026|
+|**TikTok**|[Find Sum Pairs (for mle also :)](https://www.fastprep.io/problems/tiktok-find-sum-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-sum-pairs)|Aug 26, 2026|
+|**Superhuman / Grammarly**|[Design an Ephemeral Messaging Service](https://www.fastprep.io/system-design/ephemeral-message-delivery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ephemeral-message-delivery)|Aug 26, 2026|
+|**Amazon**|[Customer Support Chat Platform](https://www.fastprep.io/system-design/customer-support-chat-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/customer-support-chat-platform)|Aug 26, 2026|
+|**ElevenLabs**|[AI-Assisted Commerce Platform](https://www.fastprep.io/system-design/ai-assisted-commerce-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ai-assisted-commerce-platform)|Aug 26, 2026|
+|**ByteDance**|[Match Consecutive Word Boundaries (for mle also :)](https://www.fastprep.io/problems/bytedance-match-consecutive-word-boundaries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-match-consecutive-word-boundaries)|Aug 25, 2026|
+|**ByteDance**|[Minimize Expression Value with Parentheses (for mle also :)](https://www.fastprep.io/problems/bytedance-minimize-expression-value-with-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-minimize-expression-value-with-parentheses)|Aug 25, 2026|
 |**ByteDance**|[Leftmost Memory Block Allocator (for mle also :)](https://www.fastprep.io/problems/bytedance-leftmost-memory-block-allocator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-leftmost-memory-block-allocator)|Aug 25, 2026|
 |**ByteDance**|[Find Sum Pairs (for mle also :)](https://www.fastprep.io/problems/bytedance-find-sum-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-find-sum-pairs)|Aug 25, 2026|
 |**Apple**|[Design a Multi-Version Configuration Service](https://www.fastprep.io/system-design/multi-version-configuration-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-version-configuration-service)|Aug 25, 2026|
@@ -1783,13 +1791,4 @@
 |**Trend Micro**|[Counting Game](https://www.fastprep.io/problems/trendmicro-counting-game)|Coding|[![Practice][p]](https://www.fastprep.io/problems/trendmicro-counting-game)|Aug 23, 2024|
 |**Trend Micro**|[Find Sequences](https://www.fastprep.io/problems/trendmicro-find-sequences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/trendmicro-find-sequences)|Aug 23, 2024|
 |**Cvent**|[Maximize Score](https://www.fastprep.io/problems/cvent-maximize-score)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cvent-maximize-score)|Aug 23, 2024|
-|**Pinterest**|[Join Sources with Lagged Destination Timestamps](https://www.fastprep.io/problems/pinterest-timestamp-lag-source-join)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-timestamp-lag-source-join)|Aug 21, 2024|
-|**Snowflake**|[Closest Squared Distance](https://www.fastprep.io/problems/snowflake-closest-squared-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-closest-squared-distance)|Aug 20, 2024|
-|**Salesforce**|[Find Num of Perfect Pairs](https://www.fastprep.io/problems/salesforce-find-number-of-perfect-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-find-number-of-perfect-pairs)|Aug 18, 2024|
-|**Salesforce**|[Least Hours](https://www.fastprep.io/problems/salesforce-least-hours)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-least-hours)|Aug 18, 2024|
-|**JP Morgan**|[Choose Fleets](https://www.fastprep.io/problems/jpmorgan-choose-fleets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-choose-fleets)|Aug 18, 2024|
-|**JP Morgan**|[Count Signals](https://www.fastprep.io/problems/jpmorgan-count-signals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-count-signals)|Aug 18, 2024|
-|**Google**|[Biggest Number of Digits](https://www.fastprep.io/problems/google-biggest-number-of-digits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-biggest-number-of-digits)|Aug 18, 2024|
-|**TikTok**|[Get Optimal Content Storage](https://www.fastprep.io/problems/tiktok-get-optimal-content-storage)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-optimal-content-storage)|Aug 18, 2024|
-|**Roblox**|[Find Largest Num Of Pairs](https://www.fastprep.io/problems/roblox-find-max-number-of-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-find-max-number-of-pairs)|Aug 18, 2024|
 <a id="bottom"></a>
