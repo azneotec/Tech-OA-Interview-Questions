@@ -15,6 +15,8 @@
 |**TikTok**|[Correct Sensor Readings](https://www.fastprep.io/problems/tiktok-correct-sensor-readings)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-correct-sensor-readings)|🔥 Oct 15, 2026|
 |**TikTok**|[Bouncing Diagonal Weights](https://www.fastprep.io/problems/tiktok-bouncing-diagonal-weights)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-bouncing-diagonal-weights)|🔥 Oct 15, 2026|
 |**TikTok**|[Arithmetic Triplets After Queries](https://www.fastprep.io/problems/tiktok-arithmetic-triplets-after-queries)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-arithmetic-triplets-after-queries)|🔥 Oct 15, 2026|
+|**Google**|[Count Score Categories](https://www.fastprep.io/problems/google-count-score-categories)|[![Practice][p]](https://www.fastprep.io/problems/google-count-score-categories)|🔥 Oct 15, 2026|
+|**Google**|[Book Reading Evenings](https://www.fastprep.io/problems/google-book-reading-evenings)|[![Practice][p]](https://www.fastprep.io/problems/google-book-reading-evenings)|🔥 Oct 15, 2026|
 |**LinkedIn**|[Known Words Matching Phone Digits](https://www.fastprep.io/problems/linkedin-known-words-for-phone-digits)|[![Practice][p]](https://www.fastprep.io/problems/linkedin-known-words-for-phone-digits)|🔥 Oct 14, 2026|
 |**Rippling**|[Delivery Cost Tracker](https://www.fastprep.io/problems/rippling-delivery-cost-tracker)|[![Practice][p]](https://www.fastprep.io/problems/rippling-delivery-cost-tracker)|🔥 Oct 14, 2026|
 |**Capital One**|[Check Array Arithmetic Expressions](https://www.fastprep.io/problems/capital-one-check-array-arithmetic-expressions)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-check-array-arithmetic-expressions)|🔥 Oct 14, 2026|
@@ -691,8 +693,6 @@
 |**Affirm**|[Normalize Loan Merchants to Root Businesses](https://www.fastprep.io/problems/affirm-normalize-loan-merchants-to-root-business)|[![Practice][p]](https://www.fastprep.io/problems/affirm-normalize-loan-merchants-to-root-business)|🆕 Sep 21, 2026|
 |**Google**|[Filesystem Entity Total Size](https://www.fastprep.io/problems/google-filesystem-entity-total-size)|[![Practice][p]](https://www.fastprep.io/problems/google-filesystem-entity-total-size)|🆕 Sep 21, 2026|
 |**Mercury**|[Sliding Window Rate Limiter](https://www.fastprep.io/problems/mercury-sliding-window-rate-limiter)|[![Practice][p]](https://www.fastprep.io/problems/mercury-sliding-window-rate-limiter)|🆕 Sep 20, 2026|
-|**Google**|[Count Score Categories](https://www.fastprep.io/problems/google-count-score-categories)|[![Practice][p]](https://www.fastprep.io/problems/google-count-score-categories)|🆕 Sep 20, 2026|
-|**Google**|[Book Reading Evenings](https://www.fastprep.io/problems/google-book-reading-evenings)|[![Practice][p]](https://www.fastprep.io/problems/google-book-reading-evenings)|🆕 Sep 20, 2026|
 |**Capital One**|[Obstacle Placement Queries](https://www.fastprep.io/problems/capital-one-obstacle-placement-queries)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-obstacle-placement-queries)|🆕 Sep 20, 2026|
 |**Google**|[Minimum Number of Chairs](https://www.fastprep.io/problems/google-meeting-rooms-ii)|[![Practice][p]](https://www.fastprep.io/problems/google-meeting-rooms-ii)|🆕 Sep 20, 2026|
 |**Harvey**|[Highlight and Rank Overlapping Citations](https://www.fastprep.io/problems/harvey-rank-citations-by-word-overlap)|[![Practice][p]](https://www.fastprep.io/problems/harvey-rank-citations-by-word-overlap)|🆕 Sep 20, 2026|
