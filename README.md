@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,571)](formats/coding.md) · [SQL (76)](formats/sql.md) · [System design (591)](formats/system-design.md) · [Low-level design (175)](formats/low-level-design.md) · [AI coding (84)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,571)](formats/coding.md) · [SQL (76)](formats/sql.md) · [System design (591)](formats/system-design.md) · [Low-level design (175)](formats/low-level-design.md) · [AI coding (85)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -33,6 +33,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <!-- question-pages:end -->
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Unattributed**|[AI Engineer Intern Mock: Customer Message Classifier](https://www.fastprep.io/project-coding/mock-ai-intern-customer-message-classifier)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/mock-ai-intern-customer-message-classifier)|🔥 Oct 16, 2026|
 |**McKinsey & Company**|[Weekend Appointments for Consular Services Rescheduling](https://www.fastprep.io/problems/mckinsey-weekend-appointments)|SQL|[![Practice][p]](https://www.fastprep.io/problems/mckinsey-weekend-appointments)|🔥 Oct 15, 2026|
 |**TikTok**|[Find Local Maxima in Sensor Data](https://www.fastprep.io/problems/tiktok-find-local-maxima)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-local-maxima)|🔥 Oct 15, 2026|
 |**TikTok**|[Bagging Classifier with Supplied Decision Trees](https://www.fastprep.io/problems/tiktok-bagging-classifier)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-bagging-classifier)|🔥 Oct 15, 2026|
@@ -1691,5 +1692,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Microsoft**|[Minimum Length Good Subarray](https://www.fastprep.io/problems/microsoft-minimum-length-good-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-length-good-subarray)|Aug 27, 2026|
 |**LinkedIn**|[Design a Job Listing Freshness Platform](https://www.fastprep.io/system-design/job-listing-freshness-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/job-listing-freshness-platform)|Aug 27, 2026|
 |**Amazon**|[Repair Event Listing Filters, Pagination, and Caching](https://www.fastprep.io/project-coding/amazon-repair-event-listing-cache)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-event-listing-cache)|Aug 27, 2026|
-|**Maven Securities**|[Prime Factor Visitation](https://www.fastprep.io/problems/maven-securities-prime-factor-visitation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maven-securities-prime-factor-visitation)|Aug 26, 2026|
 <a id="bottom"></a>

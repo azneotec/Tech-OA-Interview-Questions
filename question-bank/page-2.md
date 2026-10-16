@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Maven Securities**|[Prime Factor Visitation](https://www.fastprep.io/problems/maven-securities-prime-factor-visitation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maven-securities-prime-factor-visitation)|Aug 26, 2026|
 |**Maven Securities**|[Resource Allocation](https://www.fastprep.io/problems/maven-securities-resource-allocation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maven-securities-resource-allocation)|Aug 26, 2026|
 |**TikTok**|[Event ID Check Completion Times](https://www.fastprep.io/problems/tiktok-event-id-check-completion-times)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-event-id-check-completion-times)|Aug 26, 2026|
 |**TikTok**|[Find Sum Pairs (for mle also :)](https://www.fastprep.io/problems/tiktok-find-sum-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-sum-pairs)|Aug 26, 2026|
@@ -1789,6 +1790,4 @@
 |**Rubrik**|[Maximize Happiness](https://www.fastprep.io/problems/rubrik-maximize-happiness)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-maximize-happiness)|Aug 23, 2024|
 |**MathWorks**|[Make Arrays Equal](https://www.fastprep.io/problems/mathwork-make-arrays-equal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathwork-make-arrays-equal)|Aug 23, 2024|
 |**Trend Micro**|[Counting Game](https://www.fastprep.io/problems/trendmicro-counting-game)|Coding|[![Practice][p]](https://www.fastprep.io/problems/trendmicro-counting-game)|Aug 23, 2024|
-|**Trend Micro**|[Find Sequences](https://www.fastprep.io/problems/trendmicro-find-sequences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/trendmicro-find-sequences)|Aug 23, 2024|
-|**Cvent**|[Maximize Score](https://www.fastprep.io/problems/cvent-maximize-score)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cvent-maximize-score)|Aug 23, 2024|
 <a id="bottom"></a>
