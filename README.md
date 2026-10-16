@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,552)](formats/coding.md) · [SQL (76)](formats/sql.md) · [System design (591)](formats/system-design.md) · [Low-level design (175)](formats/low-level-design.md) · [AI coding (82)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,552)](formats/coding.md) · [SQL (76)](formats/sql.md) · [System design (591)](formats/system-design.md) · [Low-level design (175)](formats/low-level-design.md) · [AI coding (83)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -43,6 +43,8 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**TikTok**|[Arithmetic Triplets After Queries](https://www.fastprep.io/problems/tiktok-arithmetic-triplets-after-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-arithmetic-triplets-after-queries)|🔥 Oct 15, 2026|
 |**Anthropic**|[Design a Gang-Scheduled GPU Inference Pool](https://www.fastprep.io/system-design/gang-scheduled-gpu-inference-pool)|System design|[![Practice][p]](https://www.fastprep.io/system-design/gang-scheduled-gpu-inference-pool)|🔥 Oct 15, 2026|
 |**LinkedIn**|[Design a Personalized Recruiter Outreach Platform](https://www.fastprep.io/system-design/personalized-recruiter-outreach-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recruiter-outreach-platform)|🔥 Oct 15, 2026|
+|**Google / ByteDance**|[Design Fraud-Risk Scoring for Protected Actions](https://www.fastprep.io/system-design/fraud-risk-scoring-for-protected-actions)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fraud-risk-scoring-for-protected-actions)|🔥 Oct 15, 2026|
+|**StackAdapt**|[Repair Corrupted Grid Digit Recognition](https://www.fastprep.io/project-coding/stackadapt-corrupted-grid-digit-recognition)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stackadapt-corrupted-grid-digit-recognition)|🔥 Oct 15, 2026|
 |**Coinbase / Goldman Sachs / Robinhood**|[Design a Brokerage Order Processing System](https://www.fastprep.io/system-design/brokerage-order-processing-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/brokerage-order-processing-system)|🔥 Oct 14, 2026|
 |**Robinhood**|[Large-Input Word Frequency Analysis](https://www.fastprep.io/system-design/large-input-word-frequency-analysis)|System design|[![Practice][p]](https://www.fastprep.io/system-design/large-input-word-frequency-analysis)|🔥 Oct 14, 2026|
 |**Attentive / Oracle / Amperity / Snap Inc. / Waabi / LinkedIn**|[Design a Time Series Metrics Database](https://www.fastprep.io/system-design/time-series-metrics-database)|System design|[![Practice][p]](https://www.fastprep.io/system-design/time-series-metrics-database)|🔥 Oct 14, 2026|
@@ -1690,6 +1692,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**ElevenLabs**|[AI-Assisted Commerce Platform](https://www.fastprep.io/system-design/ai-assisted-commerce-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ai-assisted-commerce-platform)|Aug 26, 2026|
 |**ByteDance**|[Match Consecutive Word Boundaries (for mle also :)](https://www.fastprep.io/problems/bytedance-match-consecutive-word-boundaries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-match-consecutive-word-boundaries)|Aug 25, 2026|
 |**ByteDance**|[Minimize Expression Value with Parentheses (for mle also :)](https://www.fastprep.io/problems/bytedance-minimize-expression-value-with-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-minimize-expression-value-with-parentheses)|Aug 25, 2026|
-|**ByteDance**|[Leftmost Memory Block Allocator (for mle also :)](https://www.fastprep.io/problems/bytedance-leftmost-memory-block-allocator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-leftmost-memory-block-allocator)|Aug 25, 2026|
-|**ByteDance**|[Find Sum Pairs (for mle also :)](https://www.fastprep.io/problems/bytedance-find-sum-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-find-sum-pairs)|Aug 25, 2026|
 <a id="bottom"></a>

@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**IBM**|[Max Traffic Time](https://www.fastprep.io/problems/ibm-get-max-traffic-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-max-traffic-time)|Aug 18, 2024|
 |**Databricks**|[Array Manipulation](https://www.fastprep.io/problems/databricks-array-manipulation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-array-manipulation)|Aug 13, 2024|
 |**Databricks**|[Advanture to Count Moves](https://www.fastprep.io/problems/databricks-advanture-to-count-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-advanture-to-count-moves)|Aug 12, 2024|
 |**Databricks**|[Cyclic Pairs](https://www.fastprep.io/problems/databricks-cyclic-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-cyclic-pairs)|Aug 12, 2024|

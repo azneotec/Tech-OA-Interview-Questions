@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**ByteDance**|[Leftmost Memory Block Allocator (for mle also :)](https://www.fastprep.io/problems/bytedance-leftmost-memory-block-allocator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-leftmost-memory-block-allocator)|Aug 25, 2026|
+|**ByteDance**|[Find Sum Pairs (for mle also :)](https://www.fastprep.io/problems/bytedance-find-sum-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-find-sum-pairs)|Aug 25, 2026|
 |**Apple**|[Design a Multi-Version Configuration Service](https://www.fastprep.io/system-design/multi-version-configuration-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-version-configuration-service)|Aug 25, 2026|
 |**Microsoft**|[Design a Ticket Context and System Status Platform](https://www.fastprep.io/system-design/ticket-context-system-status-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ticket-context-system-status-platform)|Aug 25, 2026|
 |**Waymo**|[Design an Autonomous-Vehicle Cloud Command System](https://www.fastprep.io/system-design/autonomous-vehicle-cloud-command-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/autonomous-vehicle-cloud-command-system)|Aug 25, 2026|
@@ -932,7 +934,6 @@
 |**Stable Money**|[Design a Feature Configuration Personalization Service](https://www.fastprep.io/low-level-design/feature-configuration-personalization)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/feature-configuration-personalization)|Jan 15, 2026|
 |**Ziina**|[Design Contact Sync and Prospective User Discovery](https://www.fastprep.io/low-level-design/contact-sync-and-prospective-users)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/contact-sync-and-prospective-users)|Jan 15, 2026|
 |**Tesla**|[Coordinate Parallel Runs Across Two Exclusive Targets](https://www.fastprep.io/project-coding/tesla-dual-target-parallel-runner)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/tesla-dual-target-parallel-runner)|Jan 14, 2026|
-|**Google**|[Design Fraud-Risk Scoring for Protected Actions](https://www.fastprep.io/system-design/fraud-risk-scoring-for-protected-actions)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fraud-risk-scoring-for-protected-actions)|Jan 13, 2026|
 |**Walmart**|[Sort Real Number Strings](https://www.fastprep.io/problems/walmart-sort-real-number-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walmart-sort-real-number-strings)|Jan 12, 2026|
 |**SavantLabs**|[Minutes to Infect Tree](https://www.fastprep.io/problems/savantlabs-minutes-to-infect-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/savantlabs-minutes-to-infect-tree)|Jan 12, 2026|
 |**Toast**|[Maximum Stock Profit With Time Gap](https://www.fastprep.io/problems/toast-maximum-stock-profit-with-time-gap)|Coding|[![Practice][p]](https://www.fastprep.io/problems/toast-maximum-stock-profit-with-time-gap)|Jan 12, 2026|
@@ -1791,5 +1792,4 @@
 |**Databricks**|[Count Triples with Diff](https://www.fastprep.io/problems/databricks-count-triples-with-diff)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-count-triples-with-diff)|Aug 18, 2024|
 |**IBM**|[Get Maximum Occurances](https://www.fastprep.io/problems/ibm-get-max-occurrences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-max-occurrences)|Aug 18, 2024|
 |**IBM**|[Get Min Difference](https://www.fastprep.io/problems/ibm-get-minimum-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-minimum-difference)|Aug 18, 2024|
-|**IBM**|[Max Traffic Time](https://www.fastprep.io/problems/ibm-get-max-traffic-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-max-traffic-time)|Aug 18, 2024|
 <a id="bottom"></a>
