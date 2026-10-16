@@ -9,6 +9,13 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Choose Warehouse Location](https://www.fastprep.io/problems/amazon-choose-warehouses-location)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-choose-warehouses-location)|Aug 25, 2024|
+|**Akuna**|[Movie Ratings](https://www.fastprep.io/problems/akuna-maximize-ratings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-maximize-ratings)|Aug 25, 2024|
+|**TikTok**|[Min Days to Target Engagement](https://www.fastprep.io/problems/tiktok-min-days-to-target-engagement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-min-days-to-target-engagement)|Aug 25, 2024|
+|**TikTok**|[Calculate Content Strength](https://www.fastprep.io/problems/tiktok-calculate-content-strength)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-calculate-content-strength)|Aug 25, 2024|
+|**Roblox**|[Make Tower](https://www.fastprep.io/problems/roblox-make-towers-strictly-increasing-or-decreasing)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-make-towers-strictly-increasing-or-decreasing)|Aug 25, 2024|
+|**Roblox**|[Shift Ops](https://www.fastprep.io/problems/roblox-shift-ops)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-shift-ops)|Aug 25, 2024|
+|**Roblox**|[Find Longest Diagonal Segment](https://www.fastprep.io/problems/roblox-find-longest-diagonal-segment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-find-longest-diagonal-segment)|Aug 25, 2024|
 |**Amazon**|[Minimize Storage Required](https://www.fastprep.io/problems/amazon-minimum-storage-capacity-required)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-storage-capacity-required)|Aug 23, 2024|
 |**TikTok**|[Shared Categories](https://www.fastprep.io/problems/tiktok-max-shared-categories)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-max-shared-categories)|Aug 23, 2024|
 |**TikTok**|[Find Min Transitions](https://www.fastprep.io/problems/tiktok-find-minimum-transitions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-minimum-transitions)|Aug 23, 2024|

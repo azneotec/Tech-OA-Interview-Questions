@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,575)](formats/coding.md) · [SQL (76)](formats/sql.md) · [System design (593)](formats/system-design.md) · [Low-level design (177)](formats/low-level-design.md) · [AI coding (87)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,581)](formats/coding.md) · [SQL (76)](formats/sql.md) · [System design (593)](formats/system-design.md) · [Low-level design (177)](formats/low-level-design.md) · [AI coding (87)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -41,6 +41,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Klaviyo**|[AI Engineer Intern Mock: Explain and Extend Your AI Project](https://www.fastprep.io/system-design/mock-ai-intern-project-retrospective)|System design|[![Practice][p]](https://www.fastprep.io/system-design/mock-ai-intern-project-retrospective)|🔥 Oct 16, 2026|
 |**Klaviyo**|[AI Engineer Intern Mock: Repair a Classifier Cache](https://www.fastprep.io/project-coding/mock-ai-intern-classifier-cache)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/mock-ai-intern-classifier-cache)|🔥 Oct 16, 2026|
 |**Klaviyo**|[AI Engineer Intern Mock: Search Customer Messages](https://www.fastprep.io/project-coding/mock-ai-intern-customer-message-search)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/mock-ai-intern-customer-message-search)|🔥 Oct 16, 2026|
+|**Rippling**|[Comment Word and Substring Search](https://www.fastprep.io/problems/rippling-comment-word-and-substring-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-comment-word-and-substring-search)|🔥 Oct 16, 2026|
 |**McKinsey & Company**|[Weekend Appointments for Consular Services Rescheduling](https://www.fastprep.io/problems/mckinsey-weekend-appointments)|SQL|[![Practice][p]](https://www.fastprep.io/problems/mckinsey-weekend-appointments)|🔥 Oct 15, 2026|
 |**TikTok**|[Find Local Maxima in Sensor Data](https://www.fastprep.io/problems/tiktok-find-local-maxima)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-local-maxima)|🔥 Oct 15, 2026|
 |**TikTok**|[Bagging Classifier with Supplied Decision Trees](https://www.fastprep.io/problems/tiktok-bagging-classifier)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-bagging-classifier)|🔥 Oct 15, 2026|
@@ -1690,5 +1691,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Snowflake / Amperity / Fivetran**|[Design a Unified SaaS Analytics Platform](https://www.fastprep.io/system-design/unified-saas-analytics-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/unified-saas-analytics-platform)|Aug 28, 2026|
 |**NVIDIA**|[Autonomous-Driving Camera Perception Pipeline](https://www.fastprep.io/system-design/autonomous-driving-camera-perception-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/autonomous-driving-camera-perception-pipeline)|Aug 28, 2026|
 |**Oracle / Wayfair**|[Design a Software Load Balancer](https://www.fastprep.io/system-design/software-load-balancer)|System design|[![Practice][p]](https://www.fastprep.io/system-design/software-load-balancer)|Aug 28, 2026|
-|**Oracle**|[Design and Implement an Active-Passive Key-Value Store](https://www.fastprep.io/low-level-design/active-passive-key-value-store)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/active-passive-key-value-store)|Aug 28, 2026|
 <a id="bottom"></a>
