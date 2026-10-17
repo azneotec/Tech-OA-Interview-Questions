@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Oracle / Wayfair**|[Design a Software Load Balancer](https://www.fastprep.io/system-design/software-load-balancer)|System design|[![Practice][p]](https://www.fastprep.io/system-design/software-load-balancer)|Aug 28, 2026|
 |**Oracle**|[Design and Implement an Active-Passive Key-Value Store](https://www.fastprep.io/low-level-design/active-passive-key-value-store)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/active-passive-key-value-store)|Aug 28, 2026|
 |**Amazon**|[Minimum Grid Inconvenience](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience)|Aug 28, 2026|
 |**Indeed**|[Redesign a Production Spam Classifier](https://www.fastprep.io/system-design/production-spam-classifier-redesign)|System design|[![Practice][p]](https://www.fastprep.io/system-design/production-spam-classifier-redesign)|Aug 28, 2026|
@@ -1787,5 +1788,4 @@
 |**Sofi**|[Get Maximum Jobs](https://www.fastprep.io/problems/sofi-get-maximum-jobs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sofi-get-maximum-jobs)|Aug 28, 2024|
 |**Zalando**|[Longest String](https://www.fastprep.io/problems/zolando-longest-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zolando-longest-string)|Aug 28, 2024|
 |**Zalando**|[String Manipulation](https://www.fastprep.io/problems/zolando-string-manipulation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zolando-string-manipulation)|Aug 28, 2024|
-|**Figma**|[Intersection of Two Rectangles](https://www.fastprep.io/problems/figma-rectangle-intersection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-rectangle-intersection)|Aug 26, 2024|
 <a id="bottom"></a>
