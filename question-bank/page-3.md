@@ -9,6 +9,35 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**JP Morgan**|[Get Largest Number](https://www.fastprep.io/problems/jpmorgan-get-largest-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-largest-number)|Aug 30, 2024|
+|**Uber**|[Count Elements](https://www.fastprep.io/problems/uber-count-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-count-elements)|Aug 30, 2024|
+|**Uber**|[Build Blocks and Obstacles](https://www.fastprep.io/problems/uber-build-blocks-and-obstacles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-build-blocks-and-obstacles)|Aug 30, 2024|
+|**Uber**|[Matrix Transformation](https://www.fastprep.io/problems/uber-matrix-transformation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-matrix-transformation)|Aug 30, 2024|
+|**Uber**|[Match Pattern](https://www.fastprep.io/problems/uber-match-subarray-to-pattern)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-match-subarray-to-pattern)|Aug 30, 2024|
+|**Uber**|[Character Health](https://www.fastprep.io/problems/uber-character-health-in-a-video-game)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-character-health-in-a-video-game)|Aug 30, 2024|
+|**Hudson River Trading**|[Increasing Paths 2](https://www.fastprep.io/problems/hudsonriver-increasing-paths-2)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hudsonriver-increasing-paths-2)|Aug 30, 2024|
+|**Hudson River Trading**|[Increasing Paths 1](https://www.fastprep.io/problems/hudsonriver-increasing-paths-1)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hudsonriver-increasing-paths-1)|Aug 30, 2024|
+|**TikTok**|[Secondary Influencer](https://www.fastprep.io/problems/tiktok-get-secondary-influencer-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-secondary-influencer-sum)|Aug 30, 2024|
+|**TikTok**|[Maximize Efficiency Product](https://www.fastprep.io/problems/tiktok-maximize-efficiency-product)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-maximize-efficiency-product)|Aug 30, 2024|
+|**Microsoft**|[Min Num Tiles](https://www.fastprep.io/problems/microsoft-min-num-tiles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-min-num-tiles)|Aug 30, 2024|
+|**Microsoft**|[Shortest Possible Length](https://www.fastprep.io/problems/microsoft-shortest-possible-length)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-shortest-possible-length)|Aug 30, 2024|
+|**Cisco**|[Find Mean and Mode](https://www.fastprep.io/problems/cisco-find-mean-and-mode)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-mean-and-mode)|Aug 30, 2024|
+|**Cisco**|[Count Number with Sum of Digits](https://www.fastprep.io/problems/cisco-count-numbers-with-sum-of-digits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-count-numbers-with-sum-of-digits)|Aug 30, 2024|
+|**Cisco**|[Calculate Mean and Mode](https://www.fastprep.io/problems/cisco-calculate-mean-and-mode)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-calculate-mean-and-mode)|Aug 30, 2024|
+|**Cisco**|[Find Words in Grid](https://www.fastprep.io/problems/cisco-find-words-in-grid)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-words-in-grid)|Aug 30, 2024|
+|**Cisco**|[Find Last Call](https://www.fastprep.io/problems/cisco-find-last-cell)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-last-cell)|Aug 30, 2024|
+|**Nutanix**|[Min Cost To Collect All Points](https://www.fastprep.io/problems/nutanix-min-cost-to-connect-all-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nutanix-min-cost-to-connect-all-points)|Aug 30, 2024|
+|**Amazon**|[Min Operations To Make Zeros](https://www.fastprep.io/problems/amazon-find-minimum-number-of-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-number-of-operations)|Aug 28, 2024|
+|**TikTok**|[Substrings Without Vowels](https://www.fastprep.io/problems/tiktok-number-of-substrings-without-vowels)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-number-of-substrings-without-vowels)|Aug 28, 2024|
+|**TikTok**|[Build URLs](https://www.fastprep.io/problems/tiktok-build-url)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-build-url)|Aug 28, 2024|
+|**IBM**|[Get Min Cores](https://www.fastprep.io/problems/ibm-get-min-cores)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-min-cores)|Aug 28, 2024|
+|**IBM**|[Get Smallest String](https://www.fastprep.io/problems/ibm-get-smallest-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-smallest-string)|Aug 28, 2024|
+|**Microsoft**|[Path In Grid](https://www.fastprep.io/problems/microsoft-path-in-grid)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-path-in-grid)|Aug 28, 2024|
+|**Microsoft**|[Minimize Difference](https://www.fastprep.io/problems/microsoft-minimize-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimize-difference)|Aug 28, 2024|
+|**Microsoft**|[Product of xor of All Good Pairs](https://www.fastprep.io/problems/microsoft-product-of-xor-of-all-good-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-product-of-xor-of-all-good-pairs)|Aug 28, 2024|
+|**DE Shaw**|[Subarray Removal](https://www.fastprep.io/problems/deshaw-subarray-removal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deshaw-subarray-removal)|Aug 28, 2024|
+|**Cisco**|[Find Maiximum Number Drop Points Connected](https://www.fastprep.io/problems/cisco-find-maximum-number-drop-points-connected)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-maximum-number-drop-points-connected)|Aug 28, 2024|
+|**Cisco**|[Longest Palindromic Subarray](https://www.fastprep.io/problems/cisco-longest-palindromic-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-longest-palindromic-substring)|Aug 28, 2024|
 |**Cisco**|[Find Largest Sum Contiguous Subarray](https://www.fastprep.io/problems/cisco-find-largest-sum-contiguous-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-largest-sum-contiguous-subarray)|Aug 28, 2024|
 |**Commvault**|[Count Good Strings](https://www.fastprep.io/problems/commvault-count-good-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/commvault-count-good-strings)|Aug 28, 2024|
 |**Commvault**|[Num of Good Pairs](https://www.fastprep.io/problems/commvault-number-of-good-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/commvault-number-of-good-pairs)|Aug 28, 2024|
