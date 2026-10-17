@@ -9,6 +9,19 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**ZipRecruiter**|[Count Suffix-Related Word Pairs](https://www.fastprep.io/problems/ziprecruiter-count-suffix-related-word-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-suffix-related-word-pairs)|Sep 07, 2024|
+|**ZipRecruiter**|[Dynamic Pair Sum Queries](https://www.fastprep.io/problems/ziprecruiter-dynamic-pair-sum-delta-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-dynamic-pair-sum-delta-queries)|Sep 07, 2024|
+|**Motive**|[Count Product-Divisible Pairs](https://www.fastprep.io/problems/motive-count-product-divisible-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-count-product-divisible-pairs)|Sep 06, 2024|
+|**JP Morgan**|[Get Final String](https://www.fastprep.io/problems/jpmorgan-get-final-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-final-string)|Sep 05, 2024|
+|**JP Morgan**|[Min Swaps](https://www.fastprep.io/problems/jpmorgan-minimum-swaps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-minimum-swaps)|Sep 05, 2024|
+|**JP Morgan**|[Get Max Deletions](https://www.fastprep.io/problems/jpmorgan-get-max-deletions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-max-deletions)|Sep 05, 2024|
+|**JP Morgan**|[Maximum Amount](https://www.fastprep.io/problems/jpmorgan-maximum-amount)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-maximum-amount)|Sep 05, 2024|
+|**JP Morgan**|[Count Numbers](https://www.fastprep.io/problems/jpmorgan-count-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-count-numbers)|Sep 05, 2024|
+|**Google**|[Optimize Log Files](https://www.fastprep.io/problems/google-optimize-log-files)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-optimize-log-files)|Sep 05, 2024|
+|**IBM**|[Maximize Resource Allocation](https://www.fastprep.io/problems/ibm-maximize-resource-allocation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-maximize-resource-allocation)|Sep 05, 2024|
+|**IBM**|[Find Max Even Sum](https://www.fastprep.io/problems/ibm-find-maximum-even-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-find-maximum-even-sum)|Sep 05, 2024|
+|**Skydio**|[Merge K Sorted Lists](https://www.fastprep.io/problems/skydio-merge-k-sorted-lists)|Coding|[![Practice][p]](https://www.fastprep.io/problems/skydio-merge-k-sorted-lists)|Sep 05, 2024|
+|**JP Morgan**|[Print Without Repeating](https://www.fastprep.io/problems/jpmorgan-print-number-of-elements-without-repeating-digits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-print-number-of-elements-without-repeating-digits)|Sep 04, 2024|
 |**JP Morgan**|[Get Unique Character](https://www.fastprep.io/problems/jpmorgan-get-unique-character)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-unique-character)|Sep 04, 2024|
 |**JP Morgan**|[Get Min Machines](https://www.fastprep.io/problems/jpmorgan-get-min-machines)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-min-machines)|Sep 04, 2024|
 |**JP Morgan**|[Get Min Cost](https://www.fastprep.io/problems/jpmorgan-min-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-min-cost)|Sep 04, 2024|
@@ -206,6 +219,7 @@
 |**Snowflake**|[Minimum Segment](https://www.fastprep.io/problems/snowflake-minimum-division)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-minimum-division)|Jun 27, 2024|
 |**Cisco**|[Find Critical Nodes](https://www.fastprep.io/problems/cisco-find-critical-nodes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-critical-nodes)|Jun 27, 2024|
 |**Benchling**|[Degenerate DNA Substring Search](https://www.fastprep.io/problems/benchling-degenerate-dna-substring-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/benchling-degenerate-dna-substring-search)|Jun 25, 2024|
+|**Rippling**|[Heap Sort](https://www.fastprep.io/problems/rippling-heap-sort)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-heap-sort)|Jun 25, 2024|
 |**Amazon**|[Maximize Negative Signs](https://www.fastprep.io/problems/maximize-negative-signs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maximize-negative-signs)|Jun 24, 2024|
 |**Adobe**|[Determine the Edit Distance in a Word Ladder](https://www.fastprep.io/problems/adobe-determine-edit-distance-in-word-ladder)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-determine-edit-distance-in-word-ladder)|Jun 24, 2024|
 |**Flexport**|[Distinct Moves](https://www.fastprep.io/problems/flexport-distinct-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flexport-distinct-moves)|Jun 24, 2024|
@@ -623,6 +637,8 @@
 |**Stripe**|[Schedule Invoice Emails and Delinquencies](https://www.fastprep.io/problems/stripe-invoice-email-scheduler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-invoice-email-scheduler)|Nov 17, 2023|
 |**Stripe**|[Rebalance Bank Accounts to a Minimum Balance](https://www.fastprep.io/problems/stripe-minimum-bank-balance-transfers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-minimum-bank-balance-transfers)|Nov 17, 2023|
 |**Stripe**|[URL Segment Compression Part 3 — Global Token Budget](https://www.fastprep.io/problems/stripe-url-segment-compression-part3)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-url-segment-compression-part3)|Nov 17, 2023|
+|**Rippling**|[Lowest Common Ancestor of Deepest Leaves in an N-ary Tree](https://www.fastprep.io/problems/rippling-nary-deepest-leaves-lca)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-nary-deepest-leaves-lca)|Nov 14, 2023|
+|**Rippling**|[Preorder Traversal of a Parsed N-ary Tree](https://www.fastprep.io/problems/rippling-parsed-nary-tree-preorder)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-parsed-nary-tree-preorder)|Nov 14, 2023|
 |**ZipRecruiter**|[Convert Backticked Identifiers to Camel Case](https://www.fastprep.io/problems/ziprecruiter-convert-backticked-identifiers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-convert-backticked-identifiers)|Nov 08, 2023|
 |**Onehouse**|[Least Recently Used Cache](https://www.fastprep.io/problems/onehouse-lru-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/onehouse-lru-cache)|Nov 07, 2023|
 |**Onehouse**|[Least Frequently Used Cache](https://www.fastprep.io/problems/onehouse-lfu-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/onehouse-lfu-cache)|Nov 07, 2023|
@@ -633,6 +649,7 @@
 |**WhatNot**|[Exact String Matching](https://www.fastprep.io/problems/whatnot-exact-string-matching)|Coding|[![Practice][p]](https://www.fastprep.io/problems/whatnot-exact-string-matching)|Nov 06, 2023|
 |**Modular**|[Design a Configurable Robot Arm](https://www.fastprep.io/low-level-design/configurable-robot-arm)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/configurable-robot-arm)|Nov 03, 2023|
 |**Modular**|[Dense Matrix Multiplication](https://www.fastprep.io/problems/modular-dense-matrix-multiplication)|Coding|[![Practice][p]](https://www.fastprep.io/problems/modular-dense-matrix-multiplication)|Nov 03, 2023|
+|**Rippling**|[Synonymous Sentences](https://www.fastprep.io/problems/rippling-synonymous-sentences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-synonymous-sentences)|Nov 03, 2023|
 |**SpaceX**|[Simplified Time-Based Key-Value Store](https://www.fastprep.io/problems/spacex-simplified-time-map)|Coding|[![Practice][p]](https://www.fastprep.io/problems/spacex-simplified-time-map)|Nov 02, 2023|
 |**ZipRecruiter**|[Binary String Flip and Prefix Zero Counts](https://www.fastprep.io/problems/ziprecruiter-binary-prefix-zero-requests)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-binary-prefix-zero-requests)|Oct 31, 2023|
 |**ZipRecruiter**|[Concatenate Digit-wise Sums](https://www.fastprep.io/problems/ziprecruiter-concatenate-digit-wise-sums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-concatenate-digit-wise-sums)|Oct 31, 2023|
@@ -868,6 +885,9 @@
 |**Grubhub**|[Design a Restaurant Menu Catalog Service](https://www.fastprep.io/system-design/restaurant-menu-catalog-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/restaurant-menu-catalog-service)|Mar 26, 2022|
 |**Grubhub**|[Air Traffic Control System](https://www.fastprep.io/low-level-design/air-traffic-control-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/air-traffic-control-system)|Mar 26, 2022|
 |**Unattributed**|[Signing Confirmation Loss Recovery](https://www.fastprep.io/system-design/signing-confirmation-loss-recovery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/signing-confirmation-loss-recovery)|Mar 25, 2022|
+|**Rippling**|[Palindrome Permutation](https://www.fastprep.io/problems/rippling-palindrome-permutation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-palindrome-permutation)|Mar 20, 2022|
+|**Rippling**|[Reverse Substrings Between Parentheses](https://www.fastprep.io/problems/rippling-reverse-parenthesized-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-reverse-parenthesized-substrings)|Mar 20, 2022|
+|**Rippling**|[Word Ladder](https://www.fastprep.io/problems/rippling-word-ladder)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-word-ladder)|Mar 20, 2022|
 |**Wayfair**|[Recover Completed-Document Notifications](https://www.fastprep.io/system-design/completed-document-notification-recovery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/completed-document-notification-recovery)|Mar 19, 2022|
 |**SambaNova Systems**|[Decode String](https://www.fastprep.io/problems/sambanova-decode-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-decode-string)|Mar 07, 2022|
 |**SambaNova Systems**|[Insert, Delete, and Get Random in Constant Time](https://www.fastprep.io/problems/sambanova-insert-delete-getrandom-o1)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-insert-delete-getrandom-o1)|Mar 07, 2022|

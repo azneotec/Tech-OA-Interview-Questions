@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,647 questions**
+**3,667 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -855,7 +855,6 @@
 |**Netflix**|[Custom Record and Free-Form Field Parser](https://www.fastprep.io/problems/netflix-custom-record-freeform-parser)|[![Practice][p]](https://www.fastprep.io/problems/netflix-custom-record-freeform-parser)|🆕 Sep 16, 2026|
 |**Otter.ai**|[Versioned Key-Value Store with Commits](https://www.fastprep.io/problems/otter-ai-versioned-key-value-commits)|[![Practice][p]](https://www.fastprep.io/problems/otter-ai-versioned-key-value-commits)|🆕 Sep 16, 2026|
 |**Pinterest**|[Shortest Sequence of Source Subsequences](https://www.fastprep.io/problems/pinterest-shortest-source-subsequences)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-shortest-source-subsequences)|🆕 Sep 16, 2026|
-|**Rippling**|[Common Ancestors in a Directed Acyclic Graph](https://www.fastprep.io/problems/rippling-common-ancestors-dag)|[![Practice][p]](https://www.fastprep.io/problems/rippling-common-ancestors-dag)|🆕 Sep 16, 2026|
 |**Robinhood**|[Friendship and Balance Tracker](https://www.fastprep.io/problems/robinhood-friendship-balance-tracker)|[![Practice][p]](https://www.fastprep.io/problems/robinhood-friendship-balance-tracker)|🆕 Sep 16, 2026|
 |**Robinhood**|[Service Dependency Load Factors](https://www.fastprep.io/problems/robinhood-service-dependency-load-factors)|[![Practice][p]](https://www.fastprep.io/problems/robinhood-service-dependency-load-factors)|🆕 Sep 16, 2026|
 |**Salesforce**|[Flatten Nested Map Paths with a Stack](https://www.fastprep.io/problems/salesforce-flatten-nested-map-paths)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-flatten-nested-map-paths)|🆕 Sep 16, 2026|
@@ -865,6 +864,7 @@
 |**Tesla**|[Reduce-Based Map and Filter Pipeline](https://www.fastprep.io/problems/tesla-reduce-map-filter-pipeline)|[![Practice][p]](https://www.fastprep.io/problems/tesla-reduce-map-filter-pipeline)|🆕 Sep 16, 2026|
 |**Walmart**|[Maximum Points by Deleting Elements](https://www.fastprep.io/problems/walmart-maximum-points-by-deleting-elements)|[![Practice][p]](https://www.fastprep.io/problems/walmart-maximum-points-by-deleting-elements)|🆕 Sep 16, 2026|
 |**Amazon**|[Grid Reachability with a Forbidden Turn](https://www.fastprep.io/problems/amazon-grid-reachability-forbidden-turn)|[![Practice][p]](https://www.fastprep.io/problems/amazon-grid-reachability-forbidden-turn)|🆕 Sep 16, 2026|
+|**Rippling**|[Common Ancestors in a Directed Acyclic Graph](https://www.fastprep.io/problems/rippling-common-ancestors-dag)|[![Practice][p]](https://www.fastprep.io/problems/rippling-common-ancestors-dag)|🆕 Sep 15, 2026|
 |**Hudson River Trading**|[Tiered Expiring Item Store](https://www.fastprep.io/problems/hrt-tiered-expiring-item-store)|[![Practice][p]](https://www.fastprep.io/problems/hrt-tiered-expiring-item-store)|🆕 Sep 15, 2026|
 |**Vercel**|[Recent Metrics by Name and Tags](https://www.fastprep.io/problems/vercel-recent-metrics-by-name-and-tags)|[![Practice][p]](https://www.fastprep.io/problems/vercel-recent-metrics-by-name-and-tags)|🆕 Sep 15, 2026|
 |**Pinterest**|[Nearest Eligible Elevator](https://www.fastprep.io/problems/pinterest-nearest-eligible-elevator)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-nearest-eligible-elevator)|🆕 Sep 15, 2026|
@@ -1338,6 +1338,9 @@
 |**Infosys**|[Maximum Product of a Strictly Increasing Contiguous Subarray](https://www.fastprep.io/problems/infosys-maximum-product-increasing-subarray)|[![Practice][p]](https://www.fastprep.io/problems/infosys-maximum-product-increasing-subarray)|Aug 02, 2026|
 |**Infosys**|[Minimum Cost to Assign Candidates to Two Cities](https://www.fastprep.io/problems/infosys-two-city-candidate-assignment-cost)|[![Practice][p]](https://www.fastprep.io/problems/infosys-two-city-candidate-assignment-cost)|Aug 02, 2026|
 |**Hartford Financial Services**|[Average Grades per Student](https://www.fastprep.io/problems/hartford-student-grade-averages)|[![Practice][p]](https://www.fastprep.io/problems/hartford-student-grade-averages)|Aug 02, 2026|
+|**Rippling**|[Cyber Beacon Detection](https://www.fastprep.io/problems/rippling-cyber-beacon-detection)|[![Practice][p]](https://www.fastprep.io/problems/rippling-cyber-beacon-detection)|Aug 02, 2026|
+|**Rippling**|[IPv4 Address Classification](https://www.fastprep.io/problems/rippling-ipv4-address-classification)|[![Practice][p]](https://www.fastprep.io/problems/rippling-ipv4-address-classification)|Aug 02, 2026|
+|**Rippling**|[TV Shows Produced During a Period](https://www.fastprep.io/problems/rippling-tv-shows-produced-during-period)|[![Practice][p]](https://www.fastprep.io/problems/rippling-tv-shows-produced-during-period)|Aug 02, 2026|
 |**Adobe**|[Minimum Snapshots for a Version Tree](https://www.fastprep.io/problems/adobe-snapshot-budget)|[![Practice][p]](https://www.fastprep.io/problems/adobe-snapshot-budget)|Jul 31, 2026|
 |**Superhuman**|[Reverse a Singly Linked List](https://www.fastprep.io/problems/superhuman-reverse-linked-list)|[![Practice][p]](https://www.fastprep.io/problems/superhuman-reverse-linked-list)|Jul 31, 2026|
 |**Superhuman**|[Recover a Tree from Preorder Depth Encoding](https://www.fastprep.io/problems/superhuman-recover-tree-from-preorder-depth)|[![Practice][p]](https://www.fastprep.io/problems/superhuman-recover-tree-from-preorder-depth)|Jul 31, 2026|
@@ -1537,10 +1540,6 @@
 |**Rippling**|[Camel Cards](https://www.fastprep.io/problems/rippling-camel-cards)|[![Practice][p]](https://www.fastprep.io/problems/rippling-camel-cards)|Jul 12, 2026|
 |**Rippling**|[Article Vote Tracker](https://www.fastprep.io/problems/rippling-article-vote-tracker)|[![Practice][p]](https://www.fastprep.io/problems/rippling-article-vote-tracker)|Jul 12, 2026|
 |**Rippling**|[Employee Resource Access Management](https://www.fastprep.io/problems/rippling-employee-access-management)|[![Practice][p]](https://www.fastprep.io/problems/rippling-employee-access-management)|Jul 12, 2026|
-|**Rippling**|[Limit an Organization Tree's Height](https://www.fastprep.io/problems/rippling-org-tree-height-control)|[![Practice][p]](https://www.fastprep.io/problems/rippling-org-tree-height-control)|Jul 12, 2026|
-|**Rippling**|[Distributed System Recovery](https://www.fastprep.io/problems/rippling-distributed-system-recovery)|[![Practice][p]](https://www.fastprep.io/problems/rippling-distributed-system-recovery)|Jul 12, 2026|
-|**Rippling**|[Server Upgrade Planning](https://www.fastprep.io/problems/rippling-server-upgrade-planning)|[![Practice][p]](https://www.fastprep.io/problems/rippling-server-upgrade-planning)|Jul 12, 2026|
-|**Rippling**|[Shortest Substring](https://www.fastprep.io/problems/rippling-shortest-substring)|[![Practice][p]](https://www.fastprep.io/problems/rippling-shortest-substring)|Jul 12, 2026|
 |**Rippling**|[Lexicographically Minimum Stack Encryption](https://www.fastprep.io/problems/rippling-lexicographically-minimum-encryption)|[![Practice][p]](https://www.fastprep.io/problems/rippling-lexicographically-minimum-encryption)|Jul 12, 2026|
 |**Rippling**|[Minimum Account Settlements](https://www.fastprep.io/problems/rippling-minimum-account-settlements)|[![Practice][p]](https://www.fastprep.io/problems/rippling-minimum-account-settlements)|Jul 12, 2026|
 |**Rippling**|[Matrix Region Sum](https://www.fastprep.io/problems/rippling-matrix-block-sum)|[![Practice][p]](https://www.fastprep.io/problems/rippling-matrix-block-sum)|Jul 12, 2026|
@@ -1822,4 +1821,5 @@
 |**Google**|[Rotate a Square Matrix Clockwise](https://www.fastprep.io/problems/google-rotate-matrix-clockwise)|[![Practice][p]](https://www.fastprep.io/problems/google-rotate-matrix-clockwise)|Apr 06, 2026|
 |**Rubrik**|[Minimum Swaps To Binary Palindrome](https://www.fastprep.io/problems/rubrik-minimum-swaps-to-binary-palindrome)|[![Practice][p]](https://www.fastprep.io/problems/rubrik-minimum-swaps-to-binary-palindrome)|Apr 04, 2026|
 |**Zorvyn**|[Shortest Path With K Free Edges](https://www.fastprep.io/problems/zorvyn-shortest-path-with-k-free-edges)|[![Practice][p]](https://www.fastprep.io/problems/zorvyn-shortest-path-with-k-free-edges)|Apr 04, 2026|
+|**Maven Clinic**|[Paginate Provider Listings with Per-Page Diversity](https://www.fastprep.io/problems/maven-clinic-provider-diverse-pagination)|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-provider-diverse-pagination)|Apr 03, 2026|
 <a id="bottom"></a>

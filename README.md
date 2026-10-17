@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,647)](formats/coding.md) · [SQL (77)](formats/sql.md) · [System design (596)](formats/system-design.md) · [Low-level design (177)](formats/low-level-design.md) · [AI coding (90)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,667)](formats/coding.md) · [SQL (77)](formats/sql.md) · [System design (596)](formats/system-design.md) · [Low-level design (177)](formats/low-level-design.md) · [AI coding (90)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -1216,7 +1216,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Netflix**|[Custom Record and Free-Form Field Parser](https://www.fastprep.io/problems/netflix-custom-record-freeform-parser)|Coding|[![Practice][p]](https://www.fastprep.io/problems/netflix-custom-record-freeform-parser)|🆕 Sep 16, 2026|
 |**Otter.ai**|[Versioned Key-Value Store with Commits](https://www.fastprep.io/problems/otter-ai-versioned-key-value-commits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/otter-ai-versioned-key-value-commits)|🆕 Sep 16, 2026|
 |**Pinterest**|[Shortest Sequence of Source Subsequences](https://www.fastprep.io/problems/pinterest-shortest-source-subsequences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-shortest-source-subsequences)|🆕 Sep 16, 2026|
-|**Rippling**|[Common Ancestors in a Directed Acyclic Graph](https://www.fastprep.io/problems/rippling-common-ancestors-dag)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-common-ancestors-dag)|🆕 Sep 16, 2026|
 |**Robinhood**|[Friendship and Balance Tracker](https://www.fastprep.io/problems/robinhood-friendship-balance-tracker)|Coding|[![Practice][p]](https://www.fastprep.io/problems/robinhood-friendship-balance-tracker)|🆕 Sep 16, 2026|
 |**Robinhood**|[Service Dependency Load Factors](https://www.fastprep.io/problems/robinhood-service-dependency-load-factors)|Coding|[![Practice][p]](https://www.fastprep.io/problems/robinhood-service-dependency-load-factors)|🆕 Sep 16, 2026|
 |**Salesforce**|[Flatten Nested Map Paths with a Stack](https://www.fastprep.io/problems/salesforce-flatten-nested-map-paths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-flatten-nested-map-paths)|🆕 Sep 16, 2026|
@@ -1227,6 +1226,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Walmart**|[Maximum Points by Deleting Elements](https://www.fastprep.io/problems/walmart-maximum-points-by-deleting-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walmart-maximum-points-by-deleting-elements)|🆕 Sep 16, 2026|
 |**Amazon**|[Grid Reachability with a Forbidden Turn](https://www.fastprep.io/problems/amazon-grid-reachability-forbidden-turn)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-grid-reachability-forbidden-turn)|🆕 Sep 16, 2026|
 |**Goldman Sachs**|[Repair the Held-Ticket Confirmation Lifecycle](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|🆕 Sep 16, 2026|
+|**Rippling**|[Common Ancestors in a Directed Acyclic Graph](https://www.fastprep.io/problems/rippling-common-ancestors-dag)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-common-ancestors-dag)|🆕 Sep 15, 2026|
 |**Mercor**|[Repair a Concurrent Read-Through Cache](https://www.fastprep.io/project-coding/mercor-concurrent-read-through-cache)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/mercor-concurrent-read-through-cache)|🆕 Sep 15, 2026|
 |**Pinterest**|[Design Merchant Product Catalog Ingestion](https://www.fastprep.io/system-design/merchant-product-catalog-ingestion)|System design|[![Practice][p]](https://www.fastprep.io/system-design/merchant-product-catalog-ingestion)|🆕 Sep 15, 2026|
 |**Hadrian / DigitalOcean**|[Design a Live Relational Database Migration](https://www.fastprep.io/system-design/live-relational-database-migration)|System design|[![Practice][p]](https://www.fastprep.io/system-design/live-relational-database-migration)|🆕 Sep 15, 2026|
