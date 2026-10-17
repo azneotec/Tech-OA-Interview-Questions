@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**76 questions**
+**77 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -71,6 +71,7 @@
 |**Notion**|[Percentage of Blocks Never Edited](https://www.fastprep.io/problems/notion-percentage-blocks-never-edited)|[![Practice][p]](https://www.fastprep.io/problems/notion-percentage-blocks-never-edited)|Mar 26, 2026|
 |**Notion**|[Most Popular Active Plan for the Top Event Type](https://www.fastprep.io/problems/notion-popular-plan-for-top-event-type)|[![Practice][p]](https://www.fastprep.io/problems/notion-popular-plan-for-top-event-type)|Mar 26, 2026|
 |**Agoda**|[TV Series in a Production Window](https://www.fastprep.io/problems/agoda-tv-series-production-window)|[![Practice][p]](https://www.fastprep.io/problems/agoda-tv-series-production-window)|Nov 29, 2025|
+|**PeopleStrong**|[Maximum Employee Salary for a Company](https://www.fastprep.io/problems/peoplestrong-company-maximum-salary)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-company-maximum-salary)|Sep 20, 2025|
 |**Chainalysis**|[Block Transaction Count Trends](https://www.fastprep.io/problems/chainalysis-block-transaction-count-trends)|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-block-transaction-count-trends)|Mar 06, 2025|
 |**AT&T**|[Advertising System Failures Report](https://www.fastprep.io/problems/att-advertising-system-failures-report)|[![Practice][p]](https://www.fastprep.io/problems/att-advertising-system-failures-report)|Nov 08, 2024|
 |**Odoo**|[Employees Joined per Month](https://www.fastprep.io/problems/odoo-employees-joined-per-month)|[![Practice][p]](https://www.fastprep.io/problems/odoo-employees-joined-per-month)|Sep 17, 2024|

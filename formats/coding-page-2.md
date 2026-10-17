@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,607 questions**
+**3,647 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -20,6 +20,12 @@
 |**Amazon**|[Sum Max Plus Min After Decrement Operations](https://www.fastprep.io/problems/amazon-sum-max-plus-min-after-decrement-operations)|[![Practice][p]](https://www.fastprep.io/problems/amazon-sum-max-plus-min-after-decrement-operations)|Mar 25, 2026|
 |**Uber**|[Minimum Plate Collection Time](https://www.fastprep.io/problems/uber-minimum-plate-collection-time)|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-plate-collection-time)|Mar 25, 2026|
 |**Blackrock**|[Process Scheduling](https://www.fastprep.io/problems/blackrock-process-scheduling)|[![Practice][p]](https://www.fastprep.io/problems/blackrock-process-scheduling)|Mar 25, 2026|
+|**PeopleStrong**|[Unique Paths Through a Grid](https://www.fastprep.io/problems/peoplestrong-unique-paths)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-unique-paths)|Mar 25, 2026|
+|**PeopleStrong**|[Reverse Linked-List Nodes in Groups of K](https://www.fastprep.io/problems/peoplestrong-reverse-nodes-in-k-groups)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-reverse-nodes-in-k-groups)|Mar 25, 2026|
+|**PeopleStrong**|[LRU Cache Operations](https://www.fastprep.io/problems/peoplestrong-lru-cache)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-lru-cache)|Mar 25, 2026|
+|**PeopleStrong**|[Sliding Window Maximum](https://www.fastprep.io/problems/peoplestrong-sliding-window-maximum)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-sliding-window-maximum)|Mar 25, 2026|
+|**PeopleStrong**|[Four Sum](https://www.fastprep.io/problems/peoplestrong-four-sum)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-four-sum)|Mar 25, 2026|
+|**PeopleStrong**|[Add Two Binary Strings](https://www.fastprep.io/problems/peoplestrong-add-binary-strings)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-add-binary-strings)|Mar 25, 2026|
 |**Retool**|[Maximum Profit with Exactly Two Stock Transactions](https://www.fastprep.io/problems/retool-exactly-two-stock-transactions)|[![Practice][p]](https://www.fastprep.io/problems/retool-exactly-two-stock-transactions)|Mar 24, 2026|
 |**Retool**|[Execute In-Memory SQL Queries](https://www.fastprep.io/problems/retool-in-memory-sql-engine)|[![Practice][p]](https://www.fastprep.io/problems/retool-in-memory-sql-engine)|Mar 24, 2026|
 |**Retool**|[Markov Transition Counts and Probabilities](https://www.fastprep.io/problems/retool-markov-transition-statistics)|[![Practice][p]](https://www.fastprep.io/problems/retool-markov-transition-statistics)|Mar 24, 2026|
@@ -117,6 +123,7 @@
 |**Walmart**|[Sort Real Number Strings](https://www.fastprep.io/problems/walmart-sort-real-number-strings)|[![Practice][p]](https://www.fastprep.io/problems/walmart-sort-real-number-strings)|Jan 12, 2026|
 |**SavantLabs**|[Minutes to Infect Tree](https://www.fastprep.io/problems/savantlabs-minutes-to-infect-tree)|[![Practice][p]](https://www.fastprep.io/problems/savantlabs-minutes-to-infect-tree)|Jan 12, 2026|
 |**Toast**|[Maximum Stock Profit With Time Gap](https://www.fastprep.io/problems/toast-maximum-stock-profit-with-time-gap)|[![Practice][p]](https://www.fastprep.io/problems/toast-maximum-stock-profit-with-time-gap)|Jan 12, 2026|
+|**PeopleStrong**|[Level of the Minimum-Sum Subtree](https://www.fastprep.io/problems/peoplestrong-minimum-sum-subtree-level)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-minimum-sum-subtree-level)|Jan 10, 2026|
 |**Amazon**|[Longest Arithmetic Subarray After One Change](https://www.fastprep.io/problems/amazon-longest-arithmetic-subarray-after-one-change)|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-arithmetic-subarray-after-one-change)|Jan 06, 2026|
 |**Amazon**|[Replace Values and Return Sums](https://www.fastprep.io/problems/amazon-replace-values-and-return-sums)|[![Practice][p]](https://www.fastprep.io/problems/amazon-replace-values-and-return-sums)|Jan 06, 2026|
 |**Bloomberg LP**|[Valid Parentheses](https://www.fastprep.io/problems/bloomberg-valid-parentheses)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-valid-parentheses)|Dec 30, 2025|
@@ -205,10 +212,15 @@
 |**WhatNot**|[Build a Seven-Minute Playlist](https://www.fastprep.io/problems/whatnot-seven-minute-playlist)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-seven-minute-playlist)|Oct 02, 2025|
 |**Google**|[Unique Word Abbreviations](https://www.fastprep.io/problems/google-unique-word-abbreviations)|[![Practice][p]](https://www.fastprep.io/problems/google-unique-word-abbreviations)|Sep 27, 2025|
 |**Meta**|[Common Words Across Files](https://www.fastprep.io/problems/meta-common-words-across-files)|[![Practice][p]](https://www.fastprep.io/problems/meta-common-words-across-files)|Sep 22, 2025|
+|**PeopleStrong**|[Ceiling Value in a Sorted Array](https://www.fastprep.io/problems/peoplestrong-ceiling-in-sorted-array)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-ceiling-in-sorted-array)|Sep 20, 2025|
 |**Microsoft**|[Isomorphic Strings](https://www.fastprep.io/problems/microsoft-isomorphic-strings)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-isomorphic-strings)|Sep 18, 2025|
 |**Microsoft**|[Merge Two Descending Linked Lists](https://www.fastprep.io/problems/microsoft-merge-two-descending-linked-lists)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-merge-two-descending-linked-lists)|Sep 18, 2025|
 |**Microsoft**|[Sort a Linked List in Descending Order](https://www.fastprep.io/problems/microsoft-sort-linked-list-descending)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-sort-linked-list-descending)|Sep 18, 2025|
 |**Zip**|[Winning Draws for a Mahjong Hand](https://www.fastprep.io/problems/zip-mahjong-winning-draws)|[![Practice][p]](https://www.fastprep.io/problems/zip-mahjong-winning-draws)|Sep 16, 2025|
+|**PeopleStrong**|[Find the Entry of a Linked List Cycle](https://www.fastprep.io/problems/peoplestrong-linked-list-cycle-entry)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-linked-list-cycle-entry)|Sep 16, 2025|
+|**PeopleStrong**|[Word Ladder II: All Shortest Transformations](https://www.fastprep.io/problems/peoplestrong-word-ladder-ii)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-word-ladder-ii)|Sep 16, 2025|
+|**PeopleStrong**|[Integer to English Words: Up to 20 Digits](https://www.fastprep.io/problems/peoplestrong-number-to-english-words)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-number-to-english-words)|Sep 16, 2025|
+|**PeopleStrong**|[Valid Parentheses](https://www.fastprep.io/problems/peoplestrong-valid-parentheses)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-valid-parentheses)|Sep 11, 2025|
 |**Cerebras**|[Implement Binary Search From Scratch](https://www.fastprep.io/problems/cerebras-binary-search)|[![Practice][p]](https://www.fastprep.io/problems/cerebras-binary-search)|Sep 06, 2025|
 |**Goldman Sachs**|[Lock Code](https://www.fastprep.io/problems/goldman-decrypt-code-lock)|[![Practice][p]](https://www.fastprep.io/problems/goldman-decrypt-code-lock)|Sep 06, 2025|
 |**Goldman Sachs**|[Data Reorganization](https://www.fastprep.io/problems/goldman-get-minimum-value)|[![Practice][p]](https://www.fastprep.io/problems/goldman-get-minimum-value)|Sep 06, 2025|
@@ -332,6 +344,12 @@
 |**Amazon**|[Count Special Substrings](https://www.fastprep.io/problems/amazon-count-special-substrs)|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-special-substrs)|May 31, 2025|
 |**Amazon**|[Get Maximum Count](https://www.fastprep.io/problems/amazon-get-maximum-count)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-maximum-count)|May 31, 2025|
 |**Cloudflare**|[Determine Min Partitions Required](https://www.fastprep.io/problems/cloudflare-determine-min-partitions-required)|[![Practice][p]](https://www.fastprep.io/problems/cloudflare-determine-min-partitions-required)|May 31, 2025|
+|**PeopleStrong**|[Shortest Subarray with an Exact Target Sum](https://www.fastprep.io/problems/peoplestrong-minimum-exact-sum-subarray)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-minimum-exact-sum-subarray)|May 28, 2025|
+|**PeopleStrong**|[Number of Provinces](https://www.fastprep.io/problems/peoplestrong-number-of-provinces)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-number-of-provinces)|May 28, 2025|
+|**PeopleStrong**|[Detect a Cycle in a Linked List](https://www.fastprep.io/problems/peoplestrong-linked-list-cycle)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-linked-list-cycle)|May 28, 2025|
+|**PeopleStrong**|[First Nonrepeating Character](https://www.fastprep.io/problems/peoplestrong-first-non-repeating-character)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-first-non-repeating-character)|May 28, 2025|
+|**PeopleStrong**|[Lowest Common Ancestor in a BST](https://www.fastprep.io/problems/peoplestrong-lowest-common-ancestor-bst)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-lowest-common-ancestor-bst)|May 28, 2025|
+|**PeopleStrong**|[Longest Subarray with a Target Sum](https://www.fastprep.io/problems/peoplestrong-longest-target-sum-subarray)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-longest-target-sum-subarray)|May 28, 2025|
 |**Wells Fargo**|[Canonical Euler Trail](https://www.fastprep.io/problems/wellsfargo-canonical-euler-trail)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-canonical-euler-trail)|May 26, 2025|
 |**Wells Fargo**|[Compare Calendar Dates](https://www.fastprep.io/problems/wellsfargo-compare-calendar-dates)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-compare-calendar-dates)|May 26, 2025|
 |**Wells Fargo**|[Count Array Element Frequencies](https://www.fastprep.io/problems/wellsfargo-count-array-element-frequencies)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-count-array-element-frequencies)|May 26, 2025|
@@ -1036,6 +1054,7 @@
 |**DE Shaw**|[Find Num of Interesting Pairs](https://www.fastprep.io/problems/deshaw-find-number-of-interesting-pairs)|[![Practice][p]](https://www.fastprep.io/problems/deshaw-find-number-of-interesting-pairs)|May 10, 2024|
 |**Headlands Technologies**|[Fixed-Size Memory Pool](https://www.fastprep.io/problems/headlands-fixed-size-memory-pool)|[![Practice][p]](https://www.fastprep.io/problems/headlands-fixed-size-memory-pool)|May 10, 2024|
 |**Headlands Technologies**|[Order Sequence Prefix Counts and Quantities](https://www.fastprep.io/problems/headlands-order-sequence-prefix-aggregates)|[![Practice][p]](https://www.fastprep.io/problems/headlands-order-sequence-prefix-aggregates)|May 10, 2024|
+|**PeopleStrong**|[Longest Increasing Subsequence](https://www.fastprep.io/problems/peoplestrong-longest-increasing-subsequence)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-longest-increasing-subsequence)|May 08, 2024|
 |**Meta**|[ All About Cave ](https://www.fastprep.io/problems/mt-cave)|[![Practice][p]](https://www.fastprep.io/problems/mt-cave)|May 06, 2024|
 |**Navan**|[House Robber](https://www.fastprep.io/problems/navan-house-robber)|[![Practice][p]](https://www.fastprep.io/problems/navan-house-robber)|May 06, 2024|
 |**Navan**|[House Robber II](https://www.fastprep.io/problems/navan-house-robber-ii)|[![Practice][p]](https://www.fastprep.io/problems/navan-house-robber-ii)|May 06, 2024|
@@ -1616,19 +1635,40 @@
 |**FlexTrade**|[Merge Two Sorted Arrays](https://www.fastprep.io/problems/flextrade-merge-two-sorted-arrays)|[![Practice][p]](https://www.fastprep.io/problems/flextrade-merge-two-sorted-arrays)|Nov 16, 2021|
 |**FlexTrade**|[Minimum Number of Taps to Water a Garden](https://www.fastprep.io/problems/flextrade-minimum-number-of-taps-to-water-a-garden)|[![Practice][p]](https://www.fastprep.io/problems/flextrade-minimum-number-of-taps-to-water-a-garden)|Nov 16, 2021|
 |**Bloomberg LP**|[Passing Cars](https://www.fastprep.io/problems/bloomberg-passing-cars)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-passing-cars)|Nov 15, 2021|
+|**PeopleStrong**|[Running Median of a Stream](https://www.fastprep.io/problems/peoplestrong-median-of-a-stream)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-median-of-a-stream)|Oct 26, 2021|
+|**PeopleStrong**|[Add Forward Linked-List Numbers Using Recursion](https://www.fastprep.io/problems/peoplestrong-add-two-linked-list-numbers)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-add-two-linked-list-numbers)|Oct 26, 2021|
+|**PeopleStrong**|[Reverse a Stack Recursively](https://www.fastprep.io/problems/peoplestrong-reverse-stack-recursively)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-reverse-stack-recursively)|Oct 26, 2021|
+|**PeopleStrong**|[Permutations of Character Positions](https://www.fastprep.io/problems/peoplestrong-character-permutations)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-character-permutations)|Oct 26, 2021|
 |**Tesla**|[Maximum Even-Sum Adjacent Pairs in a Circular Array](https://www.fastprep.io/problems/tesla-maximum-even-sum-adjacent-pairs)|[![Practice][p]](https://www.fastprep.io/problems/tesla-maximum-even-sum-adjacent-pairs)|Oct 17, 2021|
+|**PeopleStrong**|[Build an Expression Tree from Postfix](https://www.fastprep.io/problems/peoplestrong-expression-tree)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-expression-tree)|Oct 12, 2021|
+|**PeopleStrong**|[Maximum Score from Deleting Neighboring Values](https://www.fastprep.io/problems/peoplestrong-maximum-deletion-score)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-maximum-deletion-score)|Oct 12, 2021|
+|**PeopleStrong**|[Third Largest Element in One Pass](https://www.fastprep.io/problems/peoplestrong-third-largest-element)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-third-largest-element)|Oct 12, 2021|
+|**PeopleStrong**|[Longest Palindromic Substring](https://www.fastprep.io/problems/peoplestrong-longest-palindromic-substring)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-longest-palindromic-substring)|Oct 12, 2021|
+|**PeopleStrong**|[Reverse Words and Normalize Spaces](https://www.fastprep.io/problems/peoplestrong-reverse-words)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-reverse-words)|Oct 06, 2021|
+|**PeopleStrong**|[Remove Consecutive Duplicate Characters](https://www.fastprep.io/problems/peoplestrong-remove-consecutive-duplicates)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-remove-consecutive-duplicates)|Oct 06, 2021|
+|**PeopleStrong**|[Maximum Falling Path Sum in a Rectangle](https://www.fastprep.io/problems/peoplestrong-maximum-falling-path-sum)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-maximum-falling-path-sum)|Oct 06, 2021|
+|**PeopleStrong**|[Aggressive Cows](https://www.fastprep.io/problems/peoplestrong-aggressive-cows)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-aggressive-cows)|Oct 05, 2021|
+|**PeopleStrong**|[Shortest Path in an Unweighted Graph](https://www.fastprep.io/problems/peoplestrong-shortest-unweighted-path)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-shortest-unweighted-path)|Oct 05, 2021|
+|**PeopleStrong**|[Total Set Bits from 1 to N](https://www.fastprep.io/problems/peoplestrong-count-total-set-bits)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-count-total-set-bits)|Oct 05, 2021|
 |**Skydio**|[Maximum Area of Island](https://www.fastprep.io/problems/skydio-max-area-of-island)|[![Practice][p]](https://www.fastprep.io/problems/skydio-max-area-of-island)|Oct 04, 2021|
 |**SambaNova Systems**|[Flip Equivalent Binary Trees](https://www.fastprep.io/problems/sambanova-flip-equivalent-binary-trees)|[![Practice][p]](https://www.fastprep.io/problems/sambanova-flip-equivalent-binary-trees)|Oct 03, 2021|
+|**PeopleStrong**|[Count Subarrays with a Target Sum](https://www.fastprep.io/problems/peoplestrong-count-subarrays-with-sum-k)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-count-subarrays-with-sum-k)|Sep 29, 2021|
+|**PeopleStrong**|[Next Greater Element to the Right](https://www.fastprep.io/problems/peoplestrong-next-greater-element)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-next-greater-element)|Sep 29, 2021|
+|**PeopleStrong**|[Push Dominoes](https://www.fastprep.io/problems/peoplestrong-push-dominoes)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-push-dominoes)|Sep 29, 2021|
 |**Stripe**|[Mutual Wishlist Rankings](https://www.fastprep.io/problems/stripe-mutual-wishlist-rankings)|[![Practice][p]](https://www.fastprep.io/problems/stripe-mutual-wishlist-rankings)|Sep 27, 2021|
 |**Stripe**|[Calculate Server Shutdown Penalty](https://www.fastprep.io/problems/stripe-server-shutdown-penalty)|[![Practice][p]](https://www.fastprep.io/problems/stripe-server-shutdown-penalty)|Sep 27, 2021|
 |**IMC**|[Adding Stack 2.0](https://www.fastprep.io/problems/imc-adding-stack-2-0)|[![Practice][p]](https://www.fastprep.io/problems/imc-adding-stack-2-0)|Sep 24, 2021|
 |**IMC**|[Knight Minimum Moves with a Fixed Bishop](https://www.fastprep.io/problems/imc-knight-minimum-moves-fixed-bishop)|[![Practice][p]](https://www.fastprep.io/problems/imc-knight-minimum-moves-fixed-bishop)|Sep 24, 2021|
 |**Bloomberg LP**|[Valid Triangle Number](https://www.fastprep.io/problems/bloomberg-valid-triangle-number)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-valid-triangle-number)|Sep 11, 2021|
+|**PeopleStrong**|[Swap Two Array Elements](https://www.fastprep.io/problems/peoplestrong-swap-array-elements)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-swap-array-elements)|Sep 06, 2021|
 |**Duolingo**|[Count Distinct Word Meanings](https://www.fastprep.io/problems/duolingo-count-distinct-word-meanings)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-count-distinct-word-meanings)|Sep 02, 2021|
 |**Duolingo**|[Count Legal Outfit Combinations](https://www.fastprep.io/problems/duolingo-count-legal-outfit-combinations)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-count-legal-outfit-combinations)|Sep 02, 2021|
 |**ZipRecruiter**|[Solve a Sudoku Board](https://www.fastprep.io/problems/ziprecruiter-sudoku-solver)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-sudoku-solver)|Aug 16, 2021|
 |**ZipRecruiter**|[Validate a Sudoku Board](https://www.fastprep.io/problems/ziprecruiter-valid-sudoku)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-valid-sudoku)|Aug 16, 2021|
 |**Benchling**|[Generate Proteins from Contiguous Named Sequences](https://www.fastprep.io/problems/benchling-generate-named-proteins)|[![Practice][p]](https://www.fastprep.io/problems/benchling-generate-named-proteins)|Aug 06, 2021|
+|**PeopleStrong**|[Permutation in a String](https://www.fastprep.io/problems/peoplestrong-permutation-in-string)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-permutation-in-string)|Aug 02, 2021|
+|**PeopleStrong**|[Minimum Travel Time with Flashing Traffic Lights](https://www.fastprep.io/problems/peoplestrong-minimum-traffic-light-travel-time)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-minimum-traffic-light-travel-time)|Aug 02, 2021|
+|**PeopleStrong**|[Rat in a Maze: All Simple Paths](https://www.fastprep.io/problems/peoplestrong-rat-in-a-maze)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-rat-in-a-maze)|Aug 02, 2021|
 |**Benchling**|[Longest Substring Without Repeating Characters](https://www.fastprep.io/problems/benchling-longest-substring-without-repeating-characters)|[![Practice][p]](https://www.fastprep.io/problems/benchling-longest-substring-without-repeating-characters)|Jul 30, 2021|
 |**Benchling**|[Next Palindrome Number](https://www.fastprep.io/problems/benchling-next-palindrome-number)|[![Practice][p]](https://www.fastprep.io/problems/benchling-next-palindrome-number)|Jul 30, 2021|
 |**Airbnb**|[Simplified XML Validator](https://www.fastprep.io/problems/airbnb-simplified-xml-validator)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-simplified-xml-validator)|Jun 21, 2021|
