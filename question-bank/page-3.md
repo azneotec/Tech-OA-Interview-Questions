@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Commvault**|[Num of Good Pairs](https://www.fastprep.io/problems/commvault-number-of-good-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/commvault-number-of-good-pairs)|Aug 28, 2024|
+|**Sofi**|[Get Maximum Jobs](https://www.fastprep.io/problems/sofi-get-maximum-jobs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sofi-get-maximum-jobs)|Aug 28, 2024|
+|**Zalando**|[Longest String](https://www.fastprep.io/problems/zolando-longest-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zolando-longest-string)|Aug 28, 2024|
+|**Zalando**|[String Manipulation](https://www.fastprep.io/problems/zolando-string-manipulation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zolando-string-manipulation)|Aug 28, 2024|
 |**Figma**|[Intersection of Two Rectangles](https://www.fastprep.io/problems/figma-rectangle-intersection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-rectangle-intersection)|Aug 26, 2024|
 |**Amazon**|[Choose Warehouse Location](https://www.fastprep.io/problems/amazon-choose-warehouses-location)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-choose-warehouses-location)|Aug 25, 2024|
 |**Akuna**|[Movie Ratings](https://www.fastprep.io/problems/akuna-maximize-ratings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-maximize-ratings)|Aug 25, 2024|
@@ -827,7 +831,6 @@
 |**ZipRecruiter**|[Multiset Intersection of Three Lists](https://www.fastprep.io/problems/ziprecruiter-multiset-intersection-three-lists)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-multiset-intersection-three-lists)|Feb 17, 2022|
 |**ZipRecruiter**|[Rotation with at Most Three Mismatches](https://www.fastprep.io/problems/ziprecruiter-rotation-with-three-mismatches)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-rotation-with-three-mismatches)|Feb 17, 2022|
 |**Coinbase**|[Design a Social Feed Read API](https://www.fastprep.io/low-level-design/social-feed-read-api-contracts)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/social-feed-read-api-contracts)|Feb 15, 2022|
-|**Bloomberg LP**|[Design a Streaming Top-K Hitters System](https://www.fastprep.io/system-design/streaming-top-k-hitters)|System design|[![Practice][p]](https://www.fastprep.io/system-design/streaming-top-k-hitters)|Feb 14, 2022|
 |**Optiver**|[Traveling the Graphs](https://www.fastprep.io/problems/optiver-traveling-the-graphs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/optiver-traveling-the-graphs)|Feb 13, 2022|
 |**Airbnb**|[Most Booked Origin-Destination Route](https://www.fastprep.io/problems/airbnb-most-booked-origin-destination)|SQL|[![Practice][p]](https://www.fastprep.io/problems/airbnb-most-booked-origin-destination)|Feb 12, 2022|
 |**Airbnb**|[Median of Two Sorted Arrays](https://www.fastprep.io/problems/airbnb-median-of-two-sorted-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-median-of-two-sorted-arrays)|Feb 07, 2022|

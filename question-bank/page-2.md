@@ -9,6 +9,12 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**WeRide**|[Drawing Edge](https://www.fastprep.io/problems/weride-drawing-edge)|Coding|[![Practice][p]](https://www.fastprep.io/problems/weride-drawing-edge)|Aug 29, 2026|
+|**WeRide**|[Paint the Ceiling](https://www.fastprep.io/problems/weride-paint-the-ceiling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/weride-paint-the-ceiling)|Aug 29, 2026|
+|**WeRide**|[Unequal Block Structure](https://www.fastprep.io/problems/weride-unequal-block-structure)|Coding|[![Practice][p]](https://www.fastprep.io/problems/weride-unequal-block-structure)|Aug 29, 2026|
+|**Airbnb**|[In-Memory Database](https://www.fastprep.io/problems/airbnb-in-memory-database)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-in-memory-database)|Aug 28, 2026|
+|**Snowflake / Amperity / Fivetran**|[Design a Unified SaaS Analytics Platform](https://www.fastprep.io/system-design/unified-saas-analytics-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/unified-saas-analytics-platform)|Aug 28, 2026|
+|**NVIDIA**|[Autonomous-Driving Camera Perception Pipeline](https://www.fastprep.io/system-design/autonomous-driving-camera-perception-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/autonomous-driving-camera-perception-pipeline)|Aug 28, 2026|
 |**Oracle / Wayfair**|[Design a Software Load Balancer](https://www.fastprep.io/system-design/software-load-balancer)|System design|[![Practice][p]](https://www.fastprep.io/system-design/software-load-balancer)|Aug 28, 2026|
 |**Oracle**|[Design and Implement an Active-Passive Key-Value Store](https://www.fastprep.io/low-level-design/active-passive-key-value-store)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/active-passive-key-value-store)|Aug 28, 2026|
 |**Amazon**|[Minimum Grid Inconvenience](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience)|Aug 28, 2026|
@@ -234,7 +240,6 @@
 |**Asana**|[Design a Rectangular Jigsaw Puzzle](https://www.fastprep.io/low-level-design/rectangular-jigsaw-puzzle)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/rectangular-jigsaw-puzzle)|Aug 02, 2026|
 |**Hartford Financial Services**|[Average Grades per Student](https://www.fastprep.io/problems/hartford-student-grade-averages)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hartford-student-grade-averages)|Aug 02, 2026|
 |**Decagon**|[Design a Multi-Tenant AI Gateway](https://www.fastprep.io/system-design/multi-tenant-ai-gateway)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-tenant-ai-gateway)|Aug 01, 2026|
-|**Scale AI**|[Design an Embedding and Classification API](https://www.fastprep.io/system-design/embedding-and-classification-api)|System design|[![Practice][p]](https://www.fastprep.io/system-design/embedding-and-classification-api)|Aug 01, 2026|
 |**Apple**|[Design an Online Voting Service](https://www.fastprep.io/system-design/online-voting-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/online-voting-service)|Aug 01, 2026|
 |**Scale AI**|[Build a CSV-to-JSON LLM Categorization Service](https://www.fastprep.io/project-coding/scale-csv-json-llm-categorization-service)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-csv-json-llm-categorization-service)|Aug 01, 2026|
 |**Adobe**|[Minimum Snapshots for a Version Tree](https://www.fastprep.io/problems/adobe-snapshot-budget)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-snapshot-budget)|Jul 31, 2026|
@@ -288,7 +293,6 @@
 |**Amazon**|[Design Offline Reading-Progress Synchronization](https://www.fastprep.io/system-design/offline-reading-progress-sync)|System design|[![Practice][p]](https://www.fastprep.io/system-design/offline-reading-progress-sync)|Jul 29, 2026|
 |**Databricks**|[WAL-Backed Batched Log-Writing System](https://www.fastprep.io/system-design/wal-backed-batched-log-writing-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/wal-backed-batched-log-writing-system)|Jul 29, 2026|
 |**Databricks / ZipRecruiter**|[Design a Locking Key-Value Store with Batch Writes](https://www.fastprep.io/low-level-design/locking-key-value-store-with-batch-writes)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/locking-key-value-store-with-batch-writes)|Jul 29, 2026|
-|**Databricks**|[Design a WAL-Backed Batch Log Writer](https://www.fastprep.io/low-level-design/wal-backed-batch-log-writer)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/wal-backed-batch-log-writer)|Jul 29, 2026|
 |**Bilt Rewards**|[Configurable Reward Points Service](https://www.fastprep.io/system-design/configurable-reward-points-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/configurable-reward-points-service)|Jul 29, 2026|
 |**Remitly**|[IP Address Filtering Service](https://www.fastprep.io/system-design/ip-address-filtering-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ip-address-filtering-service)|Jul 29, 2026|
 |**Harness**|[Streaming Ingredient Dishes](https://www.fastprep.io/problems/harness-streaming-ingredient-dishes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/harness-streaming-ingredient-dishes)|Jul 28, 2026|
@@ -889,7 +893,7 @@
 |**Uber**|[Kth Largest Subarray Bitwise OR](https://www.fastprep.io/problems/uber-kth-largest-subarray-bitwise-or)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-kth-largest-subarray-bitwise-or)|Feb 24, 2026|
 |**Uber**|[Minimum Spanning Tree Weight in a Complete Binary Graph](https://www.fastprep.io/problems/uber-minimum-spanning-tree-weight-in-complete-binary-graph)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-spanning-tree-weight-in-complete-binary-graph)|Feb 24, 2026|
 |**Datadog**|[Latency Bucket Counter](https://www.fastprep.io/problems/datadog-latency-bucket-counter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-latency-bucket-counter)|Feb 20, 2026|
-|**Stripe**|[Repair Template Lookup Edge Cases](https://www.fastprep.io/project-coding/stripe-template-lookup-debugging)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-template-lookup-debugging)|Feb 20, 2026|
+|**Stripe**|[Repair Template Lookup and Argument Traversal](https://www.fastprep.io/project-coding/stripe-template-lookup-debugging)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-template-lookup-debugging)|Feb 20, 2026|
 |**Uber**|[Balanced Prefix Permutation](https://www.fastprep.io/problems/uber-balanced-prefix-permutation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-balanced-prefix-permutation)|Feb 19, 2026|
 |**Uber**|[Minimum Euclidean Plate Collection Time](https://www.fastprep.io/problems/uber-minimum-euclidean-plate-collection-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-euclidean-plate-collection-time)|Feb 19, 2026|
 |**Infosys**|[Maximum Subarray Sum After Swaps](https://www.fastprep.io/problems/infosys-maximum-subarray-sum-after-swaps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-maximum-subarray-sum-after-swaps)|Feb 19, 2026|
@@ -1784,8 +1788,4 @@
 |**Cisco**|[Longest Palindromic Subarray](https://www.fastprep.io/problems/cisco-longest-palindromic-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-longest-palindromic-substring)|Aug 28, 2024|
 |**Cisco**|[Find Largest Sum Contiguous Subarray](https://www.fastprep.io/problems/cisco-find-largest-sum-contiguous-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-largest-sum-contiguous-subarray)|Aug 28, 2024|
 |**Commvault**|[Count Good Strings](https://www.fastprep.io/problems/commvault-count-good-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/commvault-count-good-strings)|Aug 28, 2024|
-|**Commvault**|[Num of Good Pairs](https://www.fastprep.io/problems/commvault-number-of-good-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/commvault-number-of-good-pairs)|Aug 28, 2024|
-|**Sofi**|[Get Maximum Jobs](https://www.fastprep.io/problems/sofi-get-maximum-jobs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sofi-get-maximum-jobs)|Aug 28, 2024|
-|**Zalando**|[Longest String](https://www.fastprep.io/problems/zolando-longest-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zolando-longest-string)|Aug 28, 2024|
-|**Zalando**|[String Manipulation](https://www.fastprep.io/problems/zolando-string-manipulation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zolando-string-manipulation)|Aug 28, 2024|
 <a id="bottom"></a>
