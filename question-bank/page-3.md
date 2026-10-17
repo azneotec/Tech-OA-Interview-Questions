@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Cisco**|[Find Largest Sum Contiguous Subarray](https://www.fastprep.io/problems/cisco-find-largest-sum-contiguous-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-largest-sum-contiguous-subarray)|Aug 28, 2024|
+|**Commvault**|[Count Good Strings](https://www.fastprep.io/problems/commvault-count-good-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/commvault-count-good-strings)|Aug 28, 2024|
 |**Commvault**|[Num of Good Pairs](https://www.fastprep.io/problems/commvault-number-of-good-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/commvault-number-of-good-pairs)|Aug 28, 2024|
 |**Sofi**|[Get Maximum Jobs](https://www.fastprep.io/problems/sofi-get-maximum-jobs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sofi-get-maximum-jobs)|Aug 28, 2024|
 |**Zalando**|[Longest String](https://www.fastprep.io/problems/zolando-longest-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zolando-longest-string)|Aug 28, 2024|

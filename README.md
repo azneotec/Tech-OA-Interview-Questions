@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,581)](formats/coding.md) · [SQL (76)](formats/sql.md) · [System design (596)](formats/system-design.md) · [Low-level design (177)](formats/low-level-design.md) · [AI coding (89)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,581)](formats/coding.md) · [SQL (76)](formats/sql.md) · [System design (596)](formats/system-design.md) · [Low-level design (177)](formats/low-level-design.md) · [AI coding (90)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -116,6 +116,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**OpenAI / Commvault / Zomato / Eternal / Upstart**|[Design an Online Chess Platform](https://www.fastprep.io/system-design/online-chess-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/online-chess-platform)|🔥 Oct 14, 2026|
 |**Sphere**|[Design an Address and Date Tax Engine](https://www.fastprep.io/system-design/address-date-tax-engine)|System design|[![Practice][p]](https://www.fastprep.io/system-design/address-date-tax-engine)|🔥 Oct 14, 2026|
 |**Sphere**|[Integrate a State Tax API](https://www.fastprep.io/project-coding/sphere-state-tax-api-integration)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/sphere-state-tax-api-integration)|🔥 Oct 14, 2026|
+|**Upstart**|[Build a Poll and Voting API](https://www.fastprep.io/project-coding/upstart-poll-voting-api)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/upstart-poll-voting-api)|🔥 Oct 14, 2026|
 |**Globalization Partners / Coupa Software / Adobe**|[Design and Repair a Thread-Safe Configuration Singleton](https://www.fastprep.io/low-level-design/thread-safe-configuration-singleton)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-configuration-singleton)|🔥 Oct 13, 2026|
 |**Adobe**|[Design and Implement Shared and Weak Ownership Pointers](https://www.fastprep.io/low-level-design/smart-pointer-ownership-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/smart-pointer-ownership-domain)|🔥 Oct 13, 2026|
 |**Google**|[Count Enclosed Freshwater Regions](https://www.fastprep.io/problems/google-count-enclosed-freshwater-regions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-count-enclosed-freshwater-regions)|🔥 Oct 13, 2026|
@@ -1689,6 +1690,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Google**|[Design an Embeddable Streaming Chat Agent](https://www.fastprep.io/system-design/embeddable-streaming-chat-agent-interface)|System design|[![Practice][p]](https://www.fastprep.io/system-design/embeddable-streaming-chat-agent-interface)|Aug 29, 2026|
 |**OpenAI**|[Power Plant Operations Platform](https://www.fastprep.io/system-design/power-plant-operations-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/power-plant-operations-platform)|Aug 29, 2026|
 |**Uber**|[Design and Implement Ride Dispatch and Trip Lifecycle](https://www.fastprep.io/low-level-design/ride-hailing-dispatch-and-trip-lifecycle)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/ride-hailing-dispatch-and-trip-lifecycle)|Aug 29, 2026|
-|**ClearTax**|[Design a Railway Search and Booking Platform](https://www.fastprep.io/system-design/railway-search-and-booking-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/railway-search-and-booking-platform)|Aug 29, 2026|
-|**Goldman Sachs**|[Palindrome Counter](https://www.fastprep.io/problems/count-palindromes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/count-palindromes)|Aug 29, 2026|
 <a id="bottom"></a>

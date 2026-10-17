@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**ClearTax**|[Design a Railway Search and Booking Platform](https://www.fastprep.io/system-design/railway-search-and-booking-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/railway-search-and-booking-platform)|Aug 29, 2026|
+|**Goldman Sachs**|[Palindrome Counter](https://www.fastprep.io/problems/count-palindromes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/count-palindromes)|Aug 29, 2026|
 |**WeRide**|[Drawing Edge](https://www.fastprep.io/problems/weride-drawing-edge)|Coding|[![Practice][p]](https://www.fastprep.io/problems/weride-drawing-edge)|Aug 29, 2026|
 |**WeRide**|[Paint the Ceiling](https://www.fastprep.io/problems/weride-paint-the-ceiling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/weride-paint-the-ceiling)|Aug 29, 2026|
 |**WeRide**|[Unequal Block Structure](https://www.fastprep.io/problems/weride-unequal-block-structure)|Coding|[![Practice][p]](https://www.fastprep.io/problems/weride-unequal-block-structure)|Aug 29, 2026|
@@ -1786,6 +1788,4 @@
 |**DE Shaw**|[Subarray Removal](https://www.fastprep.io/problems/deshaw-subarray-removal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deshaw-subarray-removal)|Aug 28, 2024|
 |**Cisco**|[Find Maiximum Number Drop Points Connected](https://www.fastprep.io/problems/cisco-find-maximum-number-drop-points-connected)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-maximum-number-drop-points-connected)|Aug 28, 2024|
 |**Cisco**|[Longest Palindromic Subarray](https://www.fastprep.io/problems/cisco-longest-palindromic-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-longest-palindromic-substring)|Aug 28, 2024|
-|**Cisco**|[Find Largest Sum Contiguous Subarray](https://www.fastprep.io/problems/cisco-find-largest-sum-contiguous-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-largest-sum-contiguous-subarray)|Aug 28, 2024|
-|**Commvault**|[Count Good Strings](https://www.fastprep.io/problems/commvault-count-good-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/commvault-count-good-strings)|Aug 28, 2024|
 <a id="bottom"></a>
