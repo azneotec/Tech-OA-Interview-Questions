@@ -9,6 +9,16 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Scale AI**|[Four-Player Trick-Taking Card Game Simulation](https://www.fastprep.io/problems/four-player-trick-taking-card-game-simulation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/four-player-trick-taking-card-game-simulation)|Aug 31, 2026|
+|**Snowflake**|[Design In-Memory File System](https://www.fastprep.io/problems/snowflake-design-in-memory-file-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-design-in-memory-file-system)|Aug 31, 2026|
+|**MongoDB**|[Recursive Nested JSON Key Search](https://www.fastprep.io/problems/mongodb-recursive-nested-object-key-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mongodb-recursive-nested-object-key-search)|Aug 31, 2026|
+|**Salesforce**|[Path Sum](https://www.fastprep.io/problems/salesforce-path-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-path-sum)|Aug 31, 2026|
+|**Google**|[Earliest Time of Full Connection](https://www.fastprep.io/problems/google-earliest-full-connection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-earliest-full-connection)|Aug 31, 2026|
+|**Google**|[Parent-Child Deletion Order](https://www.fastprep.io/problems/google-parent-child-deletion-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-parent-child-deletion-order)|Aug 31, 2026|
+|**Lyft**|[Rotten Oranges / Grid Infection BFS](https://www.fastprep.io/problems/lyft-rotten-oranges-grid-bfs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/lyft-rotten-oranges-grid-bfs)|Aug 31, 2026|
+|**Amazon**|[Linked-List Queue with Delete and Deduplication](https://www.fastprep.io/problems/amazon-linked-list-queue-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-linked-list-queue-operations)|Aug 31, 2026|
+|**Databricks**|[Minimize Commute](https://www.fastprep.io/problems/databricks-minimize-commute)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-minimize-commute)|Aug 31, 2026|
+|**Google**|[Maximize Two Endpoint Values](https://www.fastprep.io/problems/google-maximize-two-endpoint-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximize-two-endpoint-values)|Aug 31, 2026|
 |**Pinterest**|[Expression Add Operators](https://www.fastprep.io/problems/pinterest-expression-add-operators)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-expression-add-operators)|Aug 31, 2026|
 |**Pinterest**|[Nested JSON Schema Validator](https://www.fastprep.io/problems/pinterest-nested-json-schema-validator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-nested-json-schema-validator)|Aug 31, 2026|
 |**Amazon**|[Design and Implement a Streaming Median API](https://www.fastprep.io/low-level-design/streaming-median-api)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/streaming-median-api)|Aug 31, 2026|
@@ -1774,13 +1784,4 @@
 |**Bloomberg**|[Shuffle All the Decks](https://www.fastprep.io/problems/bloomberg-shuffle-all-decks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-shuffle-all-decks)|Sep 16, 2024|
 |**ZipRecruiter**|[Most Frequent Word across Grouped Arrays](https://www.fastprep.io/problems/ziprecruiter-most-frequent-grouped-word)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-most-frequent-grouped-word)|Sep 16, 2024|
 |**ZipRecruiter**|[Place a Lamp to Cover the Most Objects](https://www.fastprep.io/problems/ziprecruiter-best-lamp-coordinate)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-best-lamp-coordinate)|Sep 14, 2024|
-|**ZipRecruiter**|[Count Colliding Object Pairs](https://www.fastprep.io/problems/ziprecruiter-count-colliding-center-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-colliding-center-pairs)|Sep 14, 2024|
-|**ZipRecruiter**|[Eliminate Drivers by Slowest Personal Best](https://www.fastprep.io/problems/ziprecruiter-driver-elimination)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-driver-elimination)|Sep 14, 2024|
-|**ZipRecruiter**|[Sum Every Third Spiral Element](https://www.fastprep.io/problems/ziprecruiter-sum-every-third-spiral)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-sum-every-third-spiral)|Sep 14, 2024|
-|**NVIDIA**|[Design Few-Shot Vision-Language Model Adaptation](https://www.fastprep.io/system-design/few-shot-vision-language-model-adaptation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/few-shot-vision-language-model-adaptation)|Sep 13, 2024|
-|**NVIDIA**|[Design a Visual Conversation and Speech Assistant](https://www.fastprep.io/system-design/visual-conversation-and-speech-assistant)|System design|[![Practice][p]](https://www.fastprep.io/system-design/visual-conversation-and-speech-assistant)|Sep 13, 2024|
-|**NVIDIA**|[Design Continued Multimodal Model Pretraining](https://www.fastprep.io/system-design/continued-multimodal-model-pretraining)|System design|[![Practice][p]](https://www.fastprep.io/system-design/continued-multimodal-model-pretraining)|Sep 13, 2024|
-|**ZipRecruiter**|[Minimum Increments for Stepwise Towers](https://www.fastprep.io/problems/ziprecruiter-minimum-stepwise-tower-increments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-minimum-stepwise-tower-increments)|Sep 13, 2024|
-|**ZipRecruiter**|[Distinct Values on Maximum-Sum Frames](https://www.fastprep.io/problems/ziprecruiter-sum-distinct-winning-frame-border-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-sum-distinct-winning-frame-border-values)|Sep 13, 2024|
-|**ZipRecruiter**|[Square-Neighborhood Image Blur](https://www.fastprep.io/problems/ziprecruiter-square-neighborhood-blur)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-square-neighborhood-blur)|Sep 12, 2024|
 <a id="bottom"></a>
