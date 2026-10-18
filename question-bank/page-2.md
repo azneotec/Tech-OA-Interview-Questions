@@ -1069,6 +1069,9 @@
 |**Rippling**|[Validate a Max Heap](https://www.fastprep.io/problems/rippling-validate-max-heap)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-validate-max-heap)|Nov 16, 2025|
 |**Zip**|[Shortest Distance in a Graph](https://www.fastprep.io/problems/zip-graph-shortest-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zip-graph-shortest-distance)|Nov 14, 2025|
 |**Bloomberg LP**|[Subsets](https://www.fastprep.io/problems/bloomberg-subsets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-subsets)|Nov 13, 2025|
+|**Vanguard**|[Are They Pangrams](https://www.fastprep.io/problems/vanguard-are-they-pangrams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanguard-are-they-pangrams)|Nov 13, 2025|
+|**Vanguard**|[Missing Words](https://www.fastprep.io/problems/vanguard-missing-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanguard-missing-words)|Nov 13, 2025|
+|**Vanguard**|[Spam Detection](https://www.fastprep.io/problems/vanguard-spam-detection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanguard-spam-detection)|Nov 13, 2025|
 |**Stripe**|[Repair Redirected Request Body Replay](https://www.fastprep.io/project-coding/stripe-redirect-stream-replay)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-redirect-stream-replay)|Nov 12, 2025|
 |**Rippling**|[Split Text by Multiple Delimiters](https://www.fastprep.io/problems/rippling-split-text-by-multiple-delimiters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-split-text-by-multiple-delimiters)|Nov 12, 2025|
 |**Stripe**|[Complete a Two-Label Tabular Model Pipeline](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|Nov 11, 2025|
@@ -1779,7 +1782,4 @@
 |**ZipRecruiter**|[Drop a Connected Figure Through Obstacles](https://www.fastprep.io/problems/ziprecruiter-drop-connected-figure)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-drop-connected-figure)|Sep 11, 2024|
 |**ZipRecruiter**|[Longest Border-Ending Diagonal Pattern](https://www.fastprep.io/problems/ziprecruiter-longest-border-ending-diagonal-pattern)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-longest-border-ending-diagonal-pattern)|Sep 11, 2024|
 |**ZipRecruiter**|[Longest Contiguous Houses After Each Build](https://www.fastprep.io/problems/ziprecruiter-longest-house-segment-after-builds)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-longest-house-segment-after-builds)|Sep 11, 2024|
-|**ZipRecruiter**|[Replace Every Nth Consonant](https://www.fastprep.io/problems/ziprecruiter-replace-every-nth-consonant)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-replace-every-nth-consonant)|Sep 11, 2024|
-|**ZipRecruiter**|[Keep Endpoints and Strict Local Maxima](https://www.fastprep.io/problems/ziprecruiter-endpoints-and-local-maxima)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-endpoints-and-local-maxima)|Sep 10, 2024|
-|**ZipRecruiter**|[Count Nearly Regular Matrix Crosses](https://www.fastprep.io/problems/ziprecruiter-nearly-regular-crosses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-nearly-regular-crosses)|Sep 10, 2024|
 <a id="bottom"></a>
