@@ -9,6 +9,11 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Pinterest**|[Expression Add Operators](https://www.fastprep.io/problems/pinterest-expression-add-operators)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-expression-add-operators)|Aug 31, 2026|
+|**Pinterest**|[Nested JSON Schema Validator](https://www.fastprep.io/problems/pinterest-nested-json-schema-validator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-nested-json-schema-validator)|Aug 31, 2026|
+|**Amazon**|[Design and Implement a Streaming Median API](https://www.fastprep.io/low-level-design/streaming-median-api)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/streaming-median-api)|Aug 31, 2026|
+|**ByteDance**|[Design a Top Songs by Country Leaderboard](https://www.fastprep.io/system-design/top-songs-by-country-leaderboard)|System design|[![Practice][p]](https://www.fastprep.io/system-design/top-songs-by-country-leaderboard)|Aug 30, 2026|
+|**Airwallex**|[Design an Asynchronous File Analysis and Reporting System](https://www.fastprep.io/system-design/asynchronous-file-analysis-reporting-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/asynchronous-file-analysis-reporting-system)|Aug 30, 2026|
 |**Verkada**|[Design a Camera Heartbeat Health Dashboard](https://www.fastprep.io/system-design/camera-heartbeat-health-dashboard)|System design|[![Practice][p]](https://www.fastprep.io/system-design/camera-heartbeat-health-dashboard)|Aug 30, 2026|
 |**Verkada**|[Design a Distributed Matrix Transpose Service](https://www.fastprep.io/system-design/distributed-matrix-transpose)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-matrix-transpose)|Aug 30, 2026|
 |**Matroid**|[Count Good Tuples](https://www.fastprep.io/problems/matroid-count-good-tuples)|Coding|[![Practice][p]](https://www.fastprep.io/problems/matroid-count-good-tuples)|Aug 30, 2026|
@@ -1778,8 +1783,4 @@
 |**ZipRecruiter**|[Minimum Increments for Stepwise Towers](https://www.fastprep.io/problems/ziprecruiter-minimum-stepwise-tower-increments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-minimum-stepwise-tower-increments)|Sep 13, 2024|
 |**ZipRecruiter**|[Distinct Values on Maximum-Sum Frames](https://www.fastprep.io/problems/ziprecruiter-sum-distinct-winning-frame-border-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-sum-distinct-winning-frame-border-values)|Sep 13, 2024|
 |**ZipRecruiter**|[Square-Neighborhood Image Blur](https://www.fastprep.io/problems/ziprecruiter-square-neighborhood-blur)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-square-neighborhood-blur)|Sep 12, 2024|
-|**ZipRecruiter**|[Classify Final Robot Displacement](https://www.fastprep.io/problems/ziprecruiter-classify-vertical-robot-displacement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-classify-vertical-robot-displacement)|Sep 11, 2024|
-|**ZipRecruiter**|[Drop a Connected Figure Through Obstacles](https://www.fastprep.io/problems/ziprecruiter-drop-connected-figure)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-drop-connected-figure)|Sep 11, 2024|
-|**ZipRecruiter**|[Longest Border-Ending Diagonal Pattern](https://www.fastprep.io/problems/ziprecruiter-longest-border-ending-diagonal-pattern)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-longest-border-ending-diagonal-pattern)|Sep 11, 2024|
-|**ZipRecruiter**|[Longest Contiguous Houses After Each Build](https://www.fastprep.io/problems/ziprecruiter-longest-house-segment-after-builds)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-longest-house-segment-after-builds)|Sep 11, 2024|
 <a id="bottom"></a>

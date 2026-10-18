@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**ZipRecruiter**|[Classify Final Robot Displacement](https://www.fastprep.io/problems/ziprecruiter-classify-vertical-robot-displacement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-classify-vertical-robot-displacement)|Sep 11, 2024|
+|**ZipRecruiter**|[Drop a Connected Figure Through Obstacles](https://www.fastprep.io/problems/ziprecruiter-drop-connected-figure)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-drop-connected-figure)|Sep 11, 2024|
+|**ZipRecruiter**|[Longest Border-Ending Diagonal Pattern](https://www.fastprep.io/problems/ziprecruiter-longest-border-ending-diagonal-pattern)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-longest-border-ending-diagonal-pattern)|Sep 11, 2024|
+|**ZipRecruiter**|[Longest Contiguous Houses After Each Build](https://www.fastprep.io/problems/ziprecruiter-longest-house-segment-after-builds)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-longest-house-segment-after-builds)|Sep 11, 2024|
 |**ZipRecruiter**|[Replace Every Nth Consonant](https://www.fastprep.io/problems/ziprecruiter-replace-every-nth-consonant)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-replace-every-nth-consonant)|Sep 11, 2024|
 |**ZipRecruiter**|[Keep Endpoints and Strict Local Maxima](https://www.fastprep.io/problems/ziprecruiter-endpoints-and-local-maxima)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-endpoints-and-local-maxima)|Sep 10, 2024|
 |**ZipRecruiter**|[Count Nearly Regular Matrix Crosses](https://www.fastprep.io/problems/ziprecruiter-nearly-regular-crosses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-nearly-regular-crosses)|Sep 10, 2024|
