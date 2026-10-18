@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,685 questions**
+**3,686 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1844,6 +1844,7 @@
 |**Bloomberg LP**|[Missing Element in Sorted Array](https://www.fastprep.io/problems/bloomberg-missing-element-in-sorted-array)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-missing-element-in-sorted-array)|Oct 17, 2019|
 |**Airbnb**|[Resolve Battles](https://www.fastprep.io/problems/airbnb-resolve-battles)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-resolve-battles)|Oct 16, 2019|
 |**Postman**|[Without Whitespaces](https://www.fastprep.io/problems/postman-without-whitespaces)|[![Practice][p]](https://www.fastprep.io/problems/postman-without-whitespaces)|Sep 26, 2019|
+|**Vanguard**|[Remove Duplicate Anagrams](https://www.fastprep.io/problems/vanguard-remove-duplicate-anagrams)|[![Practice][p]](https://www.fastprep.io/problems/vanguard-remove-duplicate-anagrams)|Sep 16, 2019|
 |**Postman**|[Maximum Laptop Rating in a Price Range](https://www.fastprep.io/problems/postman-maximum-laptop-rating)|[![Practice][p]](https://www.fastprep.io/problems/postman-maximum-laptop-rating)|Aug 30, 2019|
 |**Motive**|[Parse a Valid Roman Numeral](https://www.fastprep.io/problems/motive-valid-roman-numeral)|[![Practice][p]](https://www.fastprep.io/problems/motive-valid-roman-numeral)|Aug 17, 2019|
 |**Mygate**|[Issue Non-repeating OTPs in a Time Window](https://www.fastprep.io/problems/mygate-nonrepeating-otp-window)|[![Practice][p]](https://www.fastprep.io/problems/mygate-nonrepeating-otp-window)|Aug 03, 2019|
