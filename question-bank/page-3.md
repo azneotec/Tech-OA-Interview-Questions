@@ -9,6 +9,15 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**ZipRecruiter**|[Count Colliding Object Pairs](https://www.fastprep.io/problems/ziprecruiter-count-colliding-center-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-colliding-center-pairs)|Sep 14, 2024|
+|**ZipRecruiter**|[Eliminate Drivers by Slowest Personal Best](https://www.fastprep.io/problems/ziprecruiter-driver-elimination)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-driver-elimination)|Sep 14, 2024|
+|**ZipRecruiter**|[Sum Every Third Spiral Element](https://www.fastprep.io/problems/ziprecruiter-sum-every-third-spiral)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-sum-every-third-spiral)|Sep 14, 2024|
+|**NVIDIA**|[Design Few-Shot Vision-Language Model Adaptation](https://www.fastprep.io/system-design/few-shot-vision-language-model-adaptation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/few-shot-vision-language-model-adaptation)|Sep 13, 2024|
+|**NVIDIA**|[Design a Visual Conversation and Speech Assistant](https://www.fastprep.io/system-design/visual-conversation-and-speech-assistant)|System design|[![Practice][p]](https://www.fastprep.io/system-design/visual-conversation-and-speech-assistant)|Sep 13, 2024|
+|**NVIDIA**|[Design Continued Multimodal Model Pretraining](https://www.fastprep.io/system-design/continued-multimodal-model-pretraining)|System design|[![Practice][p]](https://www.fastprep.io/system-design/continued-multimodal-model-pretraining)|Sep 13, 2024|
+|**ZipRecruiter**|[Minimum Increments for Stepwise Towers](https://www.fastprep.io/problems/ziprecruiter-minimum-stepwise-tower-increments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-minimum-stepwise-tower-increments)|Sep 13, 2024|
+|**ZipRecruiter**|[Distinct Values on Maximum-Sum Frames](https://www.fastprep.io/problems/ziprecruiter-sum-distinct-winning-frame-border-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-sum-distinct-winning-frame-border-values)|Sep 13, 2024|
+|**ZipRecruiter**|[Square-Neighborhood Image Blur](https://www.fastprep.io/problems/ziprecruiter-square-neighborhood-blur)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-square-neighborhood-blur)|Sep 12, 2024|
 |**ZipRecruiter**|[Classify Final Robot Displacement](https://www.fastprep.io/problems/ziprecruiter-classify-vertical-robot-displacement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-classify-vertical-robot-displacement)|Sep 11, 2024|
 |**ZipRecruiter**|[Drop a Connected Figure Through Obstacles](https://www.fastprep.io/problems/ziprecruiter-drop-connected-figure)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-drop-connected-figure)|Sep 11, 2024|
 |**ZipRecruiter**|[Longest Border-Ending Diagonal Pattern](https://www.fastprep.io/problems/ziprecruiter-longest-border-ending-diagonal-pattern)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-longest-border-ending-diagonal-pattern)|Sep 11, 2024|
