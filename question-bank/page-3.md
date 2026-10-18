@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**ZipRecruiter**|[Replace Every Nth Consonant](https://www.fastprep.io/problems/ziprecruiter-replace-every-nth-consonant)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-replace-every-nth-consonant)|Sep 11, 2024|
+|**ZipRecruiter**|[Keep Endpoints and Strict Local Maxima](https://www.fastprep.io/problems/ziprecruiter-endpoints-and-local-maxima)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-endpoints-and-local-maxima)|Sep 10, 2024|
+|**ZipRecruiter**|[Count Nearly Regular Matrix Crosses](https://www.fastprep.io/problems/ziprecruiter-nearly-regular-crosses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-nearly-regular-crosses)|Sep 10, 2024|
 |**ZipRecruiter**|[Count Suffix-Related Word Pairs](https://www.fastprep.io/problems/ziprecruiter-count-suffix-related-word-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-suffix-related-word-pairs)|Sep 07, 2024|
 |**ZipRecruiter**|[Dynamic Pair Sum Queries](https://www.fastprep.io/problems/ziprecruiter-dynamic-pair-sum-delta-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-dynamic-pair-sum-delta-queries)|Sep 07, 2024|
 |**Motive**|[Count Product-Divisible Pairs](https://www.fastprep.io/problems/motive-count-product-divisible-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-count-product-divisible-pairs)|Sep 06, 2024|
@@ -604,6 +607,7 @@
 |**Goldman Sachs**|[Encircular](https://www.fastprep.io/problems/encircular)|Coding|[![Practice][p]](https://www.fastprep.io/problems/encircular)|Jan 09, 2024|
 |**Goldman Sachs**|[Project Estimates](https://www.fastprep.io/problems/project-estimates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/project-estimates)|Jan 09, 2024|
 |**Goldman Sachs**|[Longest Subarray](https://www.fastprep.io/problems/longest-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/longest-subarray)|Jan 09, 2024|
+|**Vanguard**|[Check String Permutation](https://www.fastprep.io/problems/vanguard-check-string-permutation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanguard-check-string-permutation)|Jan 09, 2024|
 |**ZipRecruiter**|[Count Subarrays with K Disjoint Equal Pairs](https://www.fastprep.io/problems/ziprecruiter-count-subarrays-with-disjoint-equal-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-subarrays-with-disjoint-equal-pairs)|Jan 08, 2024|
 |**Amazon**|[Count Maximum Profitable Groups](https://www.fastprep.io/problems/count-maximum-profitable-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/count-maximum-profitable-groups)|Jan 07, 2024|
 |**Cisco**|[Maximum Chocolates from Jars](https://www.fastprep.io/problems/cisco-maximum-chocolates-from-jars)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-maximum-chocolates-from-jars)|Jan 02, 2024|
@@ -751,6 +755,7 @@
 |**ZipRecruiter**|[Longest Common Normalized Path Suffix](https://www.fastprep.io/problems/ziprecruiter-longest-common-normalized-path-suffix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-longest-common-normalized-path-suffix)|Jan 26, 2023|
 |**Odoo**|[Maximum Profit from an Increasing Price Triplet](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|Coding|[![Practice][p]](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|Jan 24, 2023|
 |**WhatNot**|[Group Anagram Names](https://www.fastprep.io/problems/whatnot-group-anagram-names)|Coding|[![Practice][p]](https://www.fastprep.io/problems/whatnot-group-anagram-names)|Jan 10, 2023|
+|**Vanguard**|[Binge Watching](https://www.fastprep.io/problems/vanguard-binge-watching)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanguard-binge-watching)|Jan 02, 2023|
 |**ZipRecruiter**|[K-Group Digit-Sum Compression](https://www.fastprep.io/problems/ziprecruiter-k-group-digit-compression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-k-group-digit-compression)|Dec 28, 2022|
 |**ZipRecruiter**|[Render Wrapped Two-Party Chat Lines](https://www.fastprep.io/problems/ziprecruiter-wrapped-chat-alignment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-wrapped-chat-alignment)|Dec 28, 2022|
 |**Bloomberg LP**|[Index of the First Non-Repeating Character](https://www.fastprep.io/problems/bloomberg-first-unique-character-in-a-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-first-unique-character-in-a-string)|Dec 15, 2022|
@@ -881,6 +886,8 @@
 |**Google**|[Expand a US Digital Wallet to New Markets](https://www.fastprep.io/system-design/multi-market-digital-wallet-payments)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-market-digital-wallet-payments)|Apr 05, 2022|
 |**Meta**|[Select and Improve a Short-Audio Speech Recognizer](https://www.fastprep.io/system-design/short-audio-speech-recognition-model-selection)|System design|[![Practice][p]](https://www.fastprep.io/system-design/short-audio-speech-recognition-model-selection)|Apr 05, 2022|
 |**Google**|[Train a Click Model from Multiple Live Streams](https://www.fastprep.io/system-design/multi-stream-live-click-model-training)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-stream-live-click-model-training)|Apr 05, 2022|
+|**Vanguard**|[Maximum Occurring Character](https://www.fastprep.io/problems/vanguard-maximum-occurring-character)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanguard-maximum-occurring-character)|Mar 30, 2022|
+|**Vanguard**|[Picking Tickets](https://www.fastprep.io/problems/vanguard-picking-tickets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanguard-picking-tickets)|Mar 30, 2022|
 |**SambaNova Systems**|[Parse Variable, Expression, and Application Trees](https://www.fastprep.io/problems/sambanova-expression-tree-parser)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-expression-tree-parser)|Mar 28, 2022|
 |**Grubhub**|[Design a Restaurant Menu Catalog Service](https://www.fastprep.io/system-design/restaurant-menu-catalog-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/restaurant-menu-catalog-service)|Mar 26, 2022|
 |**Grubhub**|[Air Traffic Control System](https://www.fastprep.io/low-level-design/air-traffic-control-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/air-traffic-control-system)|Mar 26, 2022|
@@ -1127,6 +1134,7 @@
 |**Google**|[Design an Incremental Spelling and Grammar Assistant](https://www.fastprep.io/system-design/incremental-spelling-and-grammar-assistant)|System design|[![Practice][p]](https://www.fastprep.io/system-design/incremental-spelling-and-grammar-assistant)|Dec 05, 2019|
 |**Bloomberg LP**|[All Simple Paths in an Undirected Graph](https://www.fastprep.io/problems/bloomberg-all-simple-paths-undirected-graph)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-all-simple-paths-undirected-graph)|Nov 29, 2019|
 |**Bloomberg LP**|[N-ary Tree Right Side View](https://www.fastprep.io/problems/bloomberg-nary-tree-right-side-view)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-nary-tree-right-side-view)|Nov 19, 2019|
+|**Vanguard**|[Group Anagrams](https://www.fastprep.io/problems/vanguard-group-anagrams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanguard-group-anagrams)|Nov 19, 2019|
 |**Bloomberg LP**|[Four-Direction Unique Grid Paths](https://www.fastprep.io/problems/bloomberg-four-direction-unique-grid-paths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-four-direction-unique-grid-paths)|Nov 16, 2019|
 |**Bloomberg LP**|[Implement Queue Using Stacks](https://www.fastprep.io/problems/bloomberg-implement-queue-using-stacks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-implement-queue-using-stacks)|Nov 16, 2019|
 |**Bloomberg LP**|[Rebuild Binary Tree from Level Order](https://www.fastprep.io/problems/bloomberg-rebuild-tree-from-level-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-rebuild-tree-from-level-order)|Nov 16, 2019|
