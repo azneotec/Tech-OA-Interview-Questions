@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,686 questions**
+**3,690 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1112,6 +1112,8 @@
 |**Apple**|[Palindrome Match Percentage](https://www.fastprep.io/problems/apple-palindrome-match-percentage)|[![Practice][p]](https://www.fastprep.io/problems/apple-palindrome-match-percentage)|🆕 Sep 09, 2026|
 |**Anthropic**|[Crawl Same-Hostname URLs Concurrently](https://www.fastprep.io/problems/anthropic-same-hostname-concurrent-web-crawler)|[![Practice][p]](https://www.fastprep.io/problems/anthropic-same-hostname-concurrent-web-crawler)|🆕 Sep 09, 2026|
 |**Amazon**|[Meeting Rooms II](https://www.fastprep.io/problems/amazon-meeting-rooms-ii)|[![Practice][p]](https://www.fastprep.io/problems/amazon-meeting-rooms-ii)|🆕 Sep 09, 2026|
+|**Vanguard**|[Two Sum](https://www.fastprep.io/problems/vanguard-two-sum)|[![Practice][p]](https://www.fastprep.io/problems/vanguard-two-sum)|🆕 Sep 09, 2026|
+|**Vanguard**|[Valid Parentheses](https://www.fastprep.io/problems/vanguard-valid-parentheses)|[![Practice][p]](https://www.fastprep.io/problems/vanguard-valid-parentheses)|🆕 Sep 09, 2026|
 |**Nvidia**|[Check Endianness Of A Byte Array](https://www.fastprep.io/problems/nvidia-check-endianness)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-check-endianness)|🆕 Sep 08, 2026|
 |**Nvidia**|[Reverse A String](https://www.fastprep.io/problems/nvidia-reverse-string)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-reverse-string)|🆕 Sep 08, 2026|
 |**Nvidia**|[Implement Malloc](https://www.fastprep.io/problems/nvidia-implement-malloc)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-implement-malloc)|🆕 Sep 08, 2026|
@@ -1822,5 +1824,4 @@
 |**Modular**|[Critical Path Through Dependent Tasks](https://www.fastprep.io/problems/modular-critical-path-schedule)|[![Practice][p]](https://www.fastprep.io/problems/modular-critical-path-schedule)|Apr 08, 2026|
 |**Notion**|[DAG Downstream Nodes](https://www.fastprep.io/problems/notion-dag-downstream-nodes)|[![Practice][p]](https://www.fastprep.io/problems/notion-dag-downstream-nodes)|Apr 08, 2026|
 |**WhatNot**|[Merge Sorted Squares of Two Arrays](https://www.fastprep.io/problems/whatnot-merge-sorted-squares-two-arrays)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-merge-sorted-squares-two-arrays)|Apr 08, 2026|
-|**WhatNot**|[Palindrome with One Deletion](https://www.fastprep.io/problems/whatnot-valid-palindrome-one-deletion)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-valid-palindrome-one-deletion)|Apr 08, 2026|
 <a id="bottom"></a>

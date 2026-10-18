@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Salesforce**|[Diameter of an Acyclic Undirected Graph](https://www.fastprep.io/problems/salesforce-tree-diameter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-tree-diameter)|Aug 31, 2026|
 |**Scale AI**|[Four-Player Trick-Taking Card Game Simulation](https://www.fastprep.io/problems/four-player-trick-taking-card-game-simulation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/four-player-trick-taking-card-game-simulation)|Aug 31, 2026|
 |**Snowflake**|[Design In-Memory File System](https://www.fastprep.io/problems/snowflake-design-in-memory-file-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-design-in-memory-file-system)|Aug 31, 2026|
 |**MongoDB**|[Recursive Nested JSON Key Search](https://www.fastprep.io/problems/mongodb-recursive-nested-object-key-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mongodb-recursive-nested-object-key-search)|Aug 31, 2026|
@@ -1783,5 +1784,4 @@
 |**Bloomberg**|[Find Longest Chain](https://www.fastprep.io/problems/bloomberg-find-longest-chain)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-longest-chain)|Sep 16, 2024|
 |**Bloomberg**|[Shuffle All the Decks](https://www.fastprep.io/problems/bloomberg-shuffle-all-decks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-shuffle-all-decks)|Sep 16, 2024|
 |**ZipRecruiter**|[Most Frequent Word across Grouped Arrays](https://www.fastprep.io/problems/ziprecruiter-most-frequent-grouped-word)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-most-frequent-grouped-word)|Sep 16, 2024|
-|**ZipRecruiter**|[Place a Lamp to Cover the Most Objects](https://www.fastprep.io/problems/ziprecruiter-best-lamp-coordinate)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-best-lamp-coordinate)|Sep 14, 2024|
 <a id="bottom"></a>

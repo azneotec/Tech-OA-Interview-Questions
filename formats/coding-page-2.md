@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,686 questions**
+**3,690 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**WhatNot**|[Palindrome with One Deletion](https://www.fastprep.io/problems/whatnot-valid-palindrome-one-deletion)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-valid-palindrome-one-deletion)|Apr 08, 2026|
 |**Notion**|[Mutable Table Aggregations](https://www.fastprep.io/problems/notion-mutable-table-aggregations)|[![Practice][p]](https://www.fastprep.io/problems/notion-mutable-table-aggregations)|Apr 07, 2026|
 |**Amazon**|[Maximize Protected City Population](https://www.fastprep.io/problems/amazon-maximize-protected-city-population)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-protected-city-population)|Apr 06, 2026|
 |**Amazon**|[Minimum Cost to Convert Products to Variant A](https://www.fastprep.io/problems/amazon-minimum-cost-to-convert-products-to-variant-a)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-cost-to-convert-products-to-variant-a)|Apr 06, 2026|
@@ -1671,6 +1672,7 @@
 |**FlexTrade**|[Merge Two Sorted Arrays](https://www.fastprep.io/problems/flextrade-merge-two-sorted-arrays)|[![Practice][p]](https://www.fastprep.io/problems/flextrade-merge-two-sorted-arrays)|Nov 16, 2021|
 |**FlexTrade**|[Minimum Number of Taps to Water a Garden](https://www.fastprep.io/problems/flextrade-minimum-number-of-taps-to-water-a-garden)|[![Practice][p]](https://www.fastprep.io/problems/flextrade-minimum-number-of-taps-to-water-a-garden)|Nov 16, 2021|
 |**Bloomberg LP**|[Passing Cars](https://www.fastprep.io/problems/bloomberg-passing-cars)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-passing-cars)|Nov 15, 2021|
+|**Vanguard**|[Tool List: Two Smallest Values](https://www.fastprep.io/problems/vanguard-tool-list-two-minima)|[![Practice][p]](https://www.fastprep.io/problems/vanguard-tool-list-two-minima)|Nov 08, 2021|
 |**PeopleStrong**|[Running Median of a Stream](https://www.fastprep.io/problems/peoplestrong-median-of-a-stream)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-median-of-a-stream)|Oct 26, 2021|
 |**PeopleStrong**|[Add Forward Linked-List Numbers Using Recursion](https://www.fastprep.io/problems/peoplestrong-add-two-linked-list-numbers)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-add-two-linked-list-numbers)|Oct 26, 2021|
 |**PeopleStrong**|[Reverse a Stack Recursively](https://www.fastprep.io/problems/peoplestrong-reverse-stack-recursively)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-reverse-stack-recursively)|Oct 26, 2021|
@@ -1845,6 +1847,7 @@
 |**Airbnb**|[Resolve Battles](https://www.fastprep.io/problems/airbnb-resolve-battles)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-resolve-battles)|Oct 16, 2019|
 |**Postman**|[Without Whitespaces](https://www.fastprep.io/problems/postman-without-whitespaces)|[![Practice][p]](https://www.fastprep.io/problems/postman-without-whitespaces)|Sep 26, 2019|
 |**Vanguard**|[Remove Duplicate Anagrams](https://www.fastprep.io/problems/vanguard-remove-duplicate-anagrams)|[![Practice][p]](https://www.fastprep.io/problems/vanguard-remove-duplicate-anagrams)|Sep 16, 2019|
+|**Vanguard**|[Compare High Score Counts](https://www.fastprep.io/problems/vanguard-compare-high-score-counts)|[![Practice][p]](https://www.fastprep.io/problems/vanguard-compare-high-score-counts)|Sep 15, 2019|
 |**Postman**|[Maximum Laptop Rating in a Price Range](https://www.fastprep.io/problems/postman-maximum-laptop-rating)|[![Practice][p]](https://www.fastprep.io/problems/postman-maximum-laptop-rating)|Aug 30, 2019|
 |**Motive**|[Parse a Valid Roman Numeral](https://www.fastprep.io/problems/motive-valid-roman-numeral)|[![Practice][p]](https://www.fastprep.io/problems/motive-valid-roman-numeral)|Aug 17, 2019|
 |**Mygate**|[Issue Non-repeating OTPs in a Time Window](https://www.fastprep.io/problems/mygate-nonrepeating-otp-window)|[![Practice][p]](https://www.fastprep.io/problems/mygate-nonrepeating-otp-window)|Aug 03, 2019|

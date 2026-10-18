@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,686)](formats/coding.md) · [SQL (77)](formats/sql.md) · [System design (599)](formats/system-design.md) · [Low-level design (180)](formats/low-level-design.md) · [AI coding (90)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,690)](formats/coding.md) · [SQL (77)](formats/sql.md) · [System design (599)](formats/system-design.md) · [Low-level design (180)](formats/low-level-design.md) · [AI coding (90)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -1557,6 +1557,8 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Apple**|[Palindrome Match Percentage](https://www.fastprep.io/problems/apple-palindrome-match-percentage)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-palindrome-match-percentage)|🆕 Sep 09, 2026|
 |**Anthropic**|[Crawl Same-Hostname URLs Concurrently](https://www.fastprep.io/problems/anthropic-same-hostname-concurrent-web-crawler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/anthropic-same-hostname-concurrent-web-crawler)|🆕 Sep 09, 2026|
 |**Amazon**|[Meeting Rooms II](https://www.fastprep.io/problems/amazon-meeting-rooms-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-meeting-rooms-ii)|🆕 Sep 09, 2026|
+|**Vanguard**|[Two Sum](https://www.fastprep.io/problems/vanguard-two-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanguard-two-sum)|🆕 Sep 09, 2026|
+|**Vanguard**|[Valid Parentheses](https://www.fastprep.io/problems/vanguard-valid-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanguard-valid-parentheses)|🆕 Sep 09, 2026|
 |**Nvidia**|[Check Endianness Of A Byte Array](https://www.fastprep.io/problems/nvidia-check-endianness)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-check-endianness)|🆕 Sep 08, 2026|
 |**Nvidia**|[Reverse A String](https://www.fastprep.io/problems/nvidia-reverse-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-reverse-string)|🆕 Sep 08, 2026|
 |**Nvidia**|[Implement Malloc](https://www.fastprep.io/problems/nvidia-implement-malloc)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-implement-malloc)|🆕 Sep 08, 2026|
@@ -1690,5 +1692,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Mercor**|[Design a Project-to-Contractor Matching Platform](https://www.fastprep.io/system-design/project-contractor-matching-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/project-contractor-matching-platform)|Aug 31, 2026|
 |**Visa**|[Collect Branches for a Bird Nest](https://www.fastprep.io/problems/visa-collect-branches-for-nest)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-collect-branches-for-nest)|Aug 31, 2026|
 |**Visa**|[Count Reverse-Digit Pairs](https://www.fastprep.io/problems/visa-count-reverse-digit-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-count-reverse-digit-pairs)|Aug 31, 2026|
-|**Salesforce**|[Diameter of an Acyclic Undirected Graph](https://www.fastprep.io/problems/salesforce-tree-diameter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-tree-diameter)|Aug 31, 2026|
 <a id="bottom"></a>
