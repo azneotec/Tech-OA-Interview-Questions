@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**ZipRecruiter**|[Align Wrapped Paragraph Lines](https://www.fastprep.io/problems/ziprecruiter-align-wrapped-paragraph-lines)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-align-wrapped-paragraph-lines)|Sep 17, 2024|
 |**ZipRecruiter**|[Count Subarrays Matching a Comparison Pattern](https://www.fastprep.io/problems/ziprecruiter-count-comparison-pattern-subarrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-comparison-pattern-subarrays)|Sep 17, 2024|
 |**ZipRecruiter**|[Pop Diagonal Bubbles with Gravity](https://www.fastprep.io/problems/ziprecruiter-diagonal-bubbles-gravity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-diagonal-bubbles-gravity)|Sep 17, 2024|
 |**ZipRecruiter**|[Filtered Even- Minus Odd-Index Sums](https://www.fastprep.io/problems/ziprecruiter-filtered-parity-sum-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-filtered-parity-sum-difference)|Sep 17, 2024|
