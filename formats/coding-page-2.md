@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,721 questions**
+**3,722 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**WhatNot**|[Merge Sorted Squares of Two Arrays](https://www.fastprep.io/problems/whatnot-merge-sorted-squares-two-arrays)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-merge-sorted-squares-two-arrays)|Apr 08, 2026|
 |**WhatNot**|[Palindrome with One Deletion](https://www.fastprep.io/problems/whatnot-valid-palindrome-one-deletion)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-valid-palindrome-one-deletion)|Apr 08, 2026|
 |**Notion**|[Mutable Table Aggregations](https://www.fastprep.io/problems/notion-mutable-table-aggregations)|[![Practice][p]](https://www.fastprep.io/problems/notion-mutable-table-aggregations)|Apr 07, 2026|
 |**Amazon**|[Maximize Protected City Population](https://www.fastprep.io/problems/amazon-maximize-protected-city-population)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-protected-city-population)|Apr 06, 2026|

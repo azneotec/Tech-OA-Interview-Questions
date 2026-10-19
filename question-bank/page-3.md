@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Zscaler**|[Count Vowel Permutations](https://www.fastprep.io/problems/zscaler-count-vowel-permutations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-count-vowel-permutations)|Sep 17, 2024|
+|**Zscaler**|[Merging Palindromes](https://www.fastprep.io/problems/zscaler-merging-palindromes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-merging-palindromes)|Sep 17, 2024|
 |**ZipRecruiter**|[Align Wrapped Paragraph Lines](https://www.fastprep.io/problems/ziprecruiter-align-wrapped-paragraph-lines)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-align-wrapped-paragraph-lines)|Sep 17, 2024|
 |**ZipRecruiter**|[Count Subarrays Matching a Comparison Pattern](https://www.fastprep.io/problems/ziprecruiter-count-comparison-pattern-subarrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-comparison-pattern-subarrays)|Sep 17, 2024|
 |**ZipRecruiter**|[Pop Diagonal Bubbles with Gravity](https://www.fastprep.io/problems/ziprecruiter-diagonal-bubbles-gravity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-diagonal-bubbles-gravity)|Sep 17, 2024|

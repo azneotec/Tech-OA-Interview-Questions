@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Mercor**|[Design a Project-to-Contractor Matching Platform](https://www.fastprep.io/system-design/project-contractor-matching-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/project-contractor-matching-platform)|Aug 31, 2026|
 |**Visa**|[Collect Branches for a Bird Nest](https://www.fastprep.io/problems/visa-collect-branches-for-nest)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-collect-branches-for-nest)|Aug 31, 2026|
 |**Visa**|[Count Reverse-Digit Pairs](https://www.fastprep.io/problems/visa-count-reverse-digit-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-count-reverse-digit-pairs)|Aug 31, 2026|
 |**Salesforce**|[Diameter of an Acyclic Undirected Graph](https://www.fastprep.io/problems/salesforce-tree-diameter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-tree-diameter)|Aug 31, 2026|
@@ -1781,6 +1782,4 @@
 |**Odoo**|[Build a Room Booking Single-Page Application](https://www.fastprep.io/project-coding/odoo-room-booking-spa)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/odoo-room-booking-spa)|Sep 17, 2024|
 |**Zscaler**|[Asteroid Collision](https://www.fastprep.io/problems/zscaler-asteroid-collision)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-asteroid-collision)|Sep 17, 2024|
 |**Zscaler**|[Check Whether a Byte Is Nonzero](https://www.fastprep.io/problems/zscaler-check-byte-nonzero)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-check-byte-nonzero)|Sep 17, 2024|
-|**Zscaler**|[Count Vowel Permutations](https://www.fastprep.io/problems/zscaler-count-vowel-permutations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-count-vowel-permutations)|Sep 17, 2024|
-|**Zscaler**|[Merging Palindromes](https://www.fastprep.io/problems/zscaler-merging-palindromes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-merging-palindromes)|Sep 17, 2024|
 <a id="bottom"></a>
