@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,690 questions**
+**3,721 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -229,8 +229,14 @@
 |**AT&T**|[3Sum](https://www.fastprep.io/problems/att-three-sum)|[![Practice][p]](https://www.fastprep.io/problems/att-three-sum)|Oct 07, 2025|
 |**Arista Networks**|[Trace Pointer Rebinding and Pointee Updates](https://www.fastprep.io/problems/arista-trace-pointer-rebinding-and-writes)|[![Practice][p]](https://www.fastprep.io/problems/arista-trace-pointer-rebinding-and-writes)|Oct 02, 2025|
 |**WhatNot**|[Build a Seven-Minute Playlist](https://www.fastprep.io/problems/whatnot-seven-minute-playlist)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-seven-minute-playlist)|Oct 02, 2025|
+|**Marshall Wace**|[Maximum Trailing Zeros on a Path with at Most One Turn](https://www.fastprep.io/problems/marshall-wace-one-turn-trailing-zeros)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-one-turn-trailing-zeros)|Oct 01, 2025|
+|**Marshall Wace**|[Count Letters with Ordered Lowercase and Uppercase Occurrences](https://www.fastprep.io/problems/marshall-wace-ordered-letter-cases)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-ordered-letter-cases)|Oct 01, 2025|
+|**Marshall Wace**|[Shortest Subarray Covering an Integer Range](https://www.fastprep.io/problems/marshall-wace-shortest-range-cover)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-shortest-range-cover)|Oct 01, 2025|
 |**Google**|[Unique Word Abbreviations](https://www.fastprep.io/problems/google-unique-word-abbreviations)|[![Practice][p]](https://www.fastprep.io/problems/google-unique-word-abbreviations)|Sep 27, 2025|
 |**Meta**|[Common Words Across Files](https://www.fastprep.io/problems/meta-common-words-across-files)|[![Practice][p]](https://www.fastprep.io/problems/meta-common-words-across-files)|Sep 22, 2025|
+|**Marshall Wace**|[Minimum Full Glasses for an Exact Water Volume](https://www.fastprep.io/problems/marshall-wace-minimum-full-glasses)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-minimum-full-glasses)|Sep 22, 2025|
+|**Marshall Wace**|[Smallest Absolute Difference Between Two Array Elements](https://www.fastprep.io/problems/marshall-wace-smallest-absolute-difference)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-smallest-absolute-difference)|Sep 22, 2025|
+|**Marshall Wace**|[Maximum Sum with at Most Three Two-Element Tiles](https://www.fastprep.io/problems/marshall-wace-three-two-element-tiles)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-three-two-element-tiles)|Sep 22, 2025|
 |**PeopleStrong**|[Ceiling Value in a Sorted Array](https://www.fastprep.io/problems/peoplestrong-ceiling-in-sorted-array)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-ceiling-in-sorted-array)|Sep 20, 2025|
 |**Microsoft**|[Isomorphic Strings](https://www.fastprep.io/problems/microsoft-isomorphic-strings)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-isomorphic-strings)|Sep 18, 2025|
 |**Microsoft**|[Merge Two Descending Linked Lists](https://www.fastprep.io/problems/microsoft-merge-two-descending-linked-lists)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-merge-two-descending-linked-lists)|Sep 18, 2025|
@@ -256,6 +262,7 @@
 |**Apple**|[Maximum Weight in Two Bags](https://www.fastprep.io/problems/apple-two-bag-knapsack)|[![Practice][p]](https://www.fastprep.io/problems/apple-two-bag-knapsack)|Aug 14, 2025|
 |**Apple**|[Coin Change II](https://www.fastprep.io/problems/apple-coin-change-ii)|[![Practice][p]](https://www.fastprep.io/problems/apple-coin-change-ii)|Aug 14, 2025|
 |**Motive**|[Search a Row-Major Sorted Matrix](https://www.fastprep.io/problems/motive-search-row-major-sorted-matrix)|[![Practice][p]](https://www.fastprep.io/problems/motive-search-row-major-sorted-matrix)|Aug 13, 2025|
+|**Marshall Wace**|[Maximum Events in a 60-Second Window](https://www.fastprep.io/problems/marshall-wace-sixty-second-event-window)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-sixty-second-event-window)|Aug 13, 2025|
 |**Amazon**|[Fair Prize Distribution](https://www.fastprep.io/problems/amazon-fair-prize-distribution)|[![Practice][p]](https://www.fastprep.io/problems/amazon-fair-prize-distribution)|Aug 10, 2025|
 |**Amazon**|[Count Picked Items Less Than Queries](https://www.fastprep.io/problems/amazon-count-picked-items-less-than-queries)|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-picked-items-less-than-queries)|Aug 10, 2025|
 |**EvenUp**|[War Card Game Winner](https://www.fastprep.io/problems/evenup-war-card-game-winner)|[![Practice][p]](https://www.fastprep.io/problems/evenup-war-card-game-winner)|Aug 09, 2025|
@@ -590,6 +597,8 @@
 |**Google**|[Find Maximum Length Of Non-Decreasing Subarray](https://www.fastprep.io/problems/google-find-maximum-length-of-non-decreasing-subarray)|[![Practice][p]](https://www.fastprep.io/problems/google-find-maximum-length-of-non-decreasing-subarray)|Nov 12, 2024|
 |**Google**|[Maximum Good Triplet Distance](https://www.fastprep.io/problems/google-maximum-good-triplet-distance)|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-good-triplet-distance)|Nov 11, 2024|
 |**Google**|[Nth License Plate](https://www.fastprep.io/problems/google-nth-license-plate)|[![Practice][p]](https://www.fastprep.io/problems/google-nth-license-plate)|Nov 11, 2024|
+|**Marshall Wace**|[Maximize Remaining Item Types After Clearing Consecutive Shelves](https://www.fastprep.io/problems/marshall-wace-remove-consecutive-shelves)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-remove-consecutive-shelves)|Nov 10, 2024|
+|**Marshall Wace**|[Shortest String After Erasing Equal Pairs](https://www.fastprep.io/problems/marshall-wace-smallest-pair-erasure-string)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-smallest-pair-erasure-string)|Nov 10, 2024|
 |**Amazon**|[Optimize Identifiers](https://www.fastprep.io/problems/amazon-optimized-identifiers)|[![Practice][p]](https://www.fastprep.io/problems/amazon-optimized-identifiers)|Nov 09, 2024|
 |**Google**|[Transform String](https://www.fastprep.io/problems/google-transform-string)|[![Practice][p]](https://www.fastprep.io/problems/google-transform-string)|Nov 09, 2024|
 |**Google**|[Build Maximum Integer](https://www.fastprep.io/problems/google-build-maximum-integer-from-subarray)|[![Practice][p]](https://www.fastprep.io/problems/google-build-maximum-integer-from-subarray)|Nov 09, 2024|
@@ -1097,6 +1106,9 @@
 |**Canva**|[Counting Binary Substrings](https://www.fastprep.io/problems/canva-counting)|[![Practice][p]](https://www.fastprep.io/problems/canva-counting)|Apr 27, 2024|
 |**SpaceX**|[Starlink Beam Planner](https://www.fastprep.io/problems/spacex-starlink-beam-planner)|[![Practice][p]](https://www.fastprep.io/problems/spacex-starlink-beam-planner)|Apr 25, 2024|
 |**TikTok**|[Maximum Shown Segments](https://www.fastprep.io/problems/tiktok-max-shown-segments)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-max-shown-segments)|Apr 23, 2024|
+|**Marshall Wace**|[Generate Unique Company Email Addresses](https://www.fastprep.io/problems/marshall-wace-company-email-addresses)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-company-email-addresses)|Apr 23, 2024|
+|**Marshall Wace**|[Count Distinct Tags in a Fixed-Radius Circle (Practice Reconstruction)](https://www.fastprep.io/problems/marshall-wace-fixed-radius-distinct-tags)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-fixed-radius-distinct-tags)|Apr 23, 2024|
+|**Marshall Wace**|[Reconstruct a Two-Row Binary Matrix](https://www.fastprep.io/problems/marshall-wace-two-row-binary-matrix)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-two-row-binary-matrix)|Apr 23, 2024|
 |**Snowflake**|[Airport Limousine](https://www.fastprep.io/problems/snowflake-maximum-passengers-collected)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-maximum-passengers-collected)|Apr 22, 2024|
 |**Motive**|[Eight-Direction Word Search](https://www.fastprep.io/problems/motive-eight-direction-word-search)|[![Practice][p]](https://www.fastprep.io/problems/motive-eight-direction-word-search)|Apr 21, 2024|
 |**DE Shaw**|[Calculate Region](https://www.fastprep.io/problems/deshaw-calculate-total-region)|[![Practice][p]](https://www.fastprep.io/problems/deshaw-calculate-total-region)|Apr 20, 2024|
@@ -1368,6 +1380,8 @@
 |**Navan**|[Minimum Steps on a Circular Character Dial](https://www.fastprep.io/problems/navan-circular-dial-minimum-steps)|[![Practice][p]](https://www.fastprep.io/problems/navan-circular-dial-minimum-steps)|Jan 24, 2024|
 |**Navan**|[Minimum Stick Connection Cost](https://www.fastprep.io/problems/navan-minimum-cost-to-connect-sticks)|[![Practice][p]](https://www.fastprep.io/problems/navan-minimum-cost-to-connect-sticks)|Jan 24, 2024|
 |**Navan**|[Shortest Substring with at Least K Distinct Characters](https://www.fastprep.io/problems/navan-shortest-substring-at-least-k-distinct)|[![Practice][p]](https://www.fastprep.io/problems/navan-shortest-substring-at-least-k-distinct)|Jan 24, 2024|
+|**Marshall Wace**|[Crop a Notification at Whole-Word Boundaries](https://www.fastprep.io/problems/marshall-wace-crop-notification)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-crop-notification)|Jan 14, 2024|
+|**Marshall Wace**|[Largest Palindromic Number from Available Digits](https://www.fastprep.io/problems/marshall-wace-largest-palindromic-number)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-largest-palindromic-number)|Jan 14, 2024|
 |**Amazon**|[Rice Bags](https://www.fastprep.io/problems/max-set-size)|[![Practice][p]](https://www.fastprep.io/problems/max-set-size)|Jan 13, 2024|
 |**Snowflake**|[Smallest Set Covering Intervals](https://www.fastprep.io/problems/smallest-set-covering-intervals)|[![Practice][p]](https://www.fastprep.io/problems/smallest-set-covering-intervals)|Jan 13, 2024|
 |**Snowflake**|[Maximum Order Volume](https://www.fastprep.io/problems/phone-calls)|[![Practice][p]](https://www.fastprep.io/problems/phone-calls)|Jan 13, 2024|
@@ -1499,6 +1513,9 @@
 |**Optiver**|[Worst Trade Reporter](https://www.fastprep.io/problems/optiver-worst-trade-reporter)|[![Practice][p]](https://www.fastprep.io/problems/optiver-worst-trade-reporter)|Jul 25, 2023|
 |**Optiver**|[Truck Position Subscriber](https://www.fastprep.io/problems/optiver-truck-positions)|[![Practice][p]](https://www.fastprep.io/problems/optiver-truck-positions)|Jul 25, 2023|
 |**WhatNot**|[Sorted Squares in Descending Order](https://www.fastprep.io/problems/whatnot-descending-sorted-squares)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-descending-sorted-squares)|Jul 25, 2023|
+|**Marshall Wace**|[Smallest Larger Integer with Twice the Digit Sum](https://www.fastprep.io/problems/marshall-wace-double-digit-sum)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-double-digit-sum)|Jul 23, 2023|
+|**Marshall Wace**|[Maximum Frog Separation with One Upward Jump (Practice Reconstruction)](https://www.fastprep.io/problems/marshall-wace-one-jump-frog-separation)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-one-jump-frog-separation)|Jul 23, 2023|
+|**Marshall Wace**|[Minimum Deletions Before Rearranging into a Palindrome](https://www.fastprep.io/problems/marshall-wace-palindrome-rearrangement-deletions)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-palindrome-rearrangement-deletions)|Jul 23, 2023|
 |**Arcesium**|[Robo Data Sharing Direction](https://www.fastprep.io/problems/arcesium-robo-data-sharing-direction)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-robo-data-sharing-direction)|Jul 17, 2023|
 |**Headlands Technologies**|[Decode a Run-Length Stream](https://www.fastprep.io/problems/headlands-stream-decoder)|[![Practice][p]](https://www.fastprep.io/problems/headlands-stream-decoder)|Jun 03, 2023|
 |**Motive**|[Basic Calculator](https://www.fastprep.io/problems/motive-basic-calculator)|[![Practice][p]](https://www.fastprep.io/problems/motive-basic-calculator)|Jun 01, 2023|
@@ -1516,6 +1533,9 @@
 |**Bloomberg LP**|[Bank Operating-Hours Coverage](https://www.fastprep.io/problems/bloomberg-bank-interval-coverage)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-bank-interval-coverage)|Feb 22, 2023|
 |**Bloomberg LP**|[Count Teams Outscoring a Target Team](https://www.fastprep.io/problems/bloomberg-count-teams-outscoring-target)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-count-teams-outscoring-target)|Feb 22, 2023|
 |**Bloomberg LP**|[Number of Islands](https://www.fastprep.io/problems/bloomberg-number-of-islands)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-number-of-islands)|Feb 22, 2023|
+|**Marshall Wace**|[Maximum Separation of Two Frogs on Adjacent Blocks](https://www.fastprep.io/problems/marshall-wace-frog-separation)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-frog-separation)|Feb 19, 2023|
+|**Marshall Wace**|[Count Soldiers with a Next-Rank Superior](https://www.fastprep.io/problems/marshall-wace-soldiers-next-rank)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-soldiers-next-rank)|Feb 19, 2023|
+|**Marshall Wace**|[Maximum Unique-Tagged Points in an Origin-Centred Circle](https://www.fastprep.io/problems/marshall-wace-unique-tags-circle)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-unique-tags-circle)|Feb 19, 2023|
 |**ZipRecruiter**|[Format a Centered Paragraph in a Star Frame](https://www.fastprep.io/problems/ziprecruiter-centered-paragraph-frame)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-centered-paragraph-frame)|Feb 07, 2023|
 |**ZipRecruiter**|[Count Prefix-Related Word Pairs](https://www.fastprep.io/problems/ziprecruiter-count-prefix-related-word-pairs)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-prefix-related-word-pairs)|Feb 07, 2023|
 |**ZipRecruiter**|[Longest Common Normalized Path Suffix](https://www.fastprep.io/problems/ziprecruiter-longest-common-normalized-path-suffix)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-longest-common-normalized-path-suffix)|Jan 26, 2023|
@@ -1590,6 +1610,9 @@
 |**Bloomberg LP**|[Top K Frequent Words](https://www.fastprep.io/problems/bloomberg-top-k-frequent-words)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-top-k-frequent-words)|Sep 08, 2022|
 |**Figma**|[Find the First Matching Ordered Entry](https://www.fastprep.io/problems/figma-ordered-entry-search)|[![Practice][p]](https://www.fastprep.io/problems/figma-ordered-entry-search)|Sep 07, 2022|
 |**IMC**|[Reaching Points with Perfect-Square Obstacles](https://www.fastprep.io/problems/imc-perfect-square-forbidden-reaching-points)|[![Practice][p]](https://www.fastprep.io/problems/imc-perfect-square-forbidden-reaching-points)|Sep 07, 2022|
+|**Marshall Wace**|[Move a Package through Overlapping Crane Reaches](https://www.fastprep.io/problems/marshall-wace-crane-reachability)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-crane-reachability)|Sep 07, 2022|
+|**Marshall Wace**|[Seconds Until Graph Vertices Stop Disappearing](https://www.fastprep.io/problems/marshall-wace-graph-pruning-seconds)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-graph-pruning-seconds)|Sep 07, 2022|
+|**Marshall Wace**|[Minimum Initial Balances for Ordered Bank Transfers](https://www.fastprep.io/problems/marshall-wace-minimum-initial-bank-balances)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-minimum-initial-bank-balances)|Sep 07, 2022|
 |**Alpaca**|[Aggregate a Large Dataset With GROUP BY](https://www.fastprep.io/problems/alpaca-large-dataset-group-by)|[![Practice][p]](https://www.fastprep.io/problems/alpaca-large-dataset-group-by)|Sep 04, 2022|
 |**Skydio**|[Overlap-Safe Memory Copy](https://www.fastprep.io/problems/skydio-overlap-safe-memory-copy)|[![Practice][p]](https://www.fastprep.io/problems/skydio-overlap-safe-memory-copy)|Aug 29, 2022|
 |**Cashfree Payments**|[Largest Subsequences](https://www.fastprep.io/problems/cashfree-largest-subsequences)|[![Practice][p]](https://www.fastprep.io/problems/cashfree-largest-subsequences)|Aug 24, 2022|
@@ -1730,6 +1753,10 @@
 |**Bloomberg LP**|[Remove Adjacent Duplicates in String II](https://www.fastprep.io/problems/bloomberg-remove-adjacent-duplicates-in-string-ii)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-remove-adjacent-duplicates-in-string-ii)|Feb 23, 2021|
 |**ZipRecruiter**|[Missing Ranges within Inclusive Bounds](https://www.fastprep.io/problems/ziprecruiter-inclusive-missing-ranges)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-inclusive-missing-ranges)|Feb 20, 2021|
 |**Bloomberg LP**|[Count Target Occurrences in a Sorted Array](https://www.fastprep.io/problems/bloomberg-count-target-in-sorted-array)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-count-target-in-sorted-array)|Feb 19, 2021|
+|**Marshall Wace**|[Count Sunk and Damaged Battleships (Practice Reconstruction)](https://www.fastprep.io/problems/marshall-wace-battleship-reconstruction)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-battleship-reconstruction)|Feb 09, 2021|
+|**Marshall Wace**|[Operations to Reduce a Binary String Value to Zero](https://www.fastprep.io/problems/marshall-wace-binary-reduction-steps)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-binary-reduction-steps)|Feb 09, 2021|
+|**Marshall Wace**|[Construct Distinct Integers Summing to Zero](https://www.fastprep.io/problems/marshall-wace-distinct-zero-sum-array)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-distinct-zero-sum-array)|Feb 09, 2021|
+|**Marshall Wace**|[Minimum Deletions to Make Every Letter Count Even](https://www.fastprep.io/problems/marshall-wace-even-letter-deletions)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-even-letter-deletions)|Feb 09, 2021|
 |**Bloomberg LP**|[Fibonacci Number](https://www.fastprep.io/problems/bloomberg-fibonacci-number)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-fibonacci-number)|Feb 03, 2021|
 |**Bloomberg LP**|[Coin Change](https://www.fastprep.io/problems/bloomberg-coin-change)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-coin-change)|Feb 02, 2021|
 |**Bloomberg LP**|[Path Existence in an Undirected Graph](https://www.fastprep.io/problems/bloomberg-graph-path-existence)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-graph-path-existence)|Feb 02, 2021|
@@ -1844,7 +1871,10 @@
 |**Bloomberg LP**|[Transitive Greater-Than Relation Queries](https://www.fastprep.io/problems/bloomberg-transitive-greater-than-queries)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-transitive-greater-than-queries)|Oct 24, 2019|
 |**SambaNova Systems**|[K Closest Points to the Origin](https://www.fastprep.io/problems/sambanova-k-closest-points)|[![Practice][p]](https://www.fastprep.io/problems/sambanova-k-closest-points)|Oct 19, 2019|
 |**Bloomberg LP**|[Missing Element in Sorted Array](https://www.fastprep.io/problems/bloomberg-missing-element-in-sorted-array)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-missing-element-in-sorted-array)|Oct 17, 2019|
+|**Marshall Wace**|[Minimum Winning Rounds with Limited All-In Bets](https://www.fastprep.io/problems/marshall-wace-limited-all-in-rounds)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-limited-all-in-rounds)|Oct 17, 2019|
+|**Marshall Wace**|[Maximum Apples from Two Disjoint Fixed-Length Segments](https://www.fastprep.io/problems/marshall-wace-two-apple-segments)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-two-apple-segments)|Oct 17, 2019|
 |**Airbnb**|[Resolve Battles](https://www.fastprep.io/problems/airbnb-resolve-battles)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-resolve-battles)|Oct 16, 2019|
+|**Marshall Wace**|[Count Squares of Any Orientation](https://www.fastprep.io/problems/marshall-wace-count-squares-any-orientation)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-count-squares-any-orientation)|Oct 15, 2019|
 |**Postman**|[Without Whitespaces](https://www.fastprep.io/problems/postman-without-whitespaces)|[![Practice][p]](https://www.fastprep.io/problems/postman-without-whitespaces)|Sep 26, 2019|
 |**Vanguard**|[Remove Duplicate Anagrams](https://www.fastprep.io/problems/vanguard-remove-duplicate-anagrams)|[![Practice][p]](https://www.fastprep.io/problems/vanguard-remove-duplicate-anagrams)|Sep 16, 2019|
 |**Vanguard**|[Compare High Score Counts](https://www.fastprep.io/problems/vanguard-compare-high-score-counts)|[![Practice][p]](https://www.fastprep.io/problems/vanguard-compare-high-score-counts)|Sep 15, 2019|
@@ -1855,6 +1885,7 @@
 |**Bloomberg LP**|[Collapse Extra Spaces In Place](https://www.fastprep.io/problems/bloomberg-collapse-extra-spaces)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-collapse-extra-spaces)|Jul 12, 2019|
 |**Bloomberg LP**|[Generate Rand7 from Rand5](https://www.fastprep.io/problems/bloomberg-rand7-from-rand5)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-rand7-from-rand5)|Jul 12, 2019|
 |**Bloomberg LP**|[Random Removal from a Set](https://www.fastprep.io/problems/bloomberg-random-removal-from-set)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-random-removal-from-set)|Jul 12, 2019|
+|**Marshall Wace**|[Length of the Longest Common Subsequence](https://www.fastprep.io/problems/marshall-wace-longest-common-subsequence)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-longest-common-subsequence)|Jun 23, 2019|
 |**Headlands Technologies**|[Numeric Wildcard Dictionary Matching](https://www.fastprep.io/problems/headlands-numeric-wildcard-dictionary-matching)|[![Practice][p]](https://www.fastprep.io/problems/headlands-numeric-wildcard-dictionary-matching)|Jun 09, 2019|
 |**Apple**|[Elements After the First Target](https://www.fastprep.io/problems/apple-elements-after-target)|[![Practice][p]](https://www.fastprep.io/problems/apple-elements-after-target)|May 30, 2019|
 |**Airbnb**|[Paginate Search Results by Unique Host](https://www.fastprep.io/problems/airbnb-paginate-search-results)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-paginate-search-results)|May 12, 2019|
