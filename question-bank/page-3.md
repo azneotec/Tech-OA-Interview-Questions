@@ -9,6 +9,15 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**ZipRecruiter**|[Earliest Common Meeting Time](https://www.fastprep.io/problems/ziprecruiter-earliest-common-meeting-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-earliest-common-meeting-time)|Sep 18, 2024|
+|**Odoo**|[Employees Joined per Month](https://www.fastprep.io/problems/odoo-employees-joined-per-month)|SQL|[![Practice][p]](https://www.fastprep.io/problems/odoo-employees-joined-per-month)|Sep 17, 2024|
+|**Odoo**|[Evaluate a Python Integer Expression](https://www.fastprep.io/problems/odoo-evaluate-python-integer-expression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/odoo-evaluate-python-integer-expression)|Sep 17, 2024|
+|**MathWorks**|[Has Vowels](https://www.fastprep.io/problems/mathwork-has-vowels)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathwork-has-vowels)|Sep 17, 2024|
+|**MathWorks**|[Get Min Operations](https://www.fastprep.io/problems/mathworks-get-minimum-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathworks-get-minimum-operations)|Sep 17, 2024|
+|**Odoo**|[Compare Character Arrays with Backspaces](https://www.fastprep.io/problems/odoo-compare-character-arrays-with-backspaces)|Coding|[![Practice][p]](https://www.fastprep.io/problems/odoo-compare-character-arrays-with-backspaces)|Sep 17, 2024|
+|**Odoo**|[Build a Room Booking Single-Page Application](https://www.fastprep.io/project-coding/odoo-room-booking-spa)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/odoo-room-booking-spa)|Sep 17, 2024|
+|**Zscaler**|[Asteroid Collision](https://www.fastprep.io/problems/zscaler-asteroid-collision)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-asteroid-collision)|Sep 17, 2024|
+|**Zscaler**|[Check Whether a Byte Is Nonzero](https://www.fastprep.io/problems/zscaler-check-byte-nonzero)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-check-byte-nonzero)|Sep 17, 2024|
 |**Zscaler**|[Count Vowel Permutations](https://www.fastprep.io/problems/zscaler-count-vowel-permutations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-count-vowel-permutations)|Sep 17, 2024|
 |**Zscaler**|[Merging Palindromes](https://www.fastprep.io/problems/zscaler-merging-palindromes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-merging-palindromes)|Sep 17, 2024|
 |**ZipRecruiter**|[Align Wrapped Paragraph Lines](https://www.fastprep.io/problems/ziprecruiter-align-wrapped-paragraph-lines)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-align-wrapped-paragraph-lines)|Sep 17, 2024|

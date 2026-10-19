@@ -9,6 +9,16 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Microsoft**|[Most Visited String Sectors](https://www.fastprep.io/problems/microsoft-most-visited-string-sectors)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-most-visited-string-sectors)|Sep 01, 2026|
+|**IMC Trading**|[Design Heterogeneous Compute Workload Allocation](https://www.fastprep.io/system-design/heterogeneous-compute-workload-allocation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/heterogeneous-compute-workload-allocation)|Sep 01, 2026|
+|**Google**|[Design a Bookshelf with Reading Progress](https://www.fastprep.io/low-level-design/bookshelf-reading-progress)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/bookshelf-reading-progress)|Sep 01, 2026|
+|**Akuna Capital**|[Minimum Swaps](https://www.fastprep.io/problems/akuna-minimum-swaps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-minimum-swaps)|Sep 01, 2026|
+|**Akuna Capital**|[Minimum Absolute Difference Pairs](https://www.fastprep.io/problems/akuna-minimum-absolute-difference-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-minimum-absolute-difference-pairs)|Sep 01, 2026|
+|**LinkedIn**|[Largest Number](https://www.fastprep.io/problems/linkedin-largest-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-largest-number)|Sep 01, 2026|
+|**Snap Inc.**|[Most Stones Removed with Same Row or Column](https://www.fastprep.io/problems/snap-inc-most-stones-removed)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snap-inc-most-stones-removed)|Sep 01, 2026|
+|**Amazon**|[Repair Dashboard Issue Creation](https://www.fastprep.io/project-coding/amazon-dashboard-issue-creation)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-dashboard-issue-creation)|Sep 01, 2026|
+|**Snowflake**|[Design an Interactive SQL Notebook](https://www.fastprep.io/system-design/interactive-sql-notebook)|System design|[![Practice][p]](https://www.fastprep.io/system-design/interactive-sql-notebook)|Aug 31, 2026|
+|**Nubank**|[Design an Online Coding Competition Platform](https://www.fastprep.io/system-design/online-coding-competition-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/online-coding-competition-platform)|Aug 31, 2026|
 |**Mercor**|[Design a Project-to-Contractor Matching Platform](https://www.fastprep.io/system-design/project-contractor-matching-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/project-contractor-matching-platform)|Aug 31, 2026|
 |**Visa**|[Collect Branches for a Bird Nest](https://www.fastprep.io/problems/visa-collect-branches-for-nest)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-collect-branches-for-nest)|Aug 31, 2026|
 |**Visa**|[Count Reverse-Digit Pairs](https://www.fastprep.io/problems/visa-count-reverse-digit-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-count-reverse-digit-pairs)|Aug 31, 2026|
@@ -368,7 +378,6 @@
 |**Bloomberg LP**|[Refactor a Cache for Pluggable Eviction Policies](https://www.fastprep.io/low-level-design/extensible-cache-eviction-policies)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-cache-eviction-policies)|Jul 28, 2026|
 |**Wells Fargo**|[Longest Subsequence That Is a Substring](https://www.fastprep.io/problems/wellsfargo-longest-subsequence-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-longest-subsequence-substring)|Jul 28, 2026|
 |**Wells Fargo**|[Overloaded Game Account Inventories](https://www.fastprep.io/problems/wellsfargo-overloaded-game-account-inventories)|SQL|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-overloaded-game-account-inventories)|Jul 28, 2026|
-|**Stripe**|[Complete a Bikemap Route and JSON Integration](https://www.fastprep.io/project-coding/stripe-bikemap-json-integration)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-bikemap-json-integration)|Jul 28, 2026|
 |**Spotnana**|[Optimal Card Game Score](https://www.fastprep.io/problems/spotnana-optimal-card-game-score)|Coding|[![Practice][p]](https://www.fastprep.io/problems/spotnana-optimal-card-game-score)|Jul 27, 2026|
 |**Zomato / Eternal**|[Maximum Production Within Power](https://www.fastprep.io/problems/zomato-eternal-maximum-production-within-power)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zomato-eternal-maximum-production-within-power)|Jul 27, 2026|
 |**Zomato / Eternal**|[Rearrange Songs by Author](https://www.fastprep.io/problems/zomato-eternal-rearrange-songs-by-author)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zomato-eternal-rearrange-songs-by-author)|Jul 27, 2026|
@@ -1004,6 +1013,7 @@
 |**JP Morgan**|[Generate Table of Contents](https://www.fastprep.io/problems/jpmorgan-generate-table-of-contents)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-generate-table-of-contents)|Jan 19, 2026|
 |**Stripe**|[Validate Timestamped Message Records](https://www.fastprep.io/problems/stripe-timestamped-record-validation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-timestamped-record-validation)|Jan 17, 2026|
 |**FlexTrade**|[Course Schedule](https://www.fastprep.io/problems/flextrade-course-schedule)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flextrade-course-schedule)|Jan 17, 2026|
+|**Stripe**|[Complete a Balance-Summary Reconciliation Integration](https://www.fastprep.io/project-coding/stripe-balance-reconciliation-integration)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-balance-reconciliation-integration)|Jan 17, 2026|
 |**Stripe**|[Filter Contacts by Email Domain](https://www.fastprep.io/problems/stripe-contact-domain-filter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-contact-domain-filter)|Jan 16, 2026|
 |**Bloomberg LP**|[Design a Wordle Game Round](https://www.fastprep.io/low-level-design/wordle-game-round)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/wordle-game-round)|Jan 16, 2026|
 |**Stripe**|[Repair Dynamic-ID Request Replay](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|Jan 15, 2026|
@@ -1606,7 +1616,6 @@
 |**Google**|[Conveyor Triplet Packaging](https://www.fastprep.io/problems/google-conveyor-triplet-packaging)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-conveyor-triplet-packaging)|Oct 27, 2024|
 |**Persona**|[Escape the Haunted Castle](https://www.fastprep.io/problems/persona-escape-haunted-castle)|Coding|[![Practice][p]](https://www.fastprep.io/problems/persona-escape-haunted-castle)|Oct 27, 2024|
 |**Persona**|[Escape the Haunted Castle with Treasures](https://www.fastprep.io/problems/persona-escape-haunted-castle-treasures)|Coding|[![Practice][p]](https://www.fastprep.io/problems/persona-escape-haunted-castle-treasures)|Oct 27, 2024|
-|**Stripe**|[Complete a Balance-Summary Reconciliation Integration](https://www.fastprep.io/project-coding/stripe-balance-reconciliation-integration)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-balance-reconciliation-integration)|Oct 24, 2024|
 |**Google**|[Minimum-Cost Meeting City](https://www.fastprep.io/problems/google-minimum-cost-meeting-city)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-cost-meeting-city)|Oct 23, 2024|
 |**Amazon**|[Get Smaller Items](https://www.fastprep.io/problems/amazon-get-smaller-items)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-smaller-items)|Oct 22, 2024|
 |**Amazon**|[About Mortgage](https://www.fastprep.io/problems/amazon-maximum-number-of-days-to-survive)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-number-of-days-to-survive)|Oct 22, 2024|
@@ -1773,13 +1782,4 @@
 |**ZoloStays**|[Trapping Rain Water](https://www.fastprep.io/problems/zolostays-trapping-rain-water)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zolostays-trapping-rain-water)|Sep 19, 2024|
 |**ZipRecruiter**|[Lamps and Control Points](https://www.fastprep.io/problems/ziprecruiter-lamp-and-control-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-lamp-and-control-points)|Sep 18, 2024|
 |**ZipRecruiter**|[Apply Bounded Health Deltas](https://www.fastprep.io/problems/ziprecruiter-bounded-health-deltas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-bounded-health-deltas)|Sep 18, 2024|
-|**ZipRecruiter**|[Earliest Common Meeting Time](https://www.fastprep.io/problems/ziprecruiter-earliest-common-meeting-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-earliest-common-meeting-time)|Sep 18, 2024|
-|**Odoo**|[Employees Joined per Month](https://www.fastprep.io/problems/odoo-employees-joined-per-month)|SQL|[![Practice][p]](https://www.fastprep.io/problems/odoo-employees-joined-per-month)|Sep 17, 2024|
-|**Odoo**|[Evaluate a Python Integer Expression](https://www.fastprep.io/problems/odoo-evaluate-python-integer-expression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/odoo-evaluate-python-integer-expression)|Sep 17, 2024|
-|**MathWorks**|[Has Vowels](https://www.fastprep.io/problems/mathwork-has-vowels)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathwork-has-vowels)|Sep 17, 2024|
-|**MathWorks**|[Get Min Operations](https://www.fastprep.io/problems/mathworks-get-minimum-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathworks-get-minimum-operations)|Sep 17, 2024|
-|**Odoo**|[Compare Character Arrays with Backspaces](https://www.fastprep.io/problems/odoo-compare-character-arrays-with-backspaces)|Coding|[![Practice][p]](https://www.fastprep.io/problems/odoo-compare-character-arrays-with-backspaces)|Sep 17, 2024|
-|**Odoo**|[Build a Room Booking Single-Page Application](https://www.fastprep.io/project-coding/odoo-room-booking-spa)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/odoo-room-booking-spa)|Sep 17, 2024|
-|**Zscaler**|[Asteroid Collision](https://www.fastprep.io/problems/zscaler-asteroid-collision)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-asteroid-collision)|Sep 17, 2024|
-|**Zscaler**|[Check Whether a Byte Is Nonzero](https://www.fastprep.io/problems/zscaler-check-byte-nonzero)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-check-byte-nonzero)|Sep 17, 2024|
 <a id="bottom"></a>

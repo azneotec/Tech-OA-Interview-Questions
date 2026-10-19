@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,722)](formats/coding.md) · [SQL (78)](formats/sql.md) · [System design (600)](formats/system-design.md) · [Low-level design (180)](formats/low-level-design.md) · [AI coding (90)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,722)](formats/coding.md) · [SQL (78)](formats/sql.md) · [System design (608)](formats/system-design.md) · [Low-level design (180)](formats/low-level-design.md) · [AI coding (90)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -33,6 +33,14 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <!-- question-pages:end -->
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Snowflake**|[Declarative Cluster Control Plane](https://www.fastprep.io/system-design/declarative-cluster-control-plane)|System design|[![Practice][p]](https://www.fastprep.io/system-design/declarative-cluster-control-plane)|🔥 Oct 19, 2026|
+|**Snowflake**|[Design a Resilient Third-Party Token Client](https://www.fastprep.io/system-design/resilient-third-party-token-client)|System design|[![Practice][p]](https://www.fastprep.io/system-design/resilient-third-party-token-client)|🔥 Oct 19, 2026|
+|**Snowflake**|[Design a Shared User Quota Authority](https://www.fastprep.io/system-design/shared-user-quota-authority)|System design|[![Practice][p]](https://www.fastprep.io/system-design/shared-user-quota-authority)|🔥 Oct 19, 2026|
+|**Snowflake**|[Design an Application Logging Client Library](https://www.fastprep.io/system-design/application-logging-client-library)|System design|[![Practice][p]](https://www.fastprep.io/system-design/application-logging-client-library)|🔥 Oct 19, 2026|
+|**Snowflake**|[Design an Auditable Event Trail Service](https://www.fastprep.io/system-design/auditable-event-trail-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/auditable-event-trail-service)|🔥 Oct 19, 2026|
+|**Snowflake**|[Fault-Tolerant Batch Dataflow Engine](https://www.fastprep.io/system-design/fault-tolerant-batch-dataflow-engine)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fault-tolerant-batch-dataflow-engine)|🔥 Oct 19, 2026|
+|**Snowflake**|[Resilient REST Call Abstraction](https://www.fastprep.io/system-design/resilient-rest-call-abstraction)|System design|[![Practice][p]](https://www.fastprep.io/system-design/resilient-rest-call-abstraction)|🔥 Oct 19, 2026|
+|**Snowflake**|[Versioned Query-DAG Result Cache](https://www.fastprep.io/system-design/versioned-query-dag-result-cache)|System design|[![Practice][p]](https://www.fastprep.io/system-design/versioned-query-dag-result-cache)|🔥 Oct 19, 2026|
 |**Amazon**|[Binary Tree Spiral Level Order](https://www.fastprep.io/problems/amazon-binary-tree-spiral-level-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-binary-tree-spiral-level-order)|🔥 Oct 18, 2026|
 |**Amazon**|[Number of Islands](https://www.fastprep.io/problems/amazon-number-of-islands)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-number-of-islands)|🔥 Oct 18, 2026|
 |**Unattributed**|[Design a Medicine Delivery Platform](https://www.fastprep.io/system-design/medicine-delivery-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/medicine-delivery-platform)|🔥 Oct 18, 2026|
@@ -1633,6 +1641,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Roblox**|[Design Shared To-Do List Synchronization](https://www.fastprep.io/system-design/shared-task-list-synchronization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/shared-task-list-synchronization)|🆕 Sep 05, 2026|
 |**Tekion**|[Design an Inventory Stock Control Domain](https://www.fastprep.io/low-level-design/inventory-stock-control-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/inventory-stock-control-domain)|🆕 Sep 05, 2026|
 |**Rippling**|[Maximum Currency Conversion Along a Simple Path](https://www.fastprep.io/problems/rippling-maximum-simple-path-currency-conversion)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-maximum-simple-path-currency-conversion)|🆕 Sep 05, 2026|
+|**Stripe**|[Complete a Bikemap Route and JSON Integration](https://www.fastprep.io/project-coding/stripe-bikemap-json-integration)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-bikemap-json-integration)|🆕 Sep 05, 2026|
 |**FlexTrade**|[Best Time to Buy and Sell Stock](https://www.fastprep.io/problems/flextrade-best-time-to-buy-and-sell-stock)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flextrade-best-time-to-buy-and-sell-stock)|🆕 Sep 04, 2026|
 |**ByteDance**|[Restore Addresses with K Segments](https://www.fastprep.io/problems/bytedance-restore-addresses-with-k-segments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-restore-addresses-with-k-segments)|🆕 Sep 04, 2026|
 |**LinkedIn**|[Flowerbed Capacity Queries](https://www.fastprep.io/problems/linkedin-flowerbed-capacity-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-flowerbed-capacity-queries)|🆕 Sep 04, 2026|
@@ -1681,14 +1690,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Mercor**|[Shortest Path in a Grid with Obstacles Elimination](https://www.fastprep.io/problems/mercor-shortest-path-in-grid-with-obstacles-elimination)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mercor-shortest-path-in-grid-with-obstacles-elimination)|Sep 01, 2026|
 |**Microsoft**|[Arithmetic Expression Evaluator](https://www.fastprep.io/problems/microsoft-arithmetic-expression-evaluator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-arithmetic-expression-evaluator)|Sep 01, 2026|
 |**Microsoft**|[Employee Hierarchy Cycle and Depth Analysis](https://www.fastprep.io/problems/microsoft-employee-hierarchy-cycle-and-depth)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-employee-hierarchy-cycle-and-depth)|Sep 01, 2026|
-|**Microsoft**|[Most Visited String Sectors](https://www.fastprep.io/problems/microsoft-most-visited-string-sectors)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-most-visited-string-sectors)|Sep 01, 2026|
-|**IMC Trading**|[Design Heterogeneous Compute Workload Allocation](https://www.fastprep.io/system-design/heterogeneous-compute-workload-allocation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/heterogeneous-compute-workload-allocation)|Sep 01, 2026|
-|**Google**|[Design a Bookshelf with Reading Progress](https://www.fastprep.io/low-level-design/bookshelf-reading-progress)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/bookshelf-reading-progress)|Sep 01, 2026|
-|**Akuna Capital**|[Minimum Swaps](https://www.fastprep.io/problems/akuna-minimum-swaps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-minimum-swaps)|Sep 01, 2026|
-|**Akuna Capital**|[Minimum Absolute Difference Pairs](https://www.fastprep.io/problems/akuna-minimum-absolute-difference-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-minimum-absolute-difference-pairs)|Sep 01, 2026|
-|**LinkedIn**|[Largest Number](https://www.fastprep.io/problems/linkedin-largest-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-largest-number)|Sep 01, 2026|
-|**Snap Inc.**|[Most Stones Removed with Same Row or Column](https://www.fastprep.io/problems/snap-inc-most-stones-removed)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snap-inc-most-stones-removed)|Sep 01, 2026|
-|**Amazon**|[Repair Dashboard Issue Creation](https://www.fastprep.io/project-coding/amazon-dashboard-issue-creation)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-dashboard-issue-creation)|Sep 01, 2026|
-|**Snowflake**|[Design an Interactive SQL Notebook](https://www.fastprep.io/system-design/interactive-sql-notebook)|System design|[![Practice][p]](https://www.fastprep.io/system-design/interactive-sql-notebook)|Aug 31, 2026|
-|**Nubank**|[Design an Online Coding Competition Platform](https://www.fastprep.io/system-design/online-coding-competition-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/online-coding-competition-platform)|Aug 31, 2026|
 <a id="bottom"></a>
