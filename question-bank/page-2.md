@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Microsoft**|[Employee Hierarchy Cycle and Depth Analysis](https://www.fastprep.io/problems/microsoft-employee-hierarchy-cycle-and-depth)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-employee-hierarchy-cycle-and-depth)|Sep 01, 2026|
+|**Microsoft**|[Most Visited String Sectors](https://www.fastprep.io/problems/microsoft-most-visited-string-sectors)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-most-visited-string-sectors)|Sep 01, 2026|
 |**IMC Trading**|[Design Heterogeneous Compute Workload Allocation](https://www.fastprep.io/system-design/heterogeneous-compute-workload-allocation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/heterogeneous-compute-workload-allocation)|Sep 01, 2026|
 |**Google**|[Design a Bookshelf with Reading Progress](https://www.fastprep.io/low-level-design/bookshelf-reading-progress)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/bookshelf-reading-progress)|Sep 01, 2026|
 |**Akuna Capital**|[Minimum Swaps](https://www.fastprep.io/problems/akuna-minimum-swaps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-minimum-swaps)|Sep 01, 2026|
@@ -941,7 +943,7 @@
 |**Notion**|[Text Document History](https://www.fastprep.io/problems/notion-text-document-history)|Coding|[![Practice][p]](https://www.fastprep.io/problems/notion-text-document-history)|Mar 08, 2026|
 |**Bloomberg LP**|[Two City Scheduling with an Odd Candidate Count](https://www.fastprep.io/problems/bloomberg-two-city-scheduling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-two-city-scheduling)|Mar 05, 2026|
 |**Ramp**|[In-Memory Database with TTL and Historical Lookup](https://www.fastprep.io/problems/ramp-in-memory-database-historical-lookup)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-in-memory-database-historical-lookup)|Mar 04, 2026|
-|**Stripe**|[Repair Template Lookup and Argument Traversal](https://www.fastprep.io/project-coding/stripe-template-lookup-debugging)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-template-lookup-debugging)|Mar 04, 2026|
+|**Stripe**|[Repair Template Lookup, Arguments and Includes](https://www.fastprep.io/project-coding/stripe-template-lookup-debugging)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-template-lookup-debugging)|Mar 04, 2026|
 |**Persona**|[Design and Implement a Progressive Banking System](https://www.fastprep.io/low-level-design/progressive-banking-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/progressive-banking-system)|Mar 03, 2026|
 |**Salesforce**|[Count Palindromic Concatenation Pairs](https://www.fastprep.io/problems/salesforce-count-palindromic-concatenation-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-palindromic-concatenation-pairs)|Mar 02, 2026|
 |**WhatNot**|[Validate Rows and Columns](https://www.fastprep.io/problems/whatnot-validate-row-column-grid)|Coding|[![Practice][p]](https://www.fastprep.io/problems/whatnot-validate-row-column-grid)|Mar 01, 2026|
@@ -1780,6 +1782,4 @@
 |**ZoloStays**|[Range Sum](https://www.fastprep.io/problems/zolostays-range-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zolostays-range-sum)|Sep 19, 2024|
 |**ZoloStays**|[Trapping Rain Water](https://www.fastprep.io/problems/zolostays-trapping-rain-water)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zolostays-trapping-rain-water)|Sep 19, 2024|
 |**ZipRecruiter**|[Lamps and Control Points](https://www.fastprep.io/problems/ziprecruiter-lamp-and-control-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-lamp-and-control-points)|Sep 18, 2024|
-|**ZipRecruiter**|[Apply Bounded Health Deltas](https://www.fastprep.io/problems/ziprecruiter-bounded-health-deltas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-bounded-health-deltas)|Sep 18, 2024|
-|**ZipRecruiter**|[Earliest Common Meeting Time](https://www.fastprep.io/problems/ziprecruiter-earliest-common-meeting-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-earliest-common-meeting-time)|Sep 18, 2024|
 <a id="bottom"></a>

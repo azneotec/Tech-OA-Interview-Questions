@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,722)](formats/coding.md) · [SQL (78)](formats/sql.md) · [System design (608)](formats/system-design.md) · [Low-level design (180)](formats/low-level-design.md) · [AI coding (90)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,722)](formats/coding.md) · [SQL (78)](formats/sql.md) · [System design (608)](formats/system-design.md) · [Low-level design (180)](formats/low-level-design.md) · [AI coding (92)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -33,6 +33,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <!-- question-pages:end -->
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Stripe**|[Colander Debugging Mock: Repair Error Aggregation](https://www.fastprep.io/project-coding/mock-stripe-colander-aggregation)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/mock-stripe-colander-aggregation)|🔥 Oct 20, 2026|
 |**Snowflake**|[Declarative Cluster Control Plane](https://www.fastprep.io/system-design/declarative-cluster-control-plane)|System design|[![Practice][p]](https://www.fastprep.io/system-design/declarative-cluster-control-plane)|🔥 Oct 19, 2026|
 |**Snowflake**|[Design a Resilient Third-Party Token Client](https://www.fastprep.io/system-design/resilient-third-party-token-client)|System design|[![Practice][p]](https://www.fastprep.io/system-design/resilient-third-party-token-client)|🔥 Oct 19, 2026|
 |**Snowflake**|[Design a Shared User Quota Authority](https://www.fastprep.io/system-design/shared-user-quota-authority)|System design|[![Practice][p]](https://www.fastprep.io/system-design/shared-user-quota-authority)|🔥 Oct 19, 2026|
@@ -98,6 +99,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Amazon**|[Top K Frequent Elements](https://www.fastprep.io/problems/amazon-top-k-frequent-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-top-k-frequent-elements)|🔥 Oct 16, 2026|
 |**Amazon**|[Lowest Common Ancestor in an N-ary Tree](https://www.fastprep.io/problems/amazon-nary-tree-lowest-common-ancestor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-nary-tree-lowest-common-ancestor)|🔥 Oct 16, 2026|
 |**Nykaa / Headway**|[Design a Cart-to-Order Inventory Platform](https://www.fastprep.io/system-design/cart-to-order-inventory-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cart-to-order-inventory-platform)|🔥 Oct 16, 2026|
+|**Flipkart**|[Implement a Distributed Task Scheduler](https://www.fastprep.io/project-coding/flipkart-distributed-task-scheduler)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/flipkart-distributed-task-scheduler)|🔥 Oct 16, 2026|
 |**McKinsey & Company**|[Weekend Appointments for Consular Services Rescheduling](https://www.fastprep.io/problems/mckinsey-weekend-appointments)|SQL|[![Practice][p]](https://www.fastprep.io/problems/mckinsey-weekend-appointments)|🔥 Oct 15, 2026|
 |**TikTok**|[Find Local Maxima in Sensor Data](https://www.fastprep.io/problems/tiktok-find-local-maxima)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-local-maxima)|🔥 Oct 15, 2026|
 |**TikTok**|[Bagging Classifier with Supplied Decision Trees](https://www.fastprep.io/problems/tiktok-bagging-classifier)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-bagging-classifier)|🔥 Oct 15, 2026|
@@ -217,6 +219,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Anthropic**|[Banking System, Part 1: Accounts and Transfers](https://www.fastprep.io/problems/anthropic-banking-system-part-1)|Coding|[![Practice][p]](https://www.fastprep.io/problems/anthropic-banking-system-part-1)|🔥 Oct 13, 2026|
 |**Anthropic**|[Recover a Function-Call LRU Cache with a Write-Ahead Log](https://www.fastprep.io/problems/anthropic-function-call-lru-cache-with-wal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/anthropic-function-call-lru-cache-with-wal)|🔥 Oct 13, 2026|
 |**Lyft**|[Deterministic K-Means Assignments](https://www.fastprep.io/problems/lyft-deterministic-k-means-assignments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/lyft-deterministic-k-means-assignments)|🔥 Oct 13, 2026|
+|**Confluent**|[Sudoku Board Validation](https://www.fastprep.io/problems/confluent-sudoku-board-validation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/confluent-sudoku-board-validation)|🔥 Oct 13, 2026|
 |**Amazon / Goldman Sachs / Wayfair / Walmart / Navan / Uber**|[Design a Multi-Floor Parking Lot](https://www.fastprep.io/low-level-design/multi-floor-parking-lot)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/multi-floor-parking-lot)|🔥 Oct 12, 2026|
 |**Anthropic**|[Design Opaque-GPU Inference Capacity](https://www.fastprep.io/system-design/opaque-gpu-inference-capacity-review)|System design|[![Practice][p]](https://www.fastprep.io/system-design/opaque-gpu-inference-capacity-review)|🔥 Oct 12, 2026|
 |**Atlassian**|[Design a Responsive Product Catalog Search Frontend](https://www.fastprep.io/system-design/responsive-product-catalog-search-frontend)|System design|[![Practice][p]](https://www.fastprep.io/system-design/responsive-product-catalog-search-frontend)|🔥 Oct 12, 2026|
@@ -725,7 +728,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Amazon**|[Longest Content Window with Bounded Labels](https://www.fastprep.io/problems/amazon-streaming-content-label-window)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-streaming-content-label-window)|🆕 Sep 28, 2026|
 |**ByteDance**|[Spiral Matrix Traversal](https://www.fastprep.io/problems/bytedance-spiral-matrix-traversal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-spiral-matrix-traversal)|🆕 Sep 28, 2026|
 |**Coinbase**|[Select a Fee-Maximizing Dependency-Closed Block](https://www.fastprep.io/problems/coinbase-dependency-aware-block-selection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/coinbase-dependency-aware-block-selection)|🆕 Sep 28, 2026|
-|**Confluent**|[Sudoku Board Validation](https://www.fastprep.io/problems/confluent-sudoku-board-validation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/confluent-sudoku-board-validation)|🆕 Sep 28, 2026|
 |**Confluent**|[Word Search Across Documents](https://www.fastprep.io/problems/confluent-word-search-across-documents)|Coding|[![Practice][p]](https://www.fastprep.io/problems/confluent-word-search-across-documents)|🆕 Sep 28, 2026|
 |**IBM**|[Count Triplets Within a Value Range](https://www.fastprep.io/problems/ibm-bounded-range-triplet-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-bounded-range-triplet-count)|🆕 Sep 28, 2026|
 |**IBM**|[Count Active Employee Access Grants](https://www.fastprep.io/problems/ibm-employee-access-expiration)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-employee-access-expiration)|🆕 Sep 28, 2026|
@@ -1689,6 +1691,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**JPMorgan Chase**|[Top K Frequent Values Across Key-Partitioned Shards](https://www.fastprep.io/problems/jpmorgan-chase-top-k-frequent-values-distributed)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-chase-top-k-frequent-values-distributed)|Sep 01, 2026|
 |**Mercor**|[Shortest Path in a Grid with Obstacles Elimination](https://www.fastprep.io/problems/mercor-shortest-path-in-grid-with-obstacles-elimination)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mercor-shortest-path-in-grid-with-obstacles-elimination)|Sep 01, 2026|
 |**Microsoft**|[Arithmetic Expression Evaluator](https://www.fastprep.io/problems/microsoft-arithmetic-expression-evaluator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-arithmetic-expression-evaluator)|Sep 01, 2026|
-|**Microsoft**|[Employee Hierarchy Cycle and Depth Analysis](https://www.fastprep.io/problems/microsoft-employee-hierarchy-cycle-and-depth)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-employee-hierarchy-cycle-and-depth)|Sep 01, 2026|
-|**Microsoft**|[Most Visited String Sectors](https://www.fastprep.io/problems/microsoft-most-visited-string-sectors)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-most-visited-string-sectors)|Sep 01, 2026|
 <a id="bottom"></a>
