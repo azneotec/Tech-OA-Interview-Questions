@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**ZipRecruiter**|[Apply Bounded Health Deltas](https://www.fastprep.io/problems/ziprecruiter-bounded-health-deltas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-bounded-health-deltas)|Sep 18, 2024|
+|**ZipRecruiter**|[Earliest Common Meeting Time](https://www.fastprep.io/problems/ziprecruiter-earliest-common-meeting-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-earliest-common-meeting-time)|Sep 18, 2024|
 |**Odoo**|[Employees Joined per Month](https://www.fastprep.io/problems/odoo-employees-joined-per-month)|SQL|[![Practice][p]](https://www.fastprep.io/problems/odoo-employees-joined-per-month)|Sep 17, 2024|
 |**Odoo**|[Evaluate a Python Integer Expression](https://www.fastprep.io/problems/odoo-evaluate-python-integer-expression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/odoo-evaluate-python-integer-expression)|Sep 17, 2024|
 |**MathWorks**|[Has Vowels](https://www.fastprep.io/problems/mathwork-has-vowels)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathwork-has-vowels)|Sep 17, 2024|

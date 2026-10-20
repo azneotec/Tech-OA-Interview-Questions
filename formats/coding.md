@@ -135,6 +135,7 @@
 |**Anthropic**|[Banking System, Part 1: Accounts and Transfers](https://www.fastprep.io/problems/anthropic-banking-system-part-1)|[![Practice][p]](https://www.fastprep.io/problems/anthropic-banking-system-part-1)|🔥 Oct 13, 2026|
 |**Anthropic**|[Recover a Function-Call LRU Cache with a Write-Ahead Log](https://www.fastprep.io/problems/anthropic-function-call-lru-cache-with-wal)|[![Practice][p]](https://www.fastprep.io/problems/anthropic-function-call-lru-cache-with-wal)|🔥 Oct 13, 2026|
 |**Lyft**|[Deterministic K-Means Assignments](https://www.fastprep.io/problems/lyft-deterministic-k-means-assignments)|[![Practice][p]](https://www.fastprep.io/problems/lyft-deterministic-k-means-assignments)|🔥 Oct 13, 2026|
+|**Confluent**|[Sudoku Board Validation](https://www.fastprep.io/problems/confluent-sudoku-board-validation)|[![Practice][p]](https://www.fastprep.io/problems/confluent-sudoku-board-validation)|🔥 Oct 13, 2026|
 |**Perplexity AI**|[In-Memory Filesystem Commands](https://www.fastprep.io/problems/perplexity-ai-in-memory-filesystem-commands)|[![Practice][p]](https://www.fastprep.io/problems/perplexity-ai-in-memory-filesystem-commands)|🔥 Oct 12, 2026|
 |**Pinterest**|[Minimum Bus Routes to a Destination](https://www.fastprep.io/problems/pinterest-minimum-bus-routes)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-minimum-bus-routes)|🔥 Oct 12, 2026|
 |**Stripe**|[Financial Account Ledger](https://www.fastprep.io/problems/stripe-financial-account-ledger)|[![Practice][p]](https://www.fastprep.io/problems/stripe-financial-account-ledger)|🔥 Oct 12, 2026|
@@ -483,7 +484,6 @@
 |**Amazon**|[Longest Content Window with Bounded Labels](https://www.fastprep.io/problems/amazon-streaming-content-label-window)|[![Practice][p]](https://www.fastprep.io/problems/amazon-streaming-content-label-window)|🆕 Sep 28, 2026|
 |**ByteDance**|[Spiral Matrix Traversal](https://www.fastprep.io/problems/bytedance-spiral-matrix-traversal)|[![Practice][p]](https://www.fastprep.io/problems/bytedance-spiral-matrix-traversal)|🆕 Sep 28, 2026|
 |**Coinbase**|[Select a Fee-Maximizing Dependency-Closed Block](https://www.fastprep.io/problems/coinbase-dependency-aware-block-selection)|[![Practice][p]](https://www.fastprep.io/problems/coinbase-dependency-aware-block-selection)|🆕 Sep 28, 2026|
-|**Confluent**|[Sudoku Board Validation](https://www.fastprep.io/problems/confluent-sudoku-board-validation)|[![Practice][p]](https://www.fastprep.io/problems/confluent-sudoku-board-validation)|🆕 Sep 28, 2026|
 |**Confluent**|[Word Search Across Documents](https://www.fastprep.io/problems/confluent-word-search-across-documents)|[![Practice][p]](https://www.fastprep.io/problems/confluent-word-search-across-documents)|🆕 Sep 28, 2026|
 |**IBM**|[Count Triplets Within a Value Range](https://www.fastprep.io/problems/ibm-bounded-range-triplet-count)|[![Practice][p]](https://www.fastprep.io/problems/ibm-bounded-range-triplet-count)|🆕 Sep 28, 2026|
 |**IBM**|[Count Active Employee Access Grants](https://www.fastprep.io/problems/ibm-employee-access-expiration)|[![Practice][p]](https://www.fastprep.io/problems/ibm-employee-access-expiration)|🆕 Sep 28, 2026|
