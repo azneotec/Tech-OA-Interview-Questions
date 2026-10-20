@@ -9,6 +9,15 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Sliding Window Maximum](https://www.fastprep.io/problems/amazon-sliding-window-maximum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-sliding-window-maximum)|Sep 03, 2026|
+|**Roblox**|[Rate Limiter Sliding Window With Per-Entity Limits](https://www.fastprep.io/problems/roblox-rate-limiter-sliding-window-per-entity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-rate-limiter-sliding-window-per-entity)|Sep 02, 2026|
+|**DoorDash**|[Build a Dasher Payout Service](https://www.fastprep.io/project-coding/doordash-dasher-payout-service)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-dasher-payout-service)|Sep 02, 2026|
+|**Rivian**|[Design Autonomous-Vehicle Sensor Health and Diagnostics](https://www.fastprep.io/system-design/autonomous-vehicle-sensor-health-diagnostics)|System design|[![Practice][p]](https://www.fastprep.io/system-design/autonomous-vehicle-sensor-health-diagnostics)|Sep 02, 2026|
+|**DRW**|[Shortest Path Around Rectangular Obstacles](https://www.fastprep.io/problems/drw-shortest-path-rectangular-obstacles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/drw-shortest-path-rectangular-obstacles)|Sep 02, 2026|
+|**Amazon**|[Minimum Adjacent Swaps to Group Binary Values](https://www.fastprep.io/problems/amazon-minimum-adjacent-swaps-binary-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-adjacent-swaps-binary-groups)|Sep 02, 2026|
+|**ByteDance**|[Weighted Round-Robin Seller Task Scheduler](https://www.fastprep.io/problems/bytedance-weighted-round-robin-seller-scheduler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-weighted-round-robin-seller-scheduler)|Sep 02, 2026|
+|**Google**|[Most-Frequent Next-Word Predictor](https://www.fastprep.io/problems/google-most-frequent-next-word-predictor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-most-frequent-next-word-predictor)|Sep 02, 2026|
+|**Google**|[Shortest Path Node Count Avoiding Broken Nodes](https://www.fastprep.io/problems/google-shortest-path-node-count-avoiding-broken-nodes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-shortest-path-node-count-avoiding-broken-nodes)|Sep 02, 2026|
 |**Reddit**|[Billing Log with Undo and Redo](https://www.fastprep.io/problems/reddit-billing-log-undo-redo)|Coding|[![Practice][p]](https://www.fastprep.io/problems/reddit-billing-log-undo-redo)|Sep 02, 2026|
 |**Salesforce**|[Implement Merge Sort](https://www.fastprep.io/problems/salesforce-merge-sort)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-merge-sort)|Sep 02, 2026|
 |**Salesforce**|[Sorted Doubly Linked List to Balanced BST In Place](https://www.fastprep.io/problems/salesforce-sorted-doubly-linked-list-to-balanced-bst)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-sorted-doubly-linked-list-to-balanced-bst)|Sep 02, 2026|
@@ -1768,14 +1777,4 @@
 |**Salesforce**|[Schedule Batch Difference](https://www.fastprep.io/problems/salesforce-schedule-batch-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-schedule-batch-difference)|Sep 19, 2024|
 |**Akuna**|[Get Probability](https://www.fastprep.io/problems/akuna-get-probability)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-get-probability)|Sep 19, 2024|
 |**Stripe**|[For All Intents And Purposes Part 1 - Initilizing the System](https://www.fastprep.io/problems/stripe-for-all-intents-and-purposes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-for-all-intents-and-purposes)|Sep 19, 2024|
-|**Stripe**|[For All Intents And Purposes Part 2 - Change Is Good!](https://www.fastprep.io/problems/stripe-for-all-intents-and-purposes-part2)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-for-all-intents-and-purposes-part2)|Sep 19, 2024|
-|**Stripe**|[For All Intents And Purposes Part 3 - Accepting Failure](https://www.fastprep.io/problems/stripe-for-all-intents-and-purposes-part3)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-for-all-intents-and-purposes-part3)|Sep 19, 2024|
-|**Stripe**|[For All Intents And Purposes Part 3 - Timing Matters](https://www.fastprep.io/problems/stripe-for-all-intents-and-purposes-part4)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-for-all-intents-and-purposes-part4)|Sep 19, 2024|
-|**TikTok**|[Viral Content Balancer](https://www.fastprep.io/problems/tiktok-viral-content-balancer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-viral-content-balancer)|Sep 19, 2024|
-|**TikTok**|[Distribute Credits](https://www.fastprep.io/problems/tiktok-can-distribute-credits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-can-distribute-credits)|Sep 19, 2024|
-|**LinkedIn**|[First Occurence](https://www.fastprep.io/problems/linkedin-first-occurrence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-first-occurrence)|Sep 19, 2024|
-|**IBM**|[Process Logs](https://www.fastprep.io/problems/ibm-process-logs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-process-logs)|Sep 19, 2024|
-|**IBM**|[Is Convertible Data](https://www.fastprep.io/problems/ibm-is-convertible-data)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-is-convertible-data)|Sep 19, 2024|
-|**Rubrik**|[Key Sum Management](https://www.fastprep.io/problems/rubrik-key-sum-management)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-key-sum-management)|Sep 19, 2024|
-|**Rubrik**|[Unaligned Dedupe](https://www.fastprep.io/problems/rubrik-unaligned-dedupe)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-unaligned-dedupe)|Sep 19, 2024|
 <a id="bottom"></a>
