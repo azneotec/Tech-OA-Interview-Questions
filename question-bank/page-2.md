@@ -9,7 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Microsoft**|[Most Visited String Sectors](https://www.fastprep.io/problems/microsoft-most-visited-string-sectors)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-most-visited-string-sectors)|Sep 01, 2026|
 |**IMC Trading**|[Design Heterogeneous Compute Workload Allocation](https://www.fastprep.io/system-design/heterogeneous-compute-workload-allocation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/heterogeneous-compute-workload-allocation)|Sep 01, 2026|
 |**Google**|[Design a Bookshelf with Reading Progress](https://www.fastprep.io/low-level-design/bookshelf-reading-progress)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/bookshelf-reading-progress)|Sep 01, 2026|
 |**Akuna Capital**|[Minimum Swaps](https://www.fastprep.io/problems/akuna-minimum-swaps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-minimum-swaps)|Sep 01, 2026|
@@ -1782,4 +1781,5 @@
 |**ZoloStays**|[Trapping Rain Water](https://www.fastprep.io/problems/zolostays-trapping-rain-water)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zolostays-trapping-rain-water)|Sep 19, 2024|
 |**ZipRecruiter**|[Lamps and Control Points](https://www.fastprep.io/problems/ziprecruiter-lamp-and-control-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-lamp-and-control-points)|Sep 18, 2024|
 |**ZipRecruiter**|[Apply Bounded Health Deltas](https://www.fastprep.io/problems/ziprecruiter-bounded-health-deltas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-bounded-health-deltas)|Sep 18, 2024|
+|**ZipRecruiter**|[Earliest Common Meeting Time](https://www.fastprep.io/problems/ziprecruiter-earliest-common-meeting-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-earliest-common-meeting-time)|Sep 18, 2024|
 <a id="bottom"></a>
