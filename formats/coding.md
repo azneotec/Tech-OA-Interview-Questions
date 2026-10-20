@@ -2,12 +2,27 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,722 questions**
+**3,737 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Dell Technologies**|[Find All Pythagorean Triplets](https://www.fastprep.io/problems/dell-pythagorean-triplets)|[![Practice][p]](https://www.fastprep.io/problems/dell-pythagorean-triplets)|🔥 Oct 20, 2026|
+|**Dell Technologies**|[First Non-Repeated Character](https://www.fastprep.io/problems/dell-first-non-repeated-character)|[![Practice][p]](https://www.fastprep.io/problems/dell-first-non-repeated-character)|🔥 Oct 20, 2026|
+|**Qualys**|[Find the Entry of a Linked-List Cycle](https://www.fastprep.io/problems/qualys-linked-list-cycle-entry)|[![Practice][p]](https://www.fastprep.io/problems/qualys-linked-list-cycle-entry)|🔥 Oct 20, 2026|
+|**Qualys**|[Valid Parentheses](https://www.fastprep.io/problems/qualys-valid-parentheses)|[![Practice][p]](https://www.fastprep.io/problems/qualys-valid-parentheses)|🔥 Oct 20, 2026|
+|**Qualys**|[Rotate an Array Right by K Steps](https://www.fastprep.io/problems/qualys-rotate-array)|[![Practice][p]](https://www.fastprep.io/problems/qualys-rotate-array)|🔥 Oct 20, 2026|
+|**Qualys**|[Delete a Doubly Linked-List Node at a Position](https://www.fastprep.io/problems/qualys-doubly-linked-list-delete-at-position)|[![Practice][p]](https://www.fastprep.io/problems/qualys-doubly-linked-list-delete-at-position)|🔥 Oct 20, 2026|
+|**Qualys**|[Insert a Doubly Linked-List Node at a Position](https://www.fastprep.io/problems/qualys-doubly-linked-list-insert-at-position)|[![Practice][p]](https://www.fastprep.io/problems/qualys-doubly-linked-list-insert-at-position)|🔥 Oct 20, 2026|
+|**Qualys**|[Implement Binary Search](https://www.fastprep.io/problems/qualys-binary-search)|[![Practice][p]](https://www.fastprep.io/problems/qualys-binary-search)|🔥 Oct 20, 2026|
+|**Chubb**|[Minimize the Maximum Array Element](https://www.fastprep.io/problems/chubb-minimize-maximum-array-element)|[![Practice][p]](https://www.fastprep.io/problems/chubb-minimize-maximum-array-element)|🔥 Oct 19, 2026|
+|**Chubb**|[Maximize Revenue from Selling Items](https://www.fastprep.io/problems/chubb-maximize-revenue-from-selling-items)|[![Practice][p]](https://www.fastprep.io/problems/chubb-maximize-revenue-from-selling-items)|🔥 Oct 19, 2026|
+|**Chubb**|[Minimize the Sum of Prefix Costs](https://www.fastprep.io/problems/chubb-minimum-distinct-prefix-cost)|[![Practice][p]](https://www.fastprep.io/problems/chubb-minimum-distinct-prefix-cost)|🔥 Oct 19, 2026|
+|**Chubb**|[Count Valid Pairs](https://www.fastprep.io/problems/chubb-count-valid-divisible-interval-pairs)|[![Practice][p]](https://www.fastprep.io/problems/chubb-count-valid-divisible-interval-pairs)|🔥 Oct 19, 2026|
+|**Chubb**|[Maximum Element After Rotations](https://www.fastprep.io/problems/chubb-max-element-indexes-after-rotations)|[![Practice][p]](https://www.fastprep.io/problems/chubb-max-element-indexes-after-rotations)|🔥 Oct 19, 2026|
+|**Chubb**|[Reverse a Linked List](https://www.fastprep.io/problems/chubb-reverse-linked-list)|[![Practice][p]](https://www.fastprep.io/problems/chubb-reverse-linked-list)|🔥 Oct 19, 2026|
+|**Chubb**|[Unique Element Among Pairs](https://www.fastprep.io/problems/chubb-unique-element-among-pairs)|[![Practice][p]](https://www.fastprep.io/problems/chubb-unique-element-among-pairs)|🔥 Oct 19, 2026|
 |**Amazon**|[Binary Tree Spiral Level Order](https://www.fastprep.io/problems/amazon-binary-tree-spiral-level-order)|[![Practice][p]](https://www.fastprep.io/problems/amazon-binary-tree-spiral-level-order)|🔥 Oct 18, 2026|
 |**Amazon**|[Number of Islands](https://www.fastprep.io/problems/amazon-number-of-islands)|[![Practice][p]](https://www.fastprep.io/problems/amazon-number-of-islands)|🔥 Oct 18, 2026|
 |**Amazon**|[Minimum Cost of Left and Right Propagation](https://www.fastprep.io/problems/amazon-minimum-left-right-propagation-cost)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-left-right-propagation-cost)|🔥 Oct 18, 2026|
@@ -1808,20 +1823,4 @@
 |**Scale AI**|[Free Windows Between Busy Intervals](https://www.fastprep.io/problems/scale-ai-free-windows-between-busy-intervals)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-free-windows-between-busy-intervals)|Apr 13, 2026|
 |**Scale AI**|[Free Time for Every Meeting Room](https://www.fastprep.io/problems/scale-ai-meeting-room-free-intervals)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-meeting-room-free-intervals)|Apr 13, 2026|
 |**Scale AI**|[Order Queries by Shortest Processing Time](https://www.fastprep.io/problems/scale-ai-shortest-query-processing-order)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-shortest-query-processing-order)|Apr 13, 2026|
-|**Stripe**|[Merge and Filter Prioritized Configurations](https://www.fastprep.io/problems/stripe-prioritized-configuration-merger)|[![Practice][p]](https://www.fastprep.io/problems/stripe-prioritized-configuration-merger)|Apr 11, 2026|
-|**Superhuman**|[Lost Messages](https://www.fastprep.io/problems/superhuman-lost-messages)|[![Practice][p]](https://www.fastprep.io/problems/superhuman-lost-messages)|Apr 10, 2026|
-|**Superhuman**|[Optimal Transfer](https://www.fastprep.io/problems/superhuman-optimal-transfer)|[![Practice][p]](https://www.fastprep.io/problems/superhuman-optimal-transfer)|Apr 10, 2026|
-|**Superhuman**|[Math Homework](https://www.fastprep.io/problems/superhuman-math-homework)|[![Practice][p]](https://www.fastprep.io/problems/superhuman-math-homework)|Apr 10, 2026|
-|**Stripe**|[Payment Ledger with Refunds and Date Queries](https://www.fastprep.io/problems/stripe-payment-ledger)|[![Practice][p]](https://www.fastprep.io/problems/stripe-payment-ledger)|Apr 10, 2026|
-|**Amazon**|[Dynamic Kth Largest Queries](https://www.fastprep.io/problems/amazon-dynamic-kth-largest-queries)|[![Practice][p]](https://www.fastprep.io/problems/amazon-dynamic-kth-largest-queries)|Apr 09, 2026|
-|**Amazon**|[Longest Zero Sum Subarray](https://www.fastprep.io/problems/amazon-longest-zero-sum-subarray)|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-zero-sum-subarray)|Apr 09, 2026|
-|**Amazon**|[Maximize Minimum Machine Power](https://www.fastprep.io/problems/amazon-maximize-minimum-machine-power)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-minimum-machine-power)|Apr 09, 2026|
-|**Uber**|[Balanced Permutation Subarrays](https://www.fastprep.io/problems/uber-balanced-permutation-subarrays)|[![Practice][p]](https://www.fastprep.io/problems/uber-balanced-permutation-subarrays)|Apr 09, 2026|
-|**Uber**|[Maximum Comfortable Riders](https://www.fastprep.io/problems/uber-maximum-comfortable-riders)|[![Practice][p]](https://www.fastprep.io/problems/uber-maximum-comfortable-riders)|Apr 09, 2026|
-|**Uber**|[Palindrome Path Queries in a Tree](https://www.fastprep.io/problems/uber-palindrome-path-queries)|[![Practice][p]](https://www.fastprep.io/problems/uber-palindrome-path-queries)|Apr 09, 2026|
-|**Headlands Technologies**|[Gradient Descent on a Sinusoidal Objective](https://www.fastprep.io/problems/headlands-gradient-descent-sinusoidal-objective)|[![Practice][p]](https://www.fastprep.io/problems/headlands-gradient-descent-sinusoidal-objective)|Apr 09, 2026|
-|**Headlands Technologies**|[Pearson Correlation Coefficient](https://www.fastprep.io/problems/headlands-pearson-correlation)|[![Practice][p]](https://www.fastprep.io/problems/headlands-pearson-correlation)|Apr 09, 2026|
-|**Headlands Technologies**|[Top K Frequent Elements](https://www.fastprep.io/problems/headlands-top-k-frequent-elements)|[![Practice][p]](https://www.fastprep.io/problems/headlands-top-k-frequent-elements)|Apr 09, 2026|
-|**Modular**|[Critical Path Through Dependent Tasks](https://www.fastprep.io/problems/modular-critical-path-schedule)|[![Practice][p]](https://www.fastprep.io/problems/modular-critical-path-schedule)|Apr 08, 2026|
-|**Notion**|[DAG Downstream Nodes](https://www.fastprep.io/problems/notion-dag-downstream-nodes)|[![Practice][p]](https://www.fastprep.io/problems/notion-dag-downstream-nodes)|Apr 08, 2026|
 <a id="bottom"></a>

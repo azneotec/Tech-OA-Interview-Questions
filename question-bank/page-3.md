@@ -9,6 +9,27 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Rubrik**|[Bitonic Partitioning](https://www.fastprep.io/problems/rubrik-bitonic-partitioning)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-bitonic-partitioning)|Sep 19, 2024|
+|**Rubrik**|[Chain Merge](https://www.fastprep.io/problems/rubrik-chain-merge)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-chain-merge)|Sep 19, 2024|
+|**Rubrik**|[The Oracle](https://www.fastprep.io/problems/rubrik-the-oracle)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-the-oracle)|Sep 19, 2024|
+|**Rubrik**|[Redistribute Megasseds](https://www.fastprep.io/problems/rubrik-redistribute-megaseeds)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-redistribute-megaseeds)|Sep 19, 2024|
+|**Rubrik**|[Anti Aging Serum](https://www.fastprep.io/problems/rubrik-anti-aging-serum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-anti-aging-serum)|Sep 19, 2024|
+|**Rubrik**|[Save the Universe](https://www.fastprep.io/problems/rubrik-save-the-universe)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-save-the-universe)|Sep 19, 2024|
+|**Microsoft**|[Check Path Presence](https://www.fastprep.io/problems/microsoft-check-path-presence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-check-path-presence)|Sep 19, 2024|
+|**Oracle**|[Create Largest Permutation](https://www.fastprep.io/problems/oracle-create-lexicographically-largest-permutation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-create-lexicographically-largest-permutation)|Sep 19, 2024|
+|**ZipRecruiter**|[Coder Writing](https://www.fastprep.io/problems/ziprecruiter-coder-writing)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-coder-writing)|Sep 19, 2024|
+|**Cisco**|[Add Numbers](https://www.fastprep.io/problems/cisco-add-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-add-numbers)|Sep 19, 2024|
+|**Cisco**|[Expand Given String](https://www.fastprep.io/problems/cisco-expand-given-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-expand-given-string)|Sep 19, 2024|
+|**Cisco**|[Create New Version](https://www.fastprep.io/problems/cisco-create-new-version)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-create-new-version)|Sep 19, 2024|
+|**BNP**|[Largest Good](https://www.fastprep.io/problems/bnp-largest-good)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bnp-largest-good)|Sep 19, 2024|
+|**Accenture**|[Smallest Number Greater Thank K](https://www.fastprep.io/problems/accenture-smallest-number-greater-than-k)|Coding|[![Practice][p]](https://www.fastprep.io/problems/accenture-smallest-number-greater-than-k)|Sep 19, 2024|
+|**FactSet**|[Last Stone Weight](https://www.fastprep.io/problems/factset-last-stone-weight)|Coding|[![Practice][p]](https://www.fastprep.io/problems/factset-last-stone-weight)|Sep 19, 2024|
+|**FactSet**|[Largest Square of Ones](https://www.fastprep.io/problems/factset-largest-square-of-1s)|Coding|[![Practice][p]](https://www.fastprep.io/problems/factset-largest-square-of-1s)|Sep 19, 2024|
+|**FactSet**|[Phone Album](https://www.fastprep.io/problems/factset-photo-album)|Coding|[![Practice][p]](https://www.fastprep.io/problems/factset-photo-album)|Sep 19, 2024|
+|**IMC**|[Max Sub Square Matrix Sum Less Than K](https://www.fastprep.io/problems/imc-maximum-sub-square-matrix-sum-less-than-k)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-maximum-sub-square-matrix-sum-less-than-k)|Sep 19, 2024|
+|**ZoloStays**|[Range Sum](https://www.fastprep.io/problems/zolostays-range-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zolostays-range-sum)|Sep 19, 2024|
+|**ZoloStays**|[Trapping Rain Water](https://www.fastprep.io/problems/zolostays-trapping-rain-water)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zolostays-trapping-rain-water)|Sep 19, 2024|
+|**ZipRecruiter**|[Lamps and Control Points](https://www.fastprep.io/problems/ziprecruiter-lamp-and-control-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-lamp-and-control-points)|Sep 18, 2024|
 |**ZipRecruiter**|[Apply Bounded Health Deltas](https://www.fastprep.io/problems/ziprecruiter-bounded-health-deltas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-bounded-health-deltas)|Sep 18, 2024|
 |**ZipRecruiter**|[Earliest Common Meeting Time](https://www.fastprep.io/problems/ziprecruiter-earliest-common-meeting-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-earliest-common-meeting-time)|Sep 18, 2024|
 |**Odoo**|[Employees Joined per Month](https://www.fastprep.io/problems/odoo-employees-joined-per-month)|SQL|[![Practice][p]](https://www.fastprep.io/problems/odoo-employees-joined-per-month)|Sep 17, 2024|
