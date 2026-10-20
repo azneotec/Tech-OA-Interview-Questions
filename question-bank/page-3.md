@@ -9,6 +9,16 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Stripe**|[For All Intents And Purposes Part 2 - Change Is Good!](https://www.fastprep.io/problems/stripe-for-all-intents-and-purposes-part2)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-for-all-intents-and-purposes-part2)|Sep 19, 2024|
+|**Stripe**|[For All Intents And Purposes Part 3 - Accepting Failure](https://www.fastprep.io/problems/stripe-for-all-intents-and-purposes-part3)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-for-all-intents-and-purposes-part3)|Sep 19, 2024|
+|**Stripe**|[For All Intents And Purposes Part 3 - Timing Matters](https://www.fastprep.io/problems/stripe-for-all-intents-and-purposes-part4)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-for-all-intents-and-purposes-part4)|Sep 19, 2024|
+|**TikTok**|[Viral Content Balancer](https://www.fastprep.io/problems/tiktok-viral-content-balancer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-viral-content-balancer)|Sep 19, 2024|
+|**TikTok**|[Distribute Credits](https://www.fastprep.io/problems/tiktok-can-distribute-credits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-can-distribute-credits)|Sep 19, 2024|
+|**LinkedIn**|[First Occurence](https://www.fastprep.io/problems/linkedin-first-occurrence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-first-occurrence)|Sep 19, 2024|
+|**IBM**|[Process Logs](https://www.fastprep.io/problems/ibm-process-logs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-process-logs)|Sep 19, 2024|
+|**IBM**|[Is Convertible Data](https://www.fastprep.io/problems/ibm-is-convertible-data)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-is-convertible-data)|Sep 19, 2024|
+|**Rubrik**|[Key Sum Management](https://www.fastprep.io/problems/rubrik-key-sum-management)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-key-sum-management)|Sep 19, 2024|
+|**Rubrik**|[Unaligned Dedupe](https://www.fastprep.io/problems/rubrik-unaligned-dedupe)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-unaligned-dedupe)|Sep 19, 2024|
 |**Rubrik**|[Bitonic Partitioning](https://www.fastprep.io/problems/rubrik-bitonic-partitioning)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-bitonic-partitioning)|Sep 19, 2024|
 |**Rubrik**|[Chain Merge](https://www.fastprep.io/problems/rubrik-chain-merge)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-chain-merge)|Sep 19, 2024|
 |**Rubrik**|[The Oracle](https://www.fastprep.io/problems/rubrik-the-oracle)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-the-oracle)|Sep 19, 2024|
