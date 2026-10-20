@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**78 questions**
+**80 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Dell Technologies**|[Departments Without Employees](https://www.fastprep.io/problems/dell-departments-without-employees)|[![Practice][p]](https://www.fastprep.io/problems/dell-departments-without-employees)|🔥 Oct 20, 2026|
+|**Chubb**|[Second-Highest Salary](https://www.fastprep.io/problems/chubb-second-highest-salary)|[![Practice][p]](https://www.fastprep.io/problems/chubb-second-highest-salary)|🔥 Oct 19, 2026|
 |**McKinsey & Company**|[Weekend Appointments for Consular Services Rescheduling](https://www.fastprep.io/problems/mckinsey-weekend-appointments)|[![Practice][p]](https://www.fastprep.io/problems/mckinsey-weekend-appointments)|🔥 Oct 15, 2026|
 |**Salesforce**|[Find Rows Common to Two Tables](https://www.fastprep.io/problems/salesforce-intersection-of-two-tables)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-intersection-of-two-tables)|🔥 Oct 14, 2026|
 |**Hartford Financial Services**|[Second Highest Salary](https://www.fastprep.io/problems/hartford-second-highest-salary)|[![Practice][p]](https://www.fastprep.io/problems/hartford-second-highest-salary)|🔥 Oct 08, 2026|

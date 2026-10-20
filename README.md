@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,722)](formats/coding.md) · [SQL (78)](formats/sql.md) · [System design (608)](formats/system-design.md) · [Low-level design (180)](formats/low-level-design.md) · [AI coding (92)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,737)](formats/coding.md) · [SQL (80)](formats/sql.md) · [System design (608)](formats/system-design.md) · [Low-level design (180)](formats/low-level-design.md) · [AI coding (92)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -33,7 +33,24 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <!-- question-pages:end -->
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Dell Technologies**|[Departments Without Employees](https://www.fastprep.io/problems/dell-departments-without-employees)|SQL|[![Practice][p]](https://www.fastprep.io/problems/dell-departments-without-employees)|🔥 Oct 20, 2026|
+|**Dell Technologies**|[Find All Pythagorean Triplets](https://www.fastprep.io/problems/dell-pythagorean-triplets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/dell-pythagorean-triplets)|🔥 Oct 20, 2026|
+|**Dell Technologies**|[First Non-Repeated Character](https://www.fastprep.io/problems/dell-first-non-repeated-character)|Coding|[![Practice][p]](https://www.fastprep.io/problems/dell-first-non-repeated-character)|🔥 Oct 20, 2026|
+|**Qualys**|[Find the Entry of a Linked-List Cycle](https://www.fastprep.io/problems/qualys-linked-list-cycle-entry)|Coding|[![Practice][p]](https://www.fastprep.io/problems/qualys-linked-list-cycle-entry)|🔥 Oct 20, 2026|
+|**Qualys**|[Valid Parentheses](https://www.fastprep.io/problems/qualys-valid-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/qualys-valid-parentheses)|🔥 Oct 20, 2026|
+|**Qualys**|[Rotate an Array Right by K Steps](https://www.fastprep.io/problems/qualys-rotate-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/qualys-rotate-array)|🔥 Oct 20, 2026|
+|**Qualys**|[Delete a Doubly Linked-List Node at a Position](https://www.fastprep.io/problems/qualys-doubly-linked-list-delete-at-position)|Coding|[![Practice][p]](https://www.fastprep.io/problems/qualys-doubly-linked-list-delete-at-position)|🔥 Oct 20, 2026|
+|**Qualys**|[Insert a Doubly Linked-List Node at a Position](https://www.fastprep.io/problems/qualys-doubly-linked-list-insert-at-position)|Coding|[![Practice][p]](https://www.fastprep.io/problems/qualys-doubly-linked-list-insert-at-position)|🔥 Oct 20, 2026|
+|**Qualys**|[Implement Binary Search](https://www.fastprep.io/problems/qualys-binary-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/qualys-binary-search)|🔥 Oct 20, 2026|
 |**Stripe**|[Colander Debugging Mock: Repair Error Aggregation](https://www.fastprep.io/project-coding/mock-stripe-colander-aggregation)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/mock-stripe-colander-aggregation)|🔥 Oct 20, 2026|
+|**Chubb**|[Minimize the Maximum Array Element](https://www.fastprep.io/problems/chubb-minimize-maximum-array-element)|Coding|[![Practice][p]](https://www.fastprep.io/problems/chubb-minimize-maximum-array-element)|🔥 Oct 19, 2026|
+|**Chubb**|[Maximize Revenue from Selling Items](https://www.fastprep.io/problems/chubb-maximize-revenue-from-selling-items)|Coding|[![Practice][p]](https://www.fastprep.io/problems/chubb-maximize-revenue-from-selling-items)|🔥 Oct 19, 2026|
+|**Chubb**|[Minimize the Sum of Prefix Costs](https://www.fastprep.io/problems/chubb-minimum-distinct-prefix-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/chubb-minimum-distinct-prefix-cost)|🔥 Oct 19, 2026|
+|**Chubb**|[Count Valid Pairs](https://www.fastprep.io/problems/chubb-count-valid-divisible-interval-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/chubb-count-valid-divisible-interval-pairs)|🔥 Oct 19, 2026|
+|**Chubb**|[Maximum Element After Rotations](https://www.fastprep.io/problems/chubb-max-element-indexes-after-rotations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/chubb-max-element-indexes-after-rotations)|🔥 Oct 19, 2026|
+|**Chubb**|[Second-Highest Salary](https://www.fastprep.io/problems/chubb-second-highest-salary)|SQL|[![Practice][p]](https://www.fastprep.io/problems/chubb-second-highest-salary)|🔥 Oct 19, 2026|
+|**Chubb**|[Reverse a Linked List](https://www.fastprep.io/problems/chubb-reverse-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/chubb-reverse-linked-list)|🔥 Oct 19, 2026|
+|**Chubb**|[Unique Element Among Pairs](https://www.fastprep.io/problems/chubb-unique-element-among-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/chubb-unique-element-among-pairs)|🔥 Oct 19, 2026|
 |**Snowflake**|[Declarative Cluster Control Plane](https://www.fastprep.io/system-design/declarative-cluster-control-plane)|System design|[![Practice][p]](https://www.fastprep.io/system-design/declarative-cluster-control-plane)|🔥 Oct 19, 2026|
 |**Snowflake**|[Design a Resilient Third-Party Token Client](https://www.fastprep.io/system-design/resilient-third-party-token-client)|System design|[![Practice][p]](https://www.fastprep.io/system-design/resilient-third-party-token-client)|🔥 Oct 19, 2026|
 |**Snowflake**|[Design a Shared User Quota Authority](https://www.fastprep.io/system-design/shared-user-quota-authority)|System design|[![Practice][p]](https://www.fastprep.io/system-design/shared-user-quota-authority)|🔥 Oct 19, 2026|
@@ -1674,21 +1691,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**ByteDance**|[Weighted Round-Robin Seller Task Scheduler](https://www.fastprep.io/problems/bytedance-weighted-round-robin-seller-scheduler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-weighted-round-robin-seller-scheduler)|Sep 02, 2026|
 |**Google**|[Most-Frequent Next-Word Predictor](https://www.fastprep.io/problems/google-most-frequent-next-word-predictor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-most-frequent-next-word-predictor)|Sep 02, 2026|
 |**Google**|[Shortest Path Node Count Avoiding Broken Nodes](https://www.fastprep.io/problems/google-shortest-path-node-count-avoiding-broken-nodes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-shortest-path-node-count-avoiding-broken-nodes)|Sep 02, 2026|
-|**Reddit**|[Billing Log with Undo and Redo](https://www.fastprep.io/problems/reddit-billing-log-undo-redo)|Coding|[![Practice][p]](https://www.fastprep.io/problems/reddit-billing-log-undo-redo)|Sep 02, 2026|
-|**Salesforce**|[Implement Merge Sort](https://www.fastprep.io/problems/salesforce-merge-sort)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-merge-sort)|Sep 02, 2026|
-|**Salesforce**|[Sorted Doubly Linked List to Balanced BST In Place](https://www.fastprep.io/problems/salesforce-sorted-doubly-linked-list-to-balanced-bst)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-sorted-doubly-linked-list-to-balanced-bst)|Sep 02, 2026|
-|**Salesforce**|[Top K Frequent Elements After Each Stream Update](https://www.fastprep.io/problems/salesforce-streaming-top-k-frequent-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-streaming-top-k-frequent-elements)|Sep 02, 2026|
-|**Uber**|[Find File Paths in a Directory Tree](https://www.fastprep.io/problems/uber-find-file-paths-in-directory-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-find-file-paths-in-directory-tree)|Sep 02, 2026|
-|**Verkada**|[Common Camera Motion Intervals](https://www.fastprep.io/problems/verkada-common-camera-motion-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/verkada-common-camera-motion-intervals)|Sep 02, 2026|
-|**ByteDance**|[Alien Dictionary](https://www.fastprep.io/problems/bytedance-alien-dictionary)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-alien-dictionary)|Sep 02, 2026|
-|**ByteDance**|[Minimum Removals for Non-Overlapping Intervals](https://www.fastprep.io/problems/bytedance-minimum-interval-removals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-minimum-interval-removals)|Sep 02, 2026|
-|**IMC Trading**|[Pro-Rata Order Book](https://www.fastprep.io/problems/imc-pro-rata-order-book)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-pro-rata-order-book)|Sep 02, 2026|
-|**Airbnb**|[Progressive Banking System with Cashback](https://www.fastprep.io/problems/airbnb-progressive-banking-system-with-cashback)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-progressive-banking-system-with-cashback)|Sep 01, 2026|
-|**Goldman Sachs**|[Maximize Element Frequency](https://www.fastprep.io/problems/goldman-sachs-maximize-element-frequency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-maximize-element-frequency)|Sep 01, 2026|
-|**Goldman Sachs**|[Notification Deduplication Window](https://www.fastprep.io/problems/goldman-sachs-notification-deduplication)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-notification-deduplication)|Sep 01, 2026|
-|**Amazon**|[Maximum Frequency Stack](https://www.fastprep.io/problems/amazon-maximum-frequency-stack)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-frequency-stack)|Sep 01, 2026|
-|**Goldman Sachs**|[The Maze](https://www.fastprep.io/problems/goldman-sachs-the-maze)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-the-maze)|Sep 01, 2026|
-|**JPMorgan Chase**|[Top K Frequent Values Across Key-Partitioned Shards](https://www.fastprep.io/problems/jpmorgan-chase-top-k-frequent-values-distributed)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-chase-top-k-frequent-values-distributed)|Sep 01, 2026|
-|**Mercor**|[Shortest Path in a Grid with Obstacles Elimination](https://www.fastprep.io/problems/mercor-shortest-path-in-grid-with-obstacles-elimination)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mercor-shortest-path-in-grid-with-obstacles-elimination)|Sep 01, 2026|
-|**Microsoft**|[Arithmetic Expression Evaluator](https://www.fastprep.io/problems/microsoft-arithmetic-expression-evaluator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-arithmetic-expression-evaluator)|Sep 01, 2026|
 <a id="bottom"></a>
