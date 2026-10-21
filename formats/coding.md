@@ -2,12 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,747 questions**
+**3,750 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Google**|[Robot Assembly Line Conflicts](https://www.fastprep.io/problems/google-robot-assembly-line-conflicts)|[![Practice][p]](https://www.fastprep.io/problems/google-robot-assembly-line-conflicts)|🔥 Oct 20, 2026|
+|**Amazon**|[Climbing Stairs](https://www.fastprep.io/problems/amazon-climbing-stairs)|[![Practice][p]](https://www.fastprep.io/problems/amazon-climbing-stairs)|🔥 Oct 20, 2026|
+|**Google**|[Periodic-Color Binary Forest Roots](https://www.fastprep.io/problems/google-periodic-color-binary-forest-roots)|[![Practice][p]](https://www.fastprep.io/problems/google-periodic-color-binary-forest-roots)|🔥 Oct 20, 2026|
 |**Dell Technologies**|[Find All Pythagorean Triplets](https://www.fastprep.io/problems/dell-pythagorean-triplets)|[![Practice][p]](https://www.fastprep.io/problems/dell-pythagorean-triplets)|🔥 Oct 20, 2026|
 |**Dell Technologies**|[First Non-Repeated Character](https://www.fastprep.io/problems/dell-first-non-repeated-character)|[![Practice][p]](https://www.fastprep.io/problems/dell-first-non-repeated-character)|🔥 Oct 20, 2026|
 |**Qualys**|[Find the Entry of a Linked-List Cycle](https://www.fastprep.io/problems/qualys-linked-list-cycle-entry)|[![Practice][p]](https://www.fastprep.io/problems/qualys-linked-list-cycle-entry)|🔥 Oct 20, 2026|
@@ -16,6 +19,8 @@
 |**Qualys**|[Delete a Doubly Linked-List Node at a Position](https://www.fastprep.io/problems/qualys-doubly-linked-list-delete-at-position)|[![Practice][p]](https://www.fastprep.io/problems/qualys-doubly-linked-list-delete-at-position)|🔥 Oct 20, 2026|
 |**Qualys**|[Insert a Doubly Linked-List Node at a Position](https://www.fastprep.io/problems/qualys-doubly-linked-list-insert-at-position)|[![Practice][p]](https://www.fastprep.io/problems/qualys-doubly-linked-list-insert-at-position)|🔥 Oct 20, 2026|
 |**Qualys**|[Implement Binary Search](https://www.fastprep.io/problems/qualys-binary-search)|[![Practice][p]](https://www.fastprep.io/problems/qualys-binary-search)|🔥 Oct 20, 2026|
+|**Amazon**|[Aggressive Cows](https://www.fastprep.io/problems/amazon-aggressive-cows)|[![Practice][p]](https://www.fastprep.io/problems/amazon-aggressive-cows)|🔥 Oct 20, 2026|
+|**Amazon**|[Course Schedule II](https://www.fastprep.io/problems/amazon-course-schedule-ii)|[![Practice][p]](https://www.fastprep.io/problems/amazon-course-schedule-ii)|🔥 Oct 20, 2026|
 |**Chubb**|[Minimize the Maximum Array Element](https://www.fastprep.io/problems/chubb-minimize-maximum-array-element)|[![Practice][p]](https://www.fastprep.io/problems/chubb-minimize-maximum-array-element)|🔥 Oct 19, 2026|
 |**Chubb**|[Maximize Revenue from Selling Items](https://www.fastprep.io/problems/chubb-maximize-revenue-from-selling-items)|[![Practice][p]](https://www.fastprep.io/problems/chubb-maximize-revenue-from-selling-items)|🔥 Oct 19, 2026|
 |**Chubb**|[Minimize the Sum of Prefix Costs](https://www.fastprep.io/problems/chubb-minimum-distinct-prefix-cost)|[![Practice][p]](https://www.fastprep.io/problems/chubb-minimum-distinct-prefix-cost)|🔥 Oct 19, 2026|
@@ -965,11 +970,9 @@
 |**Amazon**|[Next Palindromic Time](https://www.fastprep.io/problems/amazon-next-palindromic-time)|[![Practice][p]](https://www.fastprep.io/problems/amazon-next-palindromic-time)|🆕 Sep 13, 2026|
 |**Amazon**|[Kth Smallest Sum from Sorted Matrix Rows](https://www.fastprep.io/problems/amazon-kth-smallest-row-sum)|[![Practice][p]](https://www.fastprep.io/problems/amazon-kth-smallest-row-sum)|🆕 Sep 13, 2026|
 |**Amazon**|[Meeting Room Scheduler](https://www.fastprep.io/problems/amazon-meeting-room-scheduler)|[![Practice][p]](https://www.fastprep.io/problems/amazon-meeting-room-scheduler)|🆕 Sep 13, 2026|
-|**Amazon**|[Aggressive Cows](https://www.fastprep.io/problems/amazon-aggressive-cows)|[![Practice][p]](https://www.fastprep.io/problems/amazon-aggressive-cows)|🆕 Sep 13, 2026|
 |**Amazon**|[E-commerce Notification Router](https://www.fastprep.io/problems/amazon-ecommerce-notification-router)|[![Practice][p]](https://www.fastprep.io/problems/amazon-ecommerce-notification-router)|🆕 Sep 13, 2026|
 |**Amazon**|[Unique String Permutations](https://www.fastprep.io/problems/amazon-unique-string-permutations)|[![Practice][p]](https://www.fastprep.io/problems/amazon-unique-string-permutations)|🆕 Sep 13, 2026|
 |**Amazon**|[Three Sum Closest](https://www.fastprep.io/problems/amazon-three-sum-closest)|[![Practice][p]](https://www.fastprep.io/problems/amazon-three-sum-closest)|🆕 Sep 13, 2026|
-|**Amazon**|[Course Schedule II](https://www.fastprep.io/problems/amazon-course-schedule-ii)|[![Practice][p]](https://www.fastprep.io/problems/amazon-course-schedule-ii)|🆕 Sep 13, 2026|
 |**Amazon**|[Product of Array Except Self](https://www.fastprep.io/problems/amazon-product-array-except-self)|[![Practice][p]](https://www.fastprep.io/problems/amazon-product-array-except-self)|🆕 Sep 13, 2026|
 |**Amazon**|[Maximum Sum BST in a Binary Tree](https://www.fastprep.io/problems/amazon-maximum-sum-bst)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-sum-bst)|🆕 Sep 13, 2026|
 |**Amazon**|[Initial and Final Accounts in a Transfer Chain](https://www.fastprep.io/problems/amazon-transfer-chain-endpoints)|[![Practice][p]](https://www.fastprep.io/problems/amazon-transfer-chain-endpoints)|🆕 Sep 13, 2026|
@@ -1820,7 +1823,4 @@
 |**IBM**|[Count Power Products in Range](https://www.fastprep.io/problems/ibm-count-power-products-in-range)|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-power-products-in-range)|Apr 26, 2026|
 |**IBM**|[Count Descending Subarrays](https://www.fastprep.io/problems/ibm-count-descending-subarrays)|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-descending-subarrays)|Apr 26, 2026|
 |**Amazon**|[Count Similar String Groups](https://www.fastprep.io/problems/amazon-count-similar-string-groups)|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-similar-string-groups)|Apr 25, 2026|
-|**Uber**|[Balanced Prefix Sets in a Permutation](https://www.fastprep.io/problems/uber-balanced-prefix-sets-in-permutation)|[![Practice][p]](https://www.fastprep.io/problems/uber-balanced-prefix-sets-in-permutation)|Apr 25, 2026|
-|**Uber**|[Minimum Edge Reversals to Root a Tree](https://www.fastprep.io/problems/uber-minimum-edge-reversals-root)|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-edge-reversals-root)|Apr 25, 2026|
-|**Duolingo**|[Rank Word-Translation Hints from Sentence Translations](https://www.fastprep.io/problems/duolingo-rank-translation-hints)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-rank-translation-hints)|Apr 21, 2026|
 <a id="bottom"></a>
